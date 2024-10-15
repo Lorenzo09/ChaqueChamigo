@@ -1,0 +1,525 @@
+gid,nom_barrio,esquina,calle,calle2,suj-column,nro_artef,sem-artef,sem-arte_2,sem-arte_3,sem-arte_4,sem-arte_5,sem-arte_6,artef_camb,viscera,lampcambio,led,tipo led,suj-soport,de-cargado,de-bateria,de-cabl al,de_cam s_n,c-estado,lng,lat
+1,NULL,1,AV. 3 DE ABRIL,AV. COSTANERA GRAL. SAN MARTIN,"con pescante 5,5m.",3,1*300+2*200,3*200,"3*200
+","giro 200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.85552953758024,-27.473426354255377
+2,NULL,2,AV. 3 DE ABRIL,AV. COSTANERA GRAL. SAN MARTIN,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,simple,24V,no,bueno,no,bueno,-58.85571163324892,-27.473398499140977
+3,NULL,3,AV. 3 DE ABRIL,AV. COSTANERA GRAL. SAN MARTIN,"con pescante 5,5m.",4,1*300+2*200,3*200,"3*200
+","giro 200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.8554793043475,-27.473166372627034
+4,NULL,4,AV. 3 DE ABRIL,CHACO,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.84738546549483,-27.47452569674081
+5,NULL,5,AV. 3 DE ABRIL,CHACO,"con pescante 5,5m.",2,3*300,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.8472954642125,-27.474419848196984
+6,NULL,6,AV. 3 DE ABRIL,CHACO,"con pescante 5,5m.",2,3*300,3*300,ninguno,ninguno,ninguno,ninguno,no,ningu,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84742104748218,-27.474211864854663
+7,NULL,7,AV. 3 DE ABRIL,CHACO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,"peatonal
+",ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.847412675299935,-27.474076304054847
+8,NULL,8,AV. 3 DE ABRIL,ENTRE RIOS,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84481292198117,-27.47487354321314
+9,NULL,9,AV. 3 DE ABRIL,ENTRE RIOS,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.84469149176214,-27.474891570579675
+10,NULL,10,AV. 3 DE ABRIL,ENTRE RIOS,"con pescante 5,5m.",2,3*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84466449567867,-27.47473553598448
+11,NULL,11,AV. 3 DE ABRIL,ENTRE RIOS,"con pescante 5,5m.",2,3*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84492044629034,-27.474530179578334
+12,NULL,12,AV. 3 DE ABRIL,ENTRE RIOS,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84486222952627,-27.474410443392845
+13,NULL,13,AV. 3 DE ABRIL,SAN LUIS,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.843454105496185,-27.47504599257042
+14,NULL,14,AV. 3 DE ABRIL,SAN LUIS,"con pescante 5,5m.",2,1*300+2*200,"2*200
+",ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84341210202591,-27.474908169106065
+15,NULL,15,AV. 3 DE ABRIL,SAN LUIS,baja recta 3m.,1,giro 200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84375081792408,-27.474851822944952
+16,NULL,16,AV. 3 DE ABRIL,SAN LUIS,"con pescante 5,5m.",2,3*300,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84367407764517,-27.47468982737149
+17,NULL,17,AV. 3 DE ABRIL,SAN LUIS,"con pescante 5,5m.",1,1*300+2*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84361586088166,-27.474567743593468
+18,NULL,18,AV. 3 DE ABRIL,TUCUMAN,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84227250318954,-27.475190514390075
+19,NULL,19,AV. 3 DE ABRIL,TUCUMAN,"con pescante 5,5m.",2,3*300,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.842130009461975,-27.474975079967745
+20,NULL,20,AV. 3 DE ABRIL,TUCUMAN,"con pescante 5,5m.",2,3*300,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84232318337169,-27.474946906912397
+21,NULL,21,AV. 3 DE ABRIL,TUCUMAN,"con pescante 5,5m.",2,3*200,1*300+2*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.842267612848474,-27.47473091295683
+22,NULL,22,AV. 3 DE ABRIL,BUENOS AIRES,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.84114531948292,-27.475340809136245
+23,NULL,23,AV. 3 DE ABRIL,BUENOS AIRES,"con pescante 5,5m.",2,3*200,3*300,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84108475336047,-27.475188725482614
+24,NULL,24,AV. 3 DE ABRIL,BUENOS AIRES,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.84122235673239,-27.475005600636777
+25,NULL,25,AV. 3 DE ABRIL,BUENOS AIRES,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.841201187021014,-27.474874126177998
+26,NULL,26,AV. 3 DE ABRIL,SALTA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.8396822578247,-27.475505671390586
+27,NULL,27,AV. 3 DE ABRIL,SALTA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.839557885581286,-27.47552445333386
+28,NULL,28,AV. 3 DE ABRIL,SALTA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83953406965094,-27.47539767499054
+29,NULL,29,AV. 3 DE ABRIL,SALTA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83976429065598,-27.475179334219956
+30,NULL,30,AV. 3 DE ABRIL,SALTA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83971136632817,-27.475057250985348
+31,NULL,31,AV. 3 DE ABRIL,LA RIOJA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.838930434667155,-27.47561784289294
+32,NULL,32,AV. 3 DE ABRIL,LA RIOJA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83886722273278,-27.475482193772574
+33,NULL,33,AV. 3 DE ABRIL,LA RIOJA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83910273617295,-27.475266200921663
+34,NULL,34,AV. 3 DE ABRIL,LA RIOJA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83892808581903,-27.475165247542055
+35,NULL,35,AV. 3 DE ABRIL,SAN JUAN,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83758909944269,-27.47577096597871
+36,NULL,36,AV. 3 DE ABRIL,SAN JUAN,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.837374755842895,-27.475578451056066
+37,NULL,37,AV. 3 DE ABRIL,SAN JUAN,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83762879276369,-27.475547930421424
+38,NULL,38,AV. 3 DE ABRIL,SAN JUAN,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83756792980644,-27.475324894393577
+39,NULL,39,AV. 3 DE ABRIL,MENDOZA,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.83636390054491,-27.475911830080538
+40,NULL,40,AV. 3 DE ABRIL,MENDOZA,"con pescante 5,5m.",3,3*200,3*300,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83633214595708,-27.475801486360982
+41,NULL,41,AV. 3 DE ABRIL,MENDOZA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83632685354324,-27.475709924471296
+42,NULL,42,AV. 3 DE ABRIL,MENDOZA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.836549135870605,-27.475592537365397
+43,NULL,43,AV. 3 DE ABRIL,MENDOZA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83649091910652,-27.47547280233437
+44,NULL,44,AV. 3 DE ABRIL,CORDOBA,"con pescante 5,5m.",4,1*300+2*200,3*200,"3*200
+","1*300+2*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.83534246042492,-27.476038607633644
+45,NULL,45,AV. 3 DE ABRIL,CORDOBA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.83530276718296,-27.475930611776594
+46,NULL,46,AV. 3 DE ABRIL,CORDOBA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.8354350781242,-27.47572635849261
+47,NULL,47,AV. 3 DE ABRIL,CORDOBA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83541920084401,-27.4756136668466
+48,NULL,48,AV. 3 DE ABRIL,SAN LORENZO,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.83258774755838,-27.47639780993519
+49,NULL,49,AV. 3 DE ABRIL,SAN LORENZO,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.8325983324595,-27.476273380333115
+50,NULL,50,AV. 3 DE ABRIL,SAN LORENZO,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83272667407393,-27.476069127683786
+51,NULL,51,AV. 3 DE ABRIL,SAN LORENZO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83271873544953,-27.475947045443668
+52,NULL,52,AV. 3 DE ABRIL,SANTA FE,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83149750576764,-27.476552759604733
+53,NULL,53,AV. 3 DE ABRIL,SANTA FE,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.83136519487856,-27.476538673236202
+54,NULL,54,AV. 3 DE ABRIL,SANTA FE,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83128316215102,-27.476430677861302
+55,NULL,55,AV. 3 DE ABRIL,SANTA FE,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83150809071554,-27.476232294848547
+56,NULL,56,AV. 3 DE ABRIL,SANTA FE,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83145384327821,-27.47611256051359
+57,NULL,57,AV. 3 DE ABRIL,ESPAÑA,"con pescante 5,5m.",5,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.83005994788115,-27.47672062145213
+58,NULL,58,AV. 3 DE ABRIL,ESPAÑA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83001496220588,-27.476602648441638
+59,NULL,60,AV. 3 DE ABRIL,ESPAÑA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83003083955822,-27.47641306967448
+60,NULL,61,AV. 3 DE ABRIL,ESPAÑA,"con pescante 5,5m.",2,3*300,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83023856766552,-27.47638724471687
+61,NULL,61,AV. 3 DE ABRIL,ESPAÑA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.8301552118299,-27.47627572759886
+62,NULL,62,AV. 3 DE ABRIL,JUJUY,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.82870442274506,-27.476900808570882
+63,NULL,63,AV. 3 DE ABRIL,JUJUY,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.82868060681691,-27.476764640934753
+64,NULL,65,AV. 3 DE ABRIL,JUJUY,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.8288195333002,-27.47657095395385
+65,NULL,65,AV. 3 DE ABRIL,JUJUY,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.82880100980495,-27.476446524541778
+66,NULL,66,AV. 3 DE ABRIL,JUJUY,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.82865811403663,-27.47646530632117
+67,NULL,67,AV. 3 DE ABRIL,PARAGUAY,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.82740248352703,-27.477053409779813
+68,NULL,68,AV. 3 DE ABRIL,PARAGUAY,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.827366759636476,-27.476842115392937
+69,NULL,69,AV. 3 DE ABRIL,PARAGUAY,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.82757316463541,-27.47681394281749
+70,NULL,70,AV. 3 DE ABRIL,PARAGUAY,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,ningu,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.827520240329704,-27.476599126383967
+522,CENTRO,NULL,HIPOLITO IRIGOYEN,MENDOZA,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.835568936397344,-27.46861283191026
+71,NULL,71,AV. 3 DE ABRIL,BRASIL,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.82493753152805,-27.477358611590063
+72,NULL,72,AV. 3 DE ABRIL,BRASIL,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.82487402232713,-27.477243573895546
+73,NULL,73,AV. 3 DE ABRIL,BRASIL,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.82514393657683,-27.477121493009555
+74,NULL,74,AV. 3 DE ABRIL,BRASIL,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.825128059292695,-27.477025236787536
+75,NULL,75,AV. 3 DE ABRIL,BRASIL,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.82508042739719,-27.47691724189616
+76,NULL,76,AV. 3 DE ABRIL,ROCA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.82358796038546,-27.47752529837504
+77,NULL,77,AV. 3 DE ABRIL,ROCA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,ningu,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.823585314195604,-27.477407913160615
+78,NULL,78,AV. 3 DE ABRIL,ROCA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.82372291757078,-27.477210705745772
+79,NULL,79,AV. 3 DE ABRIL,ROCA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.82369380920581,-27.477079233916882
+80,NULL,80,AV. 3 DE ABRIL,ROCA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.823558852088794,-27.477107406438066
+81,NULL,81,AV. 3 DE ABRIL,AV. ARTIGAS,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.81993617964514,-27.477983098821387
+82,NULL,82,AV. 3 DE ABRIL,AV. ARMENIA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.8199203023694,-27.477851627916728
+83,NULL,83,AV. 3 DE ABRIL,AV. ARTIGAS,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.81984885455521,-27.477567556312053
+84,NULL,84,AV. 3 DE ABRIL,AV. ARTIGAS,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.819597463854,-27.47759103328316
+85,NULL,85,AV. 3 DE ABRIL,AV. ARTIGAS,"con pescante 5,5m.",3,3*200,3*300,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.81961740690712,-27.477921728385912
+86,NULL,86,AV. 3 DE ABRIL,AV. ARTIGAS,"con pescante 5,5m.",3,3*200,3*300,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,si,bueno,no,bueno,-58.81965303432693,-27.478018314161123
+87,NULL,87,AV. PEDRO FERRE,CHILE,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.81717617434881,-27.478319991767304
+88,NULL,88,AV. PEDRO FERRE,CHILE,"con pescante 5,5m.",3,3*300,3*200,"3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.817174851268426,-27.47820025971126
+89,NULL,89,AV. PEDRO FERRE,CHILE,"con pescante 5,5m.",3,3*200,"2*200
+","3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.8172886386583,-27.478106352147087
+90,NULL,90,AV. PEDRO FERRE,CHILE,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.8172714382669,-27.47800305370705
+91,NULL,91,AV. PEDRO FERRE,CHILE,baja recta 3m.,2,1*300+2*200,1*300+2*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.81712721941515,-27.477915015162765
+92,NULL,92,AV. INDEPENDENCIA,AV. CHACABUCO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.814871318530734,-27.478618147059233
+93,NULL,93,AV. INDEPENDENCIA,AV. CHACABUCO,"con pescante 5,5m.",4,3*200,3*300,2*200,2*200,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.81485808749298,-27.47840216030905
+94,NULL,94,AV. INDEPENDENCIA,AV. CHACABUCO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.814746946391416,-27.478200259249604
+95,NULL,95,AV. INDEPENDENCIA,AV. CHACABUCO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.814577588343916,-27.47864162379843
+97,NULL,97,AV. INDEPENDENCIA,AV. CHACABUCO,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.81453222090392,-27.478438774008108
+98,NULL,98,AV. INDEPENDENCIA,REPUBLICA DOMINICANA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.81142065035632,-27.479036032606025
+99,NULL,99,AV. INDEPENDENCIA,REPUBLICA DOMINICANA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.811185136959935,-27.479068899948153
+100,NULL,100,AV. INDEPENDENCIA,REPUBLICA DOMINICANA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.81107664205444,-27.478958559376103
+101,NULL,101,AV. INDEPENDENCIA,REPUBLICA DOMINICANA,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.81147092856984,-27.478723791952266
+102,NULL,102,AV. INDEPENDENCIA,REPUBLICA DOMINICANA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.811317447958096,-27.4786251894246
+103,NULL,103,AV. INDEPENDENCIA,JUAN JOSE CASTELLI,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.80973236331961,-27.479242627125696
+104,NULL,104,AV. INDEPENDENCIA,JUAN JOSE CASTELLI,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.809637099501664,-27.479139329736274
+105,NULL,105,AV. INDEPENDENCIA,JUAN JOSE CASTELLI,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.809978461657835,-27.47891395338178
+106,NULL,106,AV. INDEPENDENCIA,JUAN JOSE CASTELLI,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.80983556592252,-27.478794221944504
+107,NULL,107,AV. INDEPENDENCIA,JUAN JOSE CASTELLI,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.80966356175509,-27.478824741695494
+108,NULL,108,AV. INDEPENDENCIA,GUEMES,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.80763391250357,-27.47950321739367
+109,NULL,109,AV. INDEPENDENCIA,GUEMES,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.80746190834229,-27.479507912682696
+110,NULL,110,AV. INDEPENDENCIA,GUEMES,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.80732959747221,-27.479414006186552
+111,NULL,111,AV. INDEPENDENCIA,GUEMES,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.80769212936946,-27.479195673400532
+112,NULL,112,AV. INDEPENDENCIA,GUEMES,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.80755981850164,-27.479092375960086
+113,NULL,113,AV. INDEPENDENCIA,TACUARI,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.806273756490235,-27.479667553274755
+114,NULL,114,AV. INDEPENDENCIA,TACUARI,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.8061335069683,-27.479566603934853
+115,NULL,115,AV. INDEPENDENCIA,TACUARI,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.806511916175445,-27.47933653313274
+116,NULL,116,AV. INDEPENDENCIA,TACUARI,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.806366374219486,-27.47922854048852
+117,NULL,117,AV. INDEPENDENCIA,TACUARI,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.806215539796504,-27.47925201712476
+118,NULL,118,AV. INDEPENDENCIA,LAS PIEDRAS,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.80061349617589,-27.481080832876252
+119,NULL,119,AV. INDEPENDENCIA,LAS PIEDRAS,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.800438845786736,-27.48112778537826
+120,NULL,120,AV. INDEPENDENCIA,LAS PIEDRAS,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.800327704664475,-27.481012751610745
+121,NULL,121,AV. INDEPENDENCIA,LAS PIEDRAS,"con pescante 5,5m.",3,3*200,3*200,"2*300
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.80066112817984,-27.480733383503633
+122,NULL,122,AV. INDEPENDENCIA,LAS PIEDRAS,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.80052617108747,-27.480658259143365
+123,NULL,123,AV. INDEPENDENCIA,MEDRANO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.79827688565662,-27.48174990416945
+124,NULL,124,AV. INDEPENDENCIA,MEDRANO,"con pescante 5,5m.",3,3*200,3*300,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.79816309831148,-27.48165599958812
+125,NULL,125,AV. INDEPENDENCIA,MEDRANO,"con pescante 5,5m.",2,3*200,"2*200
+",ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.79847799829965,-27.481386023592307
+126,NULL,126,AV. INDEPENDENCIA,MEDRANO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.798369503394134,-27.48127568534127
+127,NULL,127,AV. INDEPENDENCIA,MEDRANO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.7982181224753,-27.481331672535624
+128,NULL,128,AV. INDEPENDENCIA,GASCON,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.79524431979532,-27.48262086457314
+129,NULL,129,AV. INDEPENDENCIA,GASCON,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.7950537921287,-27.482543393893625
+130,NULL,130,AV. INDEPENDENCIA,GASCON,"con pescante 5,5m.",130,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.795331645064735,-27.48228281047275
+131,NULL,131,AV. INDEPENDENCIA,GASCON,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.79511200899787,-27.482221772771712
+132,NULL,132,AV. INDEPENDENCIA,PAIUBRE,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.793849762892776,-27.483026997397182
+133,NULL,133,AV. INDEPENDENCIA,PAIUBRE,baja recta 3m.,2,1*300+2*200,1*300+2*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.79376243769708,-27.483055168406356
+134,NULL,134,AV. INDEPENDENCIA,PAIUBRE,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.79352957054042,-27.48299647871732
+135,NULL,135,AV. INDEPENDENCIA,PAIUBRE,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.79396355031943,-27.482778153045434
+136,NULL,136,AV. INDEPENDENCIA,PAIUBRE,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.79368569747945,-27.482634949843927
+137,NULL,137,AV. INDEPENDENCIA,GODOY CRUZ,baja recta 3m.,2,1*300+2*200,1*300+2*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.78976929475009,-27.483956636669124
+138,NULL,138,AV. INDEPENDENCIA,GODOY CRUZ,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.78960258302398,-27.48396367933524
+139,NULL,139,AV. INDEPENDENCIA,GODOY CRUZ,"con pescante 5,5m.",2,3*300,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.78957876708847,-27.4838580388186
+523,APIPE,NULL,AV. EVA PERON ,AV. JUAN R. FERNANDEZ,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.78659413707169,-27.46136478697261
+511,DEPORTES,NULL,PLACIDO MARTINEZ,LA RIOJA,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.8375975182119,-27.461726656536573
+140,NULL,140,AV. INDEPENDENCIA,GODOY CRUZ,"con pescante 5,5m.",3,3*200,3*300,"2*300
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.78984603514303,-27.483639714822974
+141,NULL,141,AV. INDEPENDENCIA,GODOY CRUZ,"con pescante 5,5m.",1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,ningu,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.789740186451986,-27.483543464279517
+142,NULL,142,AV. INDEPENDENCIA,SANCHEZ DE BUSTAMANTE,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.78814848629255,-27.48406462434388
+143,NULL,143,AV. INDEPENDENCIA,SANCHES DE BUSTAMANTE,"con pescante 5,5m.",3,3*300,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.78808100776562,-27.48394607230253
+144,NULL,144,AV. INDEPENDENCIA,SANCHEZ DE BUSTAMANTE,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.788349598925464,-27.483743007691025
+145,NULL,145,AV. INDEPENDENCIA,SANCHES DE BUSTAMANTE,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.788307259465014,-27.48363736695924
+146,NULL,146,AV. INDEPENDENCIA,SANCHES DE BUSTAMANTE,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.78812202421313,-27.483647931001137
+147,NULL,147,RUTA PROVINCIAL N° 5,JUAN ROMERO,baja recta 3m.,1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.77709777559363,-27.485108525463428
+148,NULL,148,RUTA PROVINCIAL N° 5,JUAN ROMERO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.777092587883814,-27.48507876508605
+149,NULL,149,RUTA PROVINCIAL N° 5,JUAN ROMERO,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,ningu,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.77708200309714,-27.484721938115555
+150,NULL,150,RUTA PROVINCIAL N° 5,JUAN ROMERO,"con pescante 5,5m.",2,1*300+2*200,1*300+2*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.776880326848186,-27.485155805260728
+151,NULL,151,RUTA PROVINCIAL N° 5,CONSEJAL JAIME VIUDES,baja recta 3m.,1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.7758727016864,-27.48529448606764
+152,NULL,152,RUTA PROVINCIAL N° 5,CONSEJAL JAIME VIUDES,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.77586738897749,-27.485259525443567
+153,NULL,153,RUTA PROVINCIAL N° 5,CONSEJAL JAIME VIUDES,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.77580123361491,-27.484907394139732
+154,NULL,154,PLACIDO MARTINEZ,SALTA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,-58.83871043764601,-27.461705342695186
+155,NULL,155,PLACIDO MARTINEZ,SALTA,baja recta 3m.,1,1*300+2*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.8386886063682,-27.46162374826867
+156,NULL,156,PLACIDO MARTINEZ,SALTA,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,24V,no,bueno,no,bueno,-58.83868728328197,-27.461528652534493
+158,NULL,158,CARLOS PELLEGRINI,LA RIOJA,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83786331633933,-27.465127557804912
+160,NULL,160,CARLOS PELLEGRINI,SAN JUAN,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83656633876599,-27.465332124008405
+164,NULL,164,CARLOS PELLEGRINI,MENDOZA,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.835372894512226,-27.4653435700999
+166,NULL,166,CARLOS PELLEGRINI,CORDOBA,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83413115673939,-27.46553639612134
+170,NULL,170,CARLOS PELLEGRINI,CATAMARCA,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83284046397254,-27.465577485141708
+172,NULL,172,CARLOS PELLEGRINI,SAN LORENZO,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83155175583197,-27.465774126169435
+193,NULL,193,PEATONAL JUNIN,SALTA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83907511819029,-27.467374392968093
+245,NULL,245,AV. GDOR. JUAN PUJOL,PARAGUAY,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","3*200
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.82603918841301,-27.463546041578827
+246,NULL,246,AV. GDOR. JUAN PUJOL,PARAGUAY,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.825922754807394,-27.46363056955517
+247,NULL,247,AV. GDOR. JUAN PUJOL,ITUZAINGO,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.8188128108593,-27.469801474929557
+248,NULL,248,GDOR. DR. JUAN E. MARTINEZ,AV. GDOR. JUAN PUJOL,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.818572883330255,-27.469485735290885
+249,NULL,249,AV. ARTIGAS,H. IRIGOYEN,baja recta 3m.,3,2*200,3*300,"3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81855700583123,-27.470291053240086
+250,NULL,250,AYACUCHO,AV. ARTIGAS,baja recta 3m.,1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81826724497007,-27.47031834702138
+251,NULL,251,AYACUCHO,AV. ARTIGAS,baja recta 3m.,1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81856425865264,-27.470447026214284
+252,NULL,252,AYACUCHO,AV. ARTIGAS,baja recta 3m.,1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.818330754158474,-27.47048621865172
+253,NULL,253,ALMIRANTE BROWN,AV. ARTIGAS,baja recta 3m.,2,3*200,"2*200
+",ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81918085087713,-27.473699795767487
+254,NULL,254,ALMIRANTE BROWN,AV. ARTIGAS,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81920731302598,-27.473824228283128
+255,NULL,255,ALMIRANTE BROWN,AV. ARTIGAS,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.8189612147877,-27.473732664704578
+256,NULL,256,AV. GDOR. RUIZ,COCOMAROLA,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81792722219185,-27.46702459332999
+257,NULL,257,AV. GDOR. RUIZ,SANTIAGO DEL ESTERO,baja recta 3m.,2,3*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.818030978033235,-27.466842790250638
+258,NULL,258,AV. ARMENIA,ESTADOS UNIDOS,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.812925193389184,-27.4673564851208
+259,NULL,259,AV. ARMENIA,ESTADOS UNIDOS,"con pescante 5,5m.",3,1*300+2*200,3*200,"3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81293048577624,-27.46756075394542
+260,NULL,260,AV. ARMENIA,CHACABUCO,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.811870675592935,-27.46728369938667
+261,NULL,261,AV. ARMENIA,CHACABUCO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81188390663802,-27.467469185010962
+262,NULL,262,AV. ARMENIA,AMADO BOMPLAND,"con pescante 5,5m.",6,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","3*200
+","giro 200
+",no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.809812579708485,-27.467077668715515
+263,NULL,263,AV. ARMENIA,AMADO BOMPLAND,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.8097993485706,-27.467281938053365
+264,NULL,264,AV. ARMENIA,AMBROSETTI,"con pescante 5,5m.",3,1*300+2*200,3*200,"3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.809274074382394,-27.46705008048396
+265,NULL,265,AV. ARMENIA,FELIX DE AZARA,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80888209558423,-27.46726677918003
+266,NULL,266,AV. ARMENIA,19 DE mayo,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80510694262718,-27.467868328943734
+267,NULL,267,AV. ARMENIA,19 DE mayo,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.8048873065724,-27.467755629222882
+268,NULL,268,AV. ARMENIA,20 DE mayo,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80373223239353,-27.468090205852018
+269,NULL,269,AV. ARMENIA,20 DE mayo,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80383014242291,-27.46825221111979
+270,NULL,270,AV. ARMENIA,EL CEIBO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.79814447073771,-27.468641338669872
+271,NULL,271,AV. ARMENIA,EL CEIBO,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","3*200
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.79821107015873,-27.46884799543314
+272,NULL,272,AV. ARMENIA,QUINQUELA MARTIN,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.79011989152666,-27.46664775959318
+273,NULL,273,AV. ARMENIA,QUINQUELA MARTIN,"con pescante 5,5m.",6,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","3*200
+","2*200
+",no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.79013550155325,-27.466792156345118
+274,NULL,274,AV. LIBERTAD,AV. LAPRIDA NARCISO,"con pescante 5,5m.",6,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","2*200
+","2*200
+",no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.78691810168645,-27.465851042668557
+275,NULL,275,AV. LIBERTAD,AV. LAPRIDA NARCISO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.78685667725237,-27.46607047228962
+276,NULL,276,AV. LIBERTAD,D. ROCHA,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.7841062590397,-27.465248733352542
+277,NULL,277,AV. LIBERTAD,D. ROCHA,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.78388405769512,-27.465186571400228
+278,NULL,278,AV. CHACABUCO,AYACUCHO,alumbrado público,1,1*300+2*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81275276984139,-27.471201554719425
+279,NULL,279,AV. CHACABUCO,AYACUCHO,con pescante 4m.,2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81257547707747,-27.471094634871413
+280,NULL,280,AV. CHACABUCO,AYACUCHO,"con pescante 5,5m.",1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81264347292791,-27.471286319800523
+281,NULL,281,AV. CHACABUCO,AYACUCHO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81260830788226,-27.47122520182468
+286,NULL,286,AV. POMAR,AV. POMAR,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80578283675281,-27.470525682466263
+287,NULL,287,AV. POMAR,AV. POMAR,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","2*200
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80554331754035,-27.470664333591532
+288,NULL,288,PDTE. DR. RAUL RICARDO ALFONSIN,TACUARI,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80532047863516,-27.472779480040863
+289,NULL,289,PDTE. DR. RAUL RICARDO ALFONSIN,TACUARI,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80518214042818,-27.473036102041696
+290,NULL,290,PDTE. DR. RAUL RICARDO ALFONSIN,MEDRANO,baja recta 3m.,2,3*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.79721879061502,-27.475001557140185
+291,NULL,291,PDTE. DR. RAUL RICARDO ALFONSIN,M. A. ACEVEDO,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.79733964145463,-27.475181173778683
+297,NULL,297,AV. CHACABUCO,LUIS BRAILLE,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81431598304366,-27.476672024016906
+298,NULL,298,AV. CHACABUCO,LUIS BRAILLE,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","2*200
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.814083573034104,-27.476681440828678
+299,NULL,299,LAS HERAS,AV. JOSE R. VIDAL,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81540280365317,-27.482910370637885
+300,NULL,300,LAS HERAS,AV. JOSE R. VIDAL,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81567659466713,-27.483028322047783
+301,NULL,301,LAS HERAS,AV. JOSE R. VIDAL,baja recta 3m.,1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.815425203970825,-27.483030669585837
+302,NULL,302,AV. CAZADORES CORRENTINOS,AV. JOSE R. VIDAL,baja recta 3m.,1,2*300,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.816298454996804,-27.48665645618116
+303,NULL,303,AV. CAZADORES CORRENTINOS,AV. JUAN R. VIDAL,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"1*300+2*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81619657560511,-27.48667523622757
+304,NULL,304,AV. CAZADORES CORRENTINOS,AV. JOSE R. VIDAL,"con pescante 5,5m.",1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.816078818909126,-27.48668227872903
+305,NULL,305,AV. CAZADORES CORRENTINOS,GUEMES,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80830820023468,-27.48651090904849
+306,NULL,306,AV. CAZADORES CORRENTINOS,GUEMES,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80821558256883,-27.486683450992246
+307,NULL,307,AV. CAZADORES CORRENTINOS,TACUARI,baja recta 3m.,2,3*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.807546089523946,-27.486385316966302
+308,NULL,308,AV. CAZADORES CORRENTINOS,TACUARI,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80733703832308,-27.486346582935678
+309,NULL,209,AV. PTE. NICOLAS AVELLANEDA,TACUARI,baja recta 3m.,2,3*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.807358208027274,-27.48650856135692
+310,NULL,310,AV. CAZADORES CORRENTINOS,LAS PIEDRAS,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80142538745856,-27.487140039034045
+311,NULL,311,AV. PTE. NICOLAS AVELLANEDA,LAS PIEDRAS,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.801336739111136,-27.48734779240365
+312,NULL,312,AV. PTE. NICOLAS AVELLANEDA,MEDRANO,"con pescante 5,5m.",3,1*300+2*200,1*300+2*200,"3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.79946189375238,-27.48740061064369
+313,NULL,313,AV. PTE. NICOLAS AVELLANEDA,MEDRANO,baja recta 3m.,1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.799295182025084,-27.48741234807427
+314,NULL,314,AV. PTE. NICOLAS AVELLANEDA,MEDRANO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.79934281389663,-27.487621274699887
+315,NULL,315,AV. GDOR. RUIZ,SANCHES DE BUSTAMANTE,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.789694041710256,-27.489110156975578
+316,NULL,316,AV. JUAN DOMINGO PERON,SANCHES DE BUSTAMANTE,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.78972182695189,-27.489302648213418
+317,NULL,317,AV. JUAN DOMINGO PERON,SANCHES DE BUSTAMANTE,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.78947837494664,-27.489147716226128
+318,NULL,318,AV. JUAN DOMINGO PERON,SANCHES DE BUSTAMANTE,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.789510129514774,-27.489341381124635
+319,NULL,319,AV. JUAN DOMINGO PERON,ALEJANDRO DUMAS,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.78605284580265,-27.489731056676842
+320,NULL,320,AV. JUAN DOMINGO PERON,ALEJANDRO DUMAS,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.78591656553236,-27.489945847464273
+321,NULL,321,AV. JUAN DOMINGO PERON,MILAN,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.784932172501826,-27.489907114539506
+322,NULL,322,AV. JUAN DOMINGO PERON,MILAN,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.78495995774124,-27.49010899412381
+323,NULL,323,AV. JUAN DOMINGO PERON,MILAN,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.78470856708496,-27.489943499797544
+324,NULL,324,AV. JUAN DOMINGO PERON,MILAN,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.784754875851,-27.490138337016273
+325,NULL,325,AV. JUAN DOMINGO PERON,RUTA NACIONAL N° 12,baja recta 3m.,NULL,1*300+2*200,1*300+2*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.779779629634575,-27.490411972714075
+327,NULL,327,AV. JUAN DOMINGO PERON,RUTA NACIONAL N° 12,baja recta 3m.,2,1*300+2*200,1*300+2*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.77972825983208,-27.49051906894212
+328,NULL,328,AV. JUAN DOMINGO PERON,RUTA NACIONAL N° 12,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.77964242270482,-27.490263728178636
+329,NULL,329,AV. MAIPU,AV. SARMIENTO,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"1*300+2*200
+","3*200
+","3*200
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83026850283932,-27.477196180528274
+330,NULL,330,AV. MAIPU,AV. SARMIENTO,baja recta 3m.,2,1*300+2*200,1*300+2*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.830133545687445,-27.47736991090882
+331,NULL,331,AV. MAIPU,AV. SARMIENTO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83010972963714,-27.477745543278353
+332,NULL,332,AV. MAIPU,NECOCHEA,"con pescante 5,5m.",2,3*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.828906526931426,-27.479271915074357
+333,NULL,333,AV. MAIPU,GRAL. PAZ,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.82872311114725,-27.479154153010967
+334,NULL,334,AV. MAIPU,GRAL. PAZ,"con pescante 5,5m.",3,1*300+2*200,3*200,"3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.82882631359747,-27.479346661664376
+335,NULL,335,AV. MAIPU,TTE. IBAÑEZ,"con pescante 5,5m.",4,1*300+2*200,3*200,"3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.82579639324949,-27.483156854212513
+336,NULL,336,AV. MAIPU,TTE. IBAÑEZ,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","2*200
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.825679959704416,-27.482987828084024
+337,NULL,337,AV. MAIPU,AV. EL MAESTRO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.82485698562757,-27.4843517673042
+338,NULL,338,AV. MAIPU,AV. EL MAESTRO,"con pescante 5,5m.",3,1*300+2*200,1*300+2*200,"3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.8248940327615,-27.483999633117225
+339,NULL,339,AV. MAIPU,CAZADORES CORRENTINOS,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.823156790153384,-27.486470417283424
+340,NULL,340,AV. MAIPU,CAZADORES CORRENTINOS,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.82305888012712,-27.486327218916554
+341,NULL,341,NTRA. SEÑORA DE LA ASUNION,AV. MAIPU,baja recta 3m.,1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81991384906765,-27.491126022180918
+342,NULL,242,AV. MAIPU,NTRA. SEÑORA DE LA ASUNION,"con pescante 5,5m.",3,1*300+2*200,1*300+2*200,"3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81985298602968,-27.49124104535277
+343,NULL,243,AV. MAIPU,NTRA. SEÑORA DE LA ASUNION,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81966907390817,-27.491161233325826
+344,NULL,344,AV. MAIPU,AV. MAIPU,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","2*200
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.819416359913944,-27.491955829501713
+345,NULL,345,AV. MAIPU,AV. MAIPU,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.8192522944207,-27.491899491965608
+346,NULL,346,AV. MAIPU,FGTA. SARMIENTO,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81793183115735,-27.494231605578793
+347,NULL,347,AV. MAIPU,FGTA. SARMIENTO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.817820690043526,-27.494081375252417
+348,NULL,348,AV. MAIPU,NICARAGUA,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","2*300
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81480598523018,-27.49881235718974
+349,NULL,349,AV. MAIPU,NICARAGUA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.814635965765305,-27.49867856386948
+350,NULL,350,AV. MAIPU,NICARAGUA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.8147252755596,-27.498922091021736
+351,NULL,351,AV. MAIPU,NICARAGUA,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.8145083466646,-27.498872564973468
+352,NULL,352,AV. MAIPU,ALTA GRACIA,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","2*200
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81061569712919,-27.507772028842805
+353,NULL,353,AV. MAIPU,ALTA GRACIA,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","2*200
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81043930301859,-27.5075452269548
+354,NULL,354,AV. MAIPU,GUAYQUIRARO,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","2*200
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.807363102921734,-27.513712164028572
+355,NULL,355,AV. MAIPU,GUAYQUIRARO,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","2*200
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80719120644597,-27.513584521722038
+356,NULL,356,AV. EL MAESTRO,COSQUIN,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.826712643487504,-27.49443523940253
+357,NULL,357,AV. EL MAESTRO,COSQUIN,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.826462575917816,-27.494363645383153
+358,NULL,358,AV. PATAGONIA,AV. EL MAESTRO,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.826059028191565,-27.492287399869344
+359,NULL,359,AV. PATAGONIA,AV. EL MAESTRO,alumbrado público,2,3*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.826347465946135,-27.492249841703767
+360,NULL,360,AV. PATAGONIA,AV. EL MAESTRO,"con pescante 5,5m.",3,1*300+2*200,1*300+2*200,"3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.82626543323933,-27.492055008214514
+361,NULL,361,AV. PATAGONIA,AV. EL MAESTRO,alumbrado público,1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.826045797145476,-27.492106650813874
+362,NULL,362,JOSE MANUEL ESTRADA,AV. PATAGONIA,baja recta 3m.,1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83104847236859,-27.490523324323842
+363,NULL,363,AV. PATAGONIA,JOSE MANUEL ESTRADA,alumbrado público,2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83107890384637,-27.49063834814261
+364,NULL,364,JOSE MANUEL ESTRADA,AV. PATAGONIA,baja recta 3m.,1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.831131828182635,-27.490725202788994
+365,NULL,365,AV. PATAGONIA,JOSE MANUEL ESTRADA,alumbrado público,2,1*300+2*200,1*300+2*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.831160936632244,-27.490502197509354
+366,NULL,366,AV. PATAGONIA,JOSE MANUEL ESTRADA,baja recta 3m.,1,3*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.831405711737936,-27.490692338932647
+367,NULL,367,AV. PATAGONIA,JOSE MANUEL ESTRADA,alumbrado público,1,1*300+2*200,ninguno,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83128133948525,-27.49074985074228
+368,NULL,368,AV. TTE. IBAÑEZ,JOSE MANUEL ESTRADA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83095056367339,-27.484807193682283
+369,NULL,369,AV. TTE. IBAÑEZ,JOSE MANUEL ESTRADA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83093336329044,-27.48466868826976
+370,NULL,370,AV. SARMIENTO,CORREA FERNANDEZ,"con pescante 5,5m.",3,1*300+2*200,3*200,2*200,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83077988298421,-27.48329066730876
+371,NULL,371,AV. SARMIENTO,CORREA FERNANDEZ,baja recta 3m.,2,3*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83094394851531,-27.483188547555752
+372,NULL,372,CUIDAD DE AREQUIPA,PERUGORRIA,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83247743144562,-27.484503186108313
+373,NULL,373,CUIDAD DE AREQUIPA,AV. TTE. IBAÑEZ,baja recta 3m.,2,3*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.8325541715715,-27.485306046771687
+374,NULL,374,CUIDAD DE AREQUIPA,AV. TTE. IBAÑEZ,baja recta 3m.,3,3*200,3*200,"3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83235041280992,-27.485252053364157
+375,NULL,375,AV. TTE. IBAÑEZ,PIO XII,"con pescante 5,5m.",2,1*300+2*200,1*300+2*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.837780451787125,-27.485468027712553
+376,NULL,376,AV. TTE. IBAÑEZ,PIO XII,"con pescante 5,5m.",4,1*300+2*200,3*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83778574427445,-27.485252054397016
+377,NULL,377,AV. TTE. IBAÑEZ,JOSE R. VIDAL,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.839309965752335,-27.485268487453983
+378,NULL,378,AV. TTE. IBAÑEZ,JOSE R. VIDAL,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83938670612274,-27.485047818675405
+379,NULL,379,AV. TTE. IBAÑEZ,ALBERDI,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.845531224101265,-27.48450553614412
+380,NULL,380,AV. TTE. IBAÑEZ,ALBERDI,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.845721751801655,-27.484442152196983
+381,HIPODROMO,NULL,AV. ARMENIA,ZACARIAS SANCHEZ,NULL,1,ninguno,ninguno,ninguno,ninguno,ninguno,ninguno,NULL,NULL,NULL,NULL,NULL,simple,NULL,NULL,NULL,NULL,NULL,-58.80837808057563,-27.467145724604382
+382,NULL,229,H. IRIGOYEN,ESPAÑA,NULL,NULL,ninguno,ninguno,ninguno,ninguno,ninguno,ninguno,NULL,NULL,NULL,NULL,NULL,doble,Ninguno,no,bueno,no,bueno,-58.82917232257393,-27.4692023240279
+383,NULL,316,AV. JUAN DOMINGO PERON,MONTECARLO,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.79521196701834,-27.48790235835586
+384,NULL,159,QUINTANA,LA RIOJA,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.8376148185237,-27.46284174554239
+502,NULL,NULL,AV. GDOR. JUAN PUJOL,GDOR. CNEL SANTIAGO BAIBIENE,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.827072965376544,-27.462835657639786
+503,JUAN XXIII,NULL,AV. DEL IV CENTENARIO,AV. JUAN DE GARAY,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.837976052967946,-27.49324124912161
+504,PIO X,NULL,AV. DEL IV CENTENARIO,AV. COLON,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83804115419132,-27.489035031713243
+505,ANAHI,NULL,AV. ARMENIA,CABO ROQUE E. SANCHEZ,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.79613192962271,-27.46813888750578
+506,JARDIN,NULL,LAS VIOLETAS,AV. EVA PERON,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.7755960165464,-27.46029684631083
+507,VICTOR COLAS,NULL,AV. JUAN R. FERNANDEZ,AV. EVA PERON,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.78653862408215,-27.461528507365358
+509,NULL,NULL,25 DE mayo,LA RIOJA,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.837628375000605,-27.464003166244655
+510,NULL,NULL,LAS HERAS,AV. JOSE R. VIDAL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.81547788171554,-27.482950863151245
+512,NULL,NULL,PLACIDO MARTINEZ,LA RIOJA,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.837393564443055,-27.46165164868399
+513,NULL,NULL,AV. 3 DE ABRIL,CATAMARCA,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83378904019161,-27.475831882462046
+514,NULL,NULL,AV. 3 DE ABRIL,DR. VARGAS GOMEZ,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83371105226715,-27.476241898611875
+515,LA ROSADA,NULL,SANTA FE,CARLOS PELLEGRINI,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.830319567139085,-27.46592001412313
+516,CENTRO,NULL,SANTA FE,9 DE julio,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.830283310565086,-27.466957022540765
+517,NULL,NULL,JUJUY,AV. GDOR. JUAN PUJOL,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.82717864381558,-27.46297759007924
+518,NULL,NULL,AV. GDOR. JUAN PUJOL,GDOR. JOSE M. PAMPIN,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.82722381180609,-27.46273185785677
+519,NULL,NULL,AV. GDOR. JUAN PUJOL,GDOR. JOSE M. PAMPIN,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.82718222303587,-27.462713218986394
+520,CENTRO,NULL,HIPOLITO IRIGOYEN ,SAN JUAN,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.836786114307664,-27.468627119363003
+521,NULL,NULL,AV. GDOR. JUAN PUJOL,GDOR. CNEL SANTIAGO BAIBIENE,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.82692235002249,-27.462897441183006
+501,DEPORTES,NULL,LA RIOJA,PLACIDO MARTINEZ,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.837364849543064,-27.461740696446938
+524,CENTRO,NULL,HIPOLITO IRIGOYEN ,CORDOBA,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83444278127774,-27.468845458565127
+525,CENTRO,NULL,IPOLITO IRIGOYEN,CATAMARCA,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.833270963605585,-27.468809881627337
+526,CENTRO,NULL,HIPOLITO IRIGOYEN,SAN LORENZO,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.831793747020065,-27.46918078744076
+527,CENTRO,NULL,HIPOLITO IRIGOYEN,SANTA FE,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.830484739815454,-27.469317639745782
+528,LA ROSADA,NULL,9 DE julio,SAN JUAN,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83654210322336,-27.466485657555005
+529,LA RODASA,NULL,9 DE julio,MENDOZA,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83535076100813,-27.466446775762403
+530,DEPORTES,NULL,9 DE julio,RIOJA,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83785886907291,-27.466255551061007
+531,LA ROSADA,NULL,9 DE julio,CORDOBA,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83414521567631,-27.466631252177116
+532,LA ROSADA,NULL,9 DE julio,CATAMARCA,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.832816573491804,-27.466636367563353
+533,CENTRO,NULL,9 DE julio,SAN LORENZO,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83157190061397,-27.46691704025301
+534,MALVINAS ARGENTINAS,NULL,AV. PAYSANDU,CRUZ DEL SUR,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.82571628700408,-27.499197778497596
+535,MALVINAS ARGENTINAS,NULL,AV. PAYSANDU,CRUZ DEL SUR,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.82580971544926,-27.499552164224905
+536,MALVINAS ARGENTINAS,NULL,AV. PAYSANDU,CRUZ DEL SUR,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.8255662170886,-27.499418376772432
+537,MALVINAS ARGENTINAS,NULL,AV. PAYSANDU,CRUZ DEL SUR,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.825588805258384,-27.499213169049767
+538,NULL,NULL,RUTA NACIONAL Nº 12,PDTE. DR. RAUL RICARDO ALFONSIN,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.78321989262327,-27.478061726418037
+539,NULL,NULL,RUTA NACIONAL Nº 12,PDTE. DR. RAUL RICARDO ALFONSIN,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.78324365179782,-27.47806605070157
+540,NULL,NULL,RUTA NACIONAL Nº 12,PDTE. DR. RAUL RICARDO ALFONSIN,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.78300133826129,-27.478231413504147
+541,NULL,NULL,RUTA NACIONAL Nº 12,PDTE. DR. RAUL RICARDO ALFONSIN,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.78325899576665,-27.478217199392482
+542,NULL,NULL,RUTA NACIONAL Nº 12,PDTE. DR. RAUL RICARDO ALFONSIN,NULL,3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.78314586052226,-27.478255209932176
+543,VILLA ONGAY,NULL,AV. MAIPU,LYON,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.81760989558277,-27.494799460010654
+544,VILLA ONGAY,NULL,AV. MAIPU,LYON,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.817383104669815,-27.494650200714645
+545,ANAHI,NULL,AV. ARMENIA,CABO ROQUE E. SANCHEZ,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.79600232123051,-27.468283164122024
+546,NULL,NULL,MONTECARLOS,AV. PTE. TTE. GRAL. JUAN D. PERON,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.7954191864081,-27.487863789931072
+547,NULL,NULL,AV. MONTECARLOS,AV. PTE. TTE. GRAL. JUAN D. PERON,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.7954325447664,-27.488119221650187
+548,NULL,NULL,AV. MONTECARLOS,AV. PTE. TTE. GRAL. JUAN D. PERON,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.79519103608898,-27.48815303663113
+549,CENTRO,NULL,SANTA FE,SAN MARTIN,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.830806333744164,-27.470382527595575
+550,CENTRO,NULL,SANTA FE,RIVADAVIA,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.831328115798144,-27.474916273938536
+551,CENTRO,NULL,SANTA FE,M. MORENO,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.831019993749386,-27.473784804769288
+552,CENTRO,NULL,SANTA FE,BELGRADO,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83108465849311,-27.472683679470624
+553,CENTRO,NULL,SANTA FE,BOLIVAR,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.830721454148815,-27.471376300221493
+554,CENTRO,NULL,SANTA FE,JUNIN,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83053012439286,-27.468169443024834
+555,CENTRO,NULL,JUNIN,SAN LORENZO,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.831818529926,-27.468034957346752
+556,CENTRO,NULL,HIPOLITO IRIGOYEN ,SAN JUAN,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83808523023,-27.468410190238554
+557,CENTRO,193,PEATONAL JUNIN,LA RIOJA,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83808617152089,-27.46737954285605
+558,CENTRO,193,PEATONAL JUNIN,SAN JUAN,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.8367645848653,-27.46759181838204
+559,CENTRO,193,PEATONAL JUNIN,MENDOZA,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.834431349687144,-27.467824646864567
+560,CENTRO,193,PEATONAL JUNIN,MENDOZA,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.82648225067362,-27.48230254792714
+561,CENTRO,193,PEATONAL JUNIN,CORDOBA,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.833102020148466,-27.467820212262502
+563,NULL,NULL,AV. MAIPU,LAS HERAS,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.79969337071655,-27.521848416591325
+564,CENTRO,193,PEATONAL JUNIN,CATAMARCA,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.770615119780466,-27.485924384203425
+565,NULL,NULL,AV. MAIPU,S/N,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.77062196600968,-27.48598847940989
+566,NULL,NULL,AV. ARMANDO CARMELO ROMERO,CALLE Nº 91,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.81515325842993,-27.49829676976006
+567,NULL,NULL,AV. ARMANDO CARMELO ROMERO,CESAR ALVAREZ,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.832134830447984,-27.47179617765971
+568,CONCEPCION,NULL,AV. MAIPU,ACONCAGUA,NULL,5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.81519059195717,-27.48041793409192
+569,CENTRO,NULL,SAN LORENZO,BOLIVAR - BELGRANO,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.77542926838625,-27.460448737052428
+570,RESIDENCIAL SANTA ROSA,NULL,AV. JUAN R. VIDAL,AV. JUAN R. VIDAL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.808182930582305,-27.472091123359448
+571,COLLANTES,NULL,AV. EVA PERON,LAS VIOLETAS,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.80823416328579,-27.47228083924721
+572,HIPODROMO,NULL,PDTE. DR. RAUL RICARDO ALFONSIN,JUAN JOSE CASTELLI,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.81524276884731,-27.48068023902201
+574,VILLA CELIA,NULL,JUAN JOSE CASTELLI,PDTE. DR. RAUL RICARDO ALFONSIN,NULL,5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.81876637302077,-27.471597707502593
+575,RESIDENCIAL SANTA ROSA,NULL,AV. JUAN R. VIDAL,GRAL. PAZ,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.81857887227596,-27.47152794135844
+577,LIBERTAD,NULL,AV. ARTIGAS,SAN MARTIN,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.813787800076106,-27.475471596181553
+578,BELGRANO,NULL,AV. ARTIGAS,GDOR. DR. JOSE. R. GOMEZ,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.814024852129975,-27.475571366351684
+579,ANTARTIDA ARGENTINA,1,AV. CHACABUCO,SUIZA,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.81923500363043,-27.47504391609475
+580,BELGRANO,3,AV. CHACABUCO,SUIZA,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.819207083681604,-27.474873960925226
+582,BELGRANO,2,AV. ARTIGAS,SUIZA,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.81943144302574,-27.475024367251418
+583,BELGRANO,1,AV. ARTIGAS,SUIZA,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.813809910480195,-27.475556694955426
+584,LIBERTAD,3,AV. ARTIGAS,M. MORENO,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.81859947406181,-27.471643831894305
+585,ANTARTIDA ARGENTINA,2,AV. CHACABUCO,SUIZA,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.77976873063135,-27.490432514151816
+586,LIBERTAD,NULL,AV. ARTIGAS,GDOR. DR. JOSE R. GOMEZ,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.80745546681435,-27.472289427958476
+326,NULL,226,AV. JUAN DOMINGO PERON,RUTA NACIONAL N° 12,"con pescante 5,5m.",3,3*300,3*300,"3*200
+",ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80759442369707,-27.472446746007957
+282,NULL,282,PDTE. DR. RAUL RICARDO ALFONSIN,FRANCIA,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.80640448458865,-27.472718439349645
+283,NULL,283,PDTE. DR. RAUL RICARDO ALFONSIN,FRANCIA,"con pescante 5,5m.",5,1*300+2*200,1*300+2*200,"3*200
+","3*200
+","2*200
+",ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.806430331922975,-27.472537158087686
+284,NULL,284,PDTE. DR. RAUL RICARDO ALFONSIN,AV. POMAR,"con pescante 5,5m.",4,1*300+2*200,1*300+2*200,"3*200
+","3*200
+",ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.808008355882635,-27.472141897899597
+285,NULL,285,PDTE. DR. RAUL RICARDO ALFONSIN,AYACUCHO,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.79676237326911,-27.47511149803795
+573,HIPODROMO,NULL,PDTE. DR. RAUL RICARDO ALFONSIN,JUAN JOSE CASTELLI,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.7968633107317,-27.475181233628078
+292,NULL,292,PDTE. DR. RAUL RICARDO ALFONSIN,SAMUEL MORSE,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.78880722142683,-27.476467381322998
+293,NULL,293,PDTE. DR. RAUL RICARDO ALFONSIN,SAMUEL MORSE,alumbrado público,2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.788714403977224,-27.476646054918213
+294,NULL,294,PDTE. DR. RAUL RICARDO ALFONSIN,GODOY CRUZ,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.788449703222646,-27.47651204029386
+295,NULL,295,PDTE. DR. RAUL RICARDO ALFONSIN,GODOY CRUZ,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.83387194239252,-27.476001543130725
+296,NULL,296,PDTE. DR. RAUL RICARDO ALFONSIN,GODOY CRUZ,"con pescante 5,5m.",2,1*300+2*200,3*200,ninguno,ninguno,ninguno,ninguno,no,200,no,amarillo 200,12v,doble,Ninguno,no,bueno,no,bueno,-58.81453301629733,-27.478527603310297
+508,NULL,NULL,AV. 3 DE ABRIL,CATAMARCA,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,-58.83561535458926,-27.467602310856545
+96,NULL,96,AV. INDEPENDENCIA,AV. CHACABUCO,"con pescante 5,5m.",2,3*200,3*300,ninguno,ninguno,ninguno,ninguno,85,200,no,amarillo 200,12v,doble,12V,no,bueno,no,bueno,,
+559,CENTRO,193,PEATONAL JUNIN,MENDOZA,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
