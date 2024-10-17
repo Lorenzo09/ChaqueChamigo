@@ -1,0 +1,778 @@
+,id_feu,siniestro_fecha,siniestro_hora,zona_ocurrencia,via_publica,nombre_via,entre_calle_1,latitud,longitud,ilesos,heridos,fallecidos,vehiculos,peatones,tipo_siniestro_unico,cantidad_de_involucrados,material_de_la_calzada,estado_de_la_calzada,estado_fisico_ambiental,luminosidad,luz_artificial,estado_ambiental,visibilidad,semaforo
+0,148183,2022-12-28,10:17:00,Urbana,,SAN JUAN,,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Sin Semáforo
+1,142693,2022-12-25,22:00:00,Urbana,Avenida,AV PASANDU,CONCORDIA,,,0.0,0.0,1.0,1,0.0,Despiste,1,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+2,151168,2022-12-24,12:50:00,Urbana,Avenida,AV PAYSANDU,IBERA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+3,151207,2022-12-24,17:25:00,Urbana,Avenida,SANTA CATALINA,ALTA GRACIA,-2.750.910,-5.882.218,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+4,164602,2022-12-22,18:05:00,Urbana,Calle,TACUARI,,,,0.0,1.0,0.0,1,0.0,Despiste,1,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+5,152105,2022-12-21,18:58:00,Urbana,Ruta Nacional,12,CUBA,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,,Seca,Atardecer,SI,Despejado,Buena,Funciona
+6,175468,2022-12-20,11:30:00,Urbana,Calle,JUJUY,3 DE abril,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+7,133417,2022-12-20,07:00:00,Urbana,Avenida,AV. INDEPENDENCIA,"J,J. CASTELLI",,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+8,151197,2022-12-19,09:50:00,Urbana,Ruta Nacional,12,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+9,136376,2022-12-19,09:14:00,Urbana,Calle,MEDRANO,LARREA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+10,166826,2022-12-18,10:35:00,Urbana,Avenida,AVENIDA LIBERTAD,,-2.747.665,-5.878.859,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Funciona
+11,158159,2022-12-18,21:50:00,Urbana,Avenida,AV CENTENARIO,LOS TILOS,-2.747.408,-5.880.141,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+12,151163,2022-12-16,10:00:00,Urbana,,SAN LORENZO,H.YRIGOYEN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Funciona
+13,174822,2022-12-15,11:15:00,Urbana,Calle,RIVADAVIA,ITUZAINGO,-2.747.603,-5.882.011,1.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+14,157799,2022-12-15,10:49:00,Urbana,Avenida,AV CHACABUCO,SUIZA,,,1.0,0.0,0.0,1,0.0,Choque,1,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+15,175505,2022-12-15,19:40:00,Urbana,Calle,SAN LUIS,9 DE julio,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,,Sin Semáforo
+16,152097,2022-12-15,17:20:00,Urbana,,CATUEÑO,ALFONSIN,,,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,,Apto,Seca,Día,NO,Despejado,Buena,
+17,139936,2022-12-14,16:50:00,Urbana,Avenida,AV ARMENIA,BENITO LINCH,,,1.0,0.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+18,153869,2022-12-14,07:20:00,Urbana,Avenida,AV. PATAGONIA,AV PAYSANDU,-2.749.263,-5.882.441,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+19,162765,2022-12-14,08:40:00,Urbana,Calle,CARLOS PELLEGRINI,,-2.746.526,-5.883.707,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+20,148158,2022-12-14,10:40:00,Urbana,Avenida,AV. PEDRO FERRE,ESPAÑA,-2.747.639,-5.883.015,5.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+21,133416,2022-12-13,10:55:00,Urbana,Avenida,PEDERNERA,AV. ARMENIA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+22,144739,2022-12-12,10:33:00,Urbana,Calle,SALTA,SAN MARTIN,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+23,145037,2022-12-11,22:30:00,Urbana,Avenida,AV RAUL ALFONSIN,GODOY CRUZ,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Nublado,Buena,Funciona
+24,157809,2022-12-09,17:08:00,Urbana,Calle,SAN LUIS,BELGRANO,-2.747.098,-5.884.325,1.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+25,146709,2022-12-09,07:10:00,Urbana,Avenida,,FRAGATA ARGENTINA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+26,160639,2022-12-09,22:30:00,Urbana,Avenida,AVDA FERRÉ,CHILE,-2.747.826,-5.881.747,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+27,146706,2022-12-09,06:20:00,Urbana,,RUTA 5,,,,3.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Amanecer,SI,Despejado,Buena,Funciona
+28,153889,2022-12-08,09:45:00,Urbana,,9 DE julio,BRASIL,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+29,142710,2022-12-08,07:45:00,Urbana,Calle,CARLOS PELLEGRINI,CORDOBA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Mojada,Día,NO,Lluvia,Buena,Funciona
+30,132615,2022-12-07,22:05:00,Urbana,Avenida,AV. ARMINIA,ONTIVEROS,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,,Despejado,Buena,
+31,156531,2022-12-06,22:15:00,,,AV. MEDRANO,SAN FRANCISCODE ASIS,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+32,155616,2022-12-06,14:30:00,Urbana,Avenida,ALTA GRACIA,,,,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+33,167750,2022-12-05,11:13:00,Urbana,Avenida,AVENIDA CENTENARIO,,-2.748.650,-5.883.247,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,
+34,159883,2022-12-05,08:45:00,Urbana,Calle,FACUNDO,,-2.749.574,-5.884.329,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+35,167751,2022-12-04,23:05:00,Urbana,Avenida,AVENIDA MAIPÚ,,-2.753.099,-5.876.936,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+36,176151,2022-12-04,09:00:00,Urbana,Avenida,INDEPENDENCIA,GUEMEZ,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Funciona
+37,152095,2022-12-04,16:50:00,Urbana,,PUJOL,PELLEGRINI,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+38,156561,2022-12-04,12:20:00,Urbana,Calle,HIPOLITO YRIGOYEN,SALTA,-2.746.844,-5.883.925,2.0,1.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+39,169894,2022-12-02,14:30:00,Urbana,Avenida,AVENIDA INDEPENDENCIA,TACUARÍ,-2.747.932,-5.880.636,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,"Despejada, Seca",Día,NO,,,Funciona
+40,175460,2022-12-02,20:10:00,Urbana,Avenida,AV RAUL ALFONSIN,,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Noche,SI,Despejado,,Sin Semáforo
+41,139278,2022-12-01,14:34:00,Urbana,Calle,CATAMARCA,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+42,139948,2022-12-01,10:52:00,Urbana,Calle,CARLOS PELLEGRINI,,,,7.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+43,151196,2022-11-30,12:12:00,Urbana,,LAPRIDA,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+44,156534,2022-11-30,06:20:00,,Avenida,AV. 3 DE ABRIL,SANTA FE,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Mojada,Noche,SI,Lluvia,Lluvia,Funciona
+45,161491,2022-11-29,07:40:00,Urbana,Avenida,AVDA 3 DE ABRIL,MENDOZA,-2.747.563,-5.883.646,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,,Despejado,Buena,Funciona
+46,143760,2022-11-29,12:58:00,Urbana,Avenida,AV. INDEPENDENCIA,GUEMES,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+47,176157,2022-11-28,23:30:00,Urbana,Calle,MEDRANO,ZAPIOLA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,,Sin Semáforo
+48,151157,2022-11-28,12:45:00,Urbana,,QUINQUELA MARTIN,CENTENARIO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+49,151169,2022-11-27,07:35:00,Urbana,Avenida,RIO CHICO,MADERO,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+50,165346,2022-11-26,20:45:00,Urbana,Avenida,AVENIDA RÍO CHICO,LAS AMAPOLAS,-2.746.091,-5.878.031,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+51,142758,2022-11-26,02:15:00,Urbana,Calle,IBERA,PJE LAS FLORES,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Baches,Mojada,,SI,Nublado,Buena,Sin Semáforo
+52,157804,2022-11-26,07:42:00,Urbana,Calle,GUTENBERG,MADARIAGA,-2.748.346,-5.883.228,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+53,165287,2022-11-26,11:40:00,Urbana,Avenida,AV INDEPENDENCIA,RIO JURAMENTO,-2.748.144,-5.879.934,4.0,1.0,0.0,4,0.0,Colisión entre vehículos,4,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+54,133402,2022-11-25,11:55:00,Urbana,Avenida,AV. FERRE,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+55,143757,2022-11-24,11:52:00,Urbana,Calle,J.R. FERNANDEZ,REMEDIOS DE ESCALADA,,,3.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+56,151160,2022-11-24,07:15:00,,Ruta Nacional,12,ALFONSIN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Amanecer,NO,Despejado,Buena,Sin Semáforo
+57,163593,2022-11-23,15:58:00,Urbana,Avenida,AVDA. MAIPÚ,,,,1.0,0.0,0.0,1,0.0,Atropello a animal/es,1,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,
+58,132629,2022-11-23,15:45:00,Urbana,Calle,CAZADORES CORRENTINOS,TACUARÍ,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+59,142760,2022-11-22,17:28:00,Urbana,Avenida,CENTENARIO,RUTA 12,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+60,134862,2022-11-22,17:00:00,Urbana,Calle,CARTAGENA,,,,1.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,,NO,Despejado,Buena,
+61,169896,2022-11-18,14:30:00,Urbana,Calle,GUTENBERG,LAVALLE,-2.747.823,-5.883.165,2.0,0.0,0.0,2,0.0,Choque,2,Asfalto,Apto,"Despejada, Seca",Día,SI,Despejado,Buena,Sin Semáforo
+62,137575,2022-11-17,14:10:00,Urbana,Calle,MARIO PAYES,MAIPU,-2.753.857,-5.879.102,1.0,0.0,0.0,1,0.0,Despiste,1,Ripio,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+63,157821,2022-11-17,07:30:00,Urbana,Calle,ELIAS ABAD,,,,0.0,1.0,0.0,1,0.0,Vuelco (solo 1 participante),1,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+64,152946,2022-11-17,07:55:00,Urbana,Calle,COSQUIN,2 DE abril,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Nublado,Buena,Sin Semáforo
+65,164578,2022-11-17,11:50:00,Urbana,Calle,PERUGORRIA,GUTEMBERG,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,SI,Despejado,Buena,Funciona
+66,146724,2022-11-16,14:34:00,Urbana,,MORENO,SAN LORENZO,,,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+67,134803,2022-11-16,07:20:00,Urbana,Calle,HEROES CIVILES,LA RIOJA,-2.748.037,-5.883.968,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+68,143720,2022-11-15,19:15:00,Urbana,Calle,MORENO,CATAMARCA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+69,164577,2022-11-15,07:30:00,Urbana,Avenida,AV PUJOL,URUGUAY,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+70,175472,2022-11-15,06:55:00,Urbana,Calle,LAS PIEDRAS,ITALIA,-2.748.960,-5.880.247,1.0,0.0,0.0,1,0.0,Otro,1,Asfalto,Apto,Seca,Día,,Despejado,,Funciona
+71,165294,2022-11-15,09:15:00,Urbana,Calle,MEDRANO,,-2.748.177,-5.879.840,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+72,134050,2022-11-15,14:30:00,Urbana,Calle,TACUARI,LAVALLE,,,0.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+73,169874,2022-11-14,07:05:00,Urbana,Avenida,REPÚBLICA DEL LÍBANO,AVENIDA SARMIENTO,-2.747.980,-5.883.038,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,,Día,NO,Despejado,Buena,Sin Semáforo
+74,133414,2022-11-14,08:45:00,Urbana,Avenida,AV. CHACABUCO,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+75,146710,2022-11-13,11:05:00,Urbana,Avenida,AV MAIPU,ALTA GRACIA,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,
+76,146728,2022-11-13,16:50:00,,Avenida,AV.PAYSANDU,AV.IBERA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+77,151228,2022-11-12,06:34:00,Urbana,Avenida,AV MAIPU,CARIBE,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Funciona
+78,161494,2022-11-12,08:45:00,Urbana,Avenida,AVDA. INDEPENDENCIA,RÍO JURAMENTO,-2.748.132,-5.879.930,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,No Funciona
+79,163574,2022-11-11,09:15:00,Urbana,Calle,SAN MARTIN,,-2.747.014,-5.883.332,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+80,160647,2022-11-11,21:45:00,Urbana,Avenida,AVDA. SARMIENTO,VIEDMA,-2.748.781,-5.883.085,0.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+81,148992,2022-11-11,08:40:00,Urbana,Calle,SANTA FE,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+82,164618,2022-11-11,12:20:00,Urbana,Calle,BRASIL,,-2.747.285,-5.882.456,0.0,2.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Despejada,Día,NO,"Despejado, Viento",Buena,Sin Semáforo
+83,135575,2022-11-11,18:01:00,Urbana,Calle,PARAGUAY,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+84,151223,2022-11-10,15:12:00,Urbana,,ELIAS ABAD,RIO DULCE,,,1.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+85,162773,2022-11-09,12:20:00,Urbana,Calle,SAN JUAN,,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+86,166828,2022-11-09,07:03:00,Urbana,Avenida,AVENIDA MAIPÚ,,,,0.0,2.0,0.0,1,1.0,Atropello a peatón/es,2,Asfalto,Apto,,Día,NO,Despejado,Buena,
+87,135584,2022-11-09,19:00:00,Urbana,Avenida,AV PUJOL,BRASIL,-2.746.561,-5.882.365,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+88,141854,2022-11-08,11:00:00,Urbana,Calle,SAN JUAN,BELGRANO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+89,174254,2022-11-07,16:50:00,Urbana,Avenida,AV MAIPU,,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+90,151188,2022-11-06,20:30:00,Urbana,Avenida,AV MAIPU,GRAL PAZ,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Funciona
+91,158155,2022-11-05,11:35:00,Urbana,Avenida,AV GDOR RUIZ,,-2.746.663,-5.882.032,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+92,145119,2022-11-05,13:30:00,Urbana,Calle,SAN LORENZO,RIVADAVIA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+93,156581,2022-11-05,19:00:00,Urbana,Calle,PARAGUAY,MORENO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Atardecer,SI,Despejado,Buena,Sin Semáforo
+94,169172,2022-11-05,09:42:00,Urbana,Avenida,AVENIDA PEDRO FERRÉ,,-2.747.679,-5.882.954,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+95,134857,2022-11-05,11:00:00,Urbana,Calle,J.M.AGUIRRE,,-2.752.054,-5.879.129,1.0,0.0,0.0,1,0.0,Colisión entre vehículos,1,Tierra,,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+96,142755,2022-11-05,13:50:00,Urbana,Calle,GUTEMBERG,LAMADRID,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+97,134859,2022-11-05,12:30:00,Urbana,Avenida,AV CHACABUCO,IAV NDEPENDENCIA,,,2.0,1.0,0.0,3,0.0,Colisión entre vehículos,3,Hormigón,Apto,Seca,Día,,Despejado,Buena,Funciona
+98,137591,2022-11-04,12:45:00,Urbana,Avenida,AV. INDEPENDENCIA,MEDRANO,,,3.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+99,167748,2022-11-03,16:00:00,Urbana,Calle,LA RIOJA,BERNARDINO RIVADAVIA,-2.747.424,-5.883.876,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+100,134825,2022-11-03,12:15:00,Urbana,Avenida,RAUL ALFONSIN,SANCHEZ DE BUSTAMANTE,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+101,148162,2022-11-02,08:30:00,Urbana,Avenida,AV 3 DE ABRIL,BUENOS AIRES,-2.747.497,-5.884.117,3.0,1.0,0.0,3,0.0,Colisión entre vehículos,3,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+102,134047,2022-10-30,12:25:00,Urbana,Avenida,AV. MAIPU,KM 10,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,
+103,157743,2022-10-30,14:27:00,Urbana,Avenida,AV CHACABUCO,LAS HERAS,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+104,162788,2022-10-30,07:00:00,Urbana,Calle,RECONQUISTA,ESTADO DE ISRAEL,-2.747.352,-5.881.213,1.0,1.0,0.0,2,0.0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+105,142707,2022-10-29,16:40:00,Urbana,Avenida,ROTONDA,RUTA 12,,,1.0,0.0,0.0,1,0.0,Caída desde vehículo,1,,Apto,"Despejada, Seca",Día,NO,Nublado,Buena,Sin Semáforo
+106,146727,2022-10-29,00:10:00,,,AV. INDEPENDENCIA,SAENZ,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Noche,SI,Despejado,Buena,Funciona
+107,152961,2022-10-29,13:25:00,Urbana,Calle,LAVALLE,TACUARI,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+108,148180,2022-10-29,15:10:00,Urbana,,AV. CAZADORES,RIO JURAMENTO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+109,148212,2022-10-28,15:15:00,Urbana,,AYACUCHO,COLOMBIA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Mojada,Día,NO,Lluvia,Lluvia,Sin Semáforo
+110,160685,2022-10-28,10:30:00,Urbana,Avenida,AVDA. PATAGONIA,PROFESOR CRESPO,-2.749.189,-5.882.877,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,
+111,175462,2022-10-27,10:47:00,Urbana,Calle,9 DE julio,BUENOS AIRES,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+112,152945,2022-10-27,09:50:00,Urbana,Avenida,AV CENTENARIO,,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,"Despejada, Seca",Día,,Despejado,Buena,Sin Semáforo
+113,139229,2022-10-27,09:00:00,Urbana,Avenida,AV. MAIPU,LAMADRID,-2.748.848,-5.882.235,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+114,161498,2022-10-26,09:45:00,Urbana,Avenida,AVDA. LIBERTAD,LAS VIOLETAS,-2.746.282,-5.877.486,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,
+115,169889,2022-10-26,08:40:00,Urbana,Calle,YERBAL,,-2.746.736,-5.880.600,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,,Día,NO,Despejado,Buena,Sin Semáforo
+116,147418,2022-10-26,10:43:00,Urbana,Calle,BRASIL,PELLEGRINI,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+117,168423,2022-10-26,09:50:00,Urbana,Calle,SAN MARTÍN,PERÚ,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Sin Semáforo
+118,137579,2022-10-26,17:40:00,Urbana,Avenida,INDEPENDENCIA,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+119,143763,2022-10-24,08:14:00,Urbana,Calle,JOSE INGENIERO,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+120,146705,2022-10-23,19:13:00,Urbana,,AV. MAIPU,ESPAÑA,,,3.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,,Apto,Seca,Atardecer,SI,Despejado,Buena,Sin Semáforo
+121,139999,2022-10-23,14:42:00,Urbana,Avenida,AV JUAN DE VERA,SANTA FE,,,1.0,1.0,0.0,1,1.0,Atropello a peatón/es,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+122,140915,2022-10-23,05:30:00,Urbana,Ruta Provincial,5,,,,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+123,146726,2022-10-22,09:15:00,,,AV. ARMENIA,DEPARTAMENTO MERCEDES,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,,Apto,Seca,Día,NO,,Buena,Sin Semáforo
+124,163544,2022-10-22,23:20:00,Urbana,Avenida,AV 3 DE ABRIL,AV MAIPU,-2.747.658,-5.883.090,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+125,158366,2022-10-22,10:31:00,Urbana,Avenida,AVDA. JUAN DE GAARAY,,-2.749.303,-5.884.311,1.0,1.0,0.0,1,1.0,Atropello a peatón/es,2,Asfalto,Apto,Seca,Día,NO,Despejado,,
+126,162789,2022-10-22,11:00:00,Urbana,Calle,GOBERNADOR RUÍZ,,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+127,169147,2022-10-21,08:48:00,Urbana,Avenida,LAPRIDA,GABRIELA MISTRAL,-2.746.995,-5.878.758,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+128,139213,2022-10-21,15:50:00,Urbana,Avenida,AV 3 DE ABRIL,PARAGUAY,-2.747.674,-5.882.745,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+129,166847,2022-10-21,08:13:00,Urbana,Calle,HUNGRÍA,NIÑO JESÚS,-2.747.153,-5.880.051,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,,NO,Despejado,Buena,Sin Semáforo
+130,175474,2022-10-20,10:59:00,Urbana,Avenida,AVENIDA COSTANERA,AVENIDA 3 DE ABRIL,-2.747.332,-5.885.552,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,,,Despejado,,Funciona
+131,134856,2022-10-19,13:30:00,Urbana,Avenida,AV FERRE,GDOR. MARTIN GOITIA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+132,134819,2022-10-19,11:30:00,Urbana,Calle,BRASIL,SAN MARTIN,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+133,140938,2022-10-18,02:30:00,Urbana,Calle,MENDOZA,LAVALLE,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+134,143759,2022-10-17,17:49:00,Urbana,Calle,SAN MARTIN,CORDOBA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+135,169161,2022-10-17,12:30:00,Urbana,Avenida,AVENIDA COSTANERA JUAN PABLO II,GENERAL PAZ,-2.747.584,-5.885.555,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+136,175463,2022-10-17,07:15:00,Urbana,Avenida,AV FERRE,AV ARTIGAS,,,1.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Funciona
+137,167752,2022-10-17,15:20:00,Urbana,Calle,PERÚ,SIMÓN BOLÍVAR,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+138,143764,2022-10-16,12:15:00,Urbana,Calle,QUINQUELA MARTIN,LAFERRERE,,,0.0,2.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+139,174826,2022-10-16,13:00:00,Urbana,Avenida,3 DE abril,CÓRDOBA,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,,Despejado,,Funciona
+140,157745,2022-10-16,17:28:00,Urbana,,GOBERNADOR RUIZ,,,,0.0,2.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,,NO,Nublado,Buena,Sin Semáforo
+141,169850,2022-10-16,11:50:00,Urbana,Calle,SAN LORENZO,,-2.747.024,-5.883.208,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+142,171746,2022-10-15,15:35:00,Urbana,Calle,SAN MARTÍN,SANTA FE,-2.747.038,-5.883.072,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,SI,Despejado,Buena,Funciona
+143,132621,2022-10-15,07:27:00,Urbana,Avenida,AV CAZADORES CORRENTINOS,LAS PIEDRAS,,,2.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Amanecer,NO,Despejado,Buena,
+144,145180,2022-10-15,17:20:00,,Ruta Provincial,RUTA 5,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Intermitente
+145,165347,2022-10-15,20:10:00,Urbana,Avenida,AVENIDA J.R. VIDAL,MADARIAGA,-2.748.511,-5.881.604,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,,Noche,SI,Despejado,Buena,Sin Semáforo
+146,166845,2022-10-14,10:20:00,Urbana,Avenida,AVENIDA ARTÍGAS,SIMÓN BOLÍVAR,-2.747.269,-5.881.891,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+147,167697,2022-10-14,09:10:00,Urbana,Avenida,AVENIDA LIBERTAD,,,,1.0,0.0,0.0,1,0.0,Despiste,1,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+148,174257,2022-10-14,08:40:00,Urbana,Calle,ESPAÑA,PUJOL,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+149,176146,2022-10-13,10:20:00,Urbana,Avenida,CHACABUCO,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+150,176149,2022-10-13,16:45:00,Urbana,Avenida,ARMENIA,JOSE INGENIERO,,,2.0,0.0,0.0,2,0.0,,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+151,141865,2022-10-13,06:10:00,Urbana,Calle,9 DE julio,MENDOZA,,,1.0,0.0,0.0,1,0.0,Despiste,1,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Funciona
+152,152943,2022-10-12,09:59:00,Urbana,Avenida,AV ARMENIA,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Nublado,Buena,Sin Semáforo
+153,147087,2022-10-12,10:10:00,Urbana,Calle,A. CORREA FERNNDEZ,SASRMIENTO,,,0.0,1.0,0.0,1,0.0,Vuelco (solo 1 participante),1,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+154,136374,2022-10-11,08:10:00,Urbana,Avenida,SAN JUAN,AV. 3 DE ABRIL,,,0.0,2.0,0.0,1,1.0,Atropello a peatón/es,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+155,157822,2022-10-10,08:30:00,Urbana,Avenida,AV PEDRO FERRE,BRASIL,-2.747.722,-5.882.507,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+156,162787,2022-10-10,10:50:00,Urbana,Avenida,AVDA. 3 DE ABRIL,ESPAÑA,-2.747.640,-5.883.016,1.0,1.0,0.0,1,1.0,Atropello a peatón/es,2,Asfalto,Apto,Despejada,Día,NO,"Despejado, Viento",Buena,Funciona
+157,168134,2022-10-09,10:10:00,Urbana,Calle,URUGUAY,MARIANO MORENO,-2.747.426,-5.882.601,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+158,134863,2022-10-09,19:40:00,Rural,Ruta Nacional,12,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Atardecer,SI,Despejado,Buena,Sin Semáforo
+159,136414,2022-10-07,10:40:00,Urbana,Avenida,AV MAIPU,,-2.748.941,-5.882.074,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Baches,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+160,152960,2022-10-07,14:15:00,Urbana,Calle,HIPOLITO YRIGOYEN,LA RIOJA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+161,163572,2022-10-06,22:30:00,Urbana,Avenida,AV. TENIENTE IBAÑEZ,JOSE R. VIDAL,-2.748.526,-5.883.992,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+162,175448,2022-10-06,06:10:00,Urbana,Avenida,CHACABUCO,SAN MARTIN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+163,168135,2022-10-06,10:15:00,Urbana,Calle,MEDRANO,,-2.749.462,-5.879.984,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+164,175470,2022-10-05,07:35:00,Urbana,Avenida,AVENIDA PAYSANDU,CRUZ DEL EJE,,,2.0,0.0,0.0,1,0.0,Otro,1,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+165,134854,2022-10-04,12:00:00,Urbana,Avenida,AV MAIPU,13 DE junio,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+166,144734,2022-10-04,16:52:00,Urbana,Avenida,AV. LIBERTAD,RUTA 12,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+167,157807,2022-10-04,13:20:00,,Calle,SAN LUIS,BOLÍVAR,-2.747.031,-5.884.319,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+168,164614,2022-10-04,08:05:00,Urbana,Calle,CATAMARCA,JUNÍN,-2.746.742,-5.883.299,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+169,151161,2022-10-04,15:21:00,,,CUBA,RAMOS MEJIA,,,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+170,157823,2022-10-02,14:06:00,Urbana,Calle,RIVADAVIA,SAN JUAN,-2.747.434,-5.883.745,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+171,153796,2022-10-02,08:28:00,Urbana,Avenida,ROTONDA PONCHO VERDE,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+172,156562,2022-10-02,15:00:00,Urbana,Avenida,AV. DR ROMERO,SUIPACHA,,,0.0,1.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+173,156553,2022-10-02,18:10:00,Urbana,Avenida,AV ALFONSIN,ONTIVEROS,-2.747.596,-5.879.264,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+174,145740,2022-10-01,20:30:00,Urbana,Avenida,AV. MAIPU,ROTONDA SANTA CATALINA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+175,147085,2022-10-01,09:20:00,Urbana,Avenida,AV MAIPU,ALTA GRACIA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,,,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+176,165344,2022-10-01,09:20:00,Urbana,Avenida,GOBERNADARO JOSÉ MARÍA ROLÓN,SANTIAGO DEL ESTERO,-2.746.172,-5.881.741,1.0,0.0,0.0,1,0.0,Choque,1,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,,Sin Semáforo
+177,135581,2022-10-01,12:40:00,Urbana,Ruta Nacional,12,VERONA,-2.749.613,-5.877.746,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+178,156585,2022-10-01,12:50:00,Urbana,,AV.3 DE ABRIL,ESPAÑA,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+179,145039,2022-10-01,15:21:00,Urbana,Avenida,AV MAIPU,LOS MATACOS,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+180,134088,2022-10-01,13:15:00,Urbana,Avenida,AV.3 DE ABRIL,SANTA FE,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+181,162766,2022-09-30,16:45:00,Urbana,Calle,SAN MARTIN,PARAGUAY,-2.747.078,-5.882.697,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+182,159879,2022-09-30,12:10:00,Urbana,Avenida,AVDA. IBERÁ,AVDA. ESTRADA,-2.749.837,-5.883.288,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+183,168133,2022-09-29,08:57:00,Urbana,Calle,LAPRIDA,,-2.746.603,-5.878.696,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Sin Semáforo
+184,140917,2022-09-29,13:15:00,Urbana,Calle,MARIANO MORENO,CORDOBA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+185,141870,2022-09-29,19:10:00,Urbana,Avenida,AV MAIPU,ASUNCION,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Mojada,Noche,SI,Lluvia,Lluvia,Funciona
+186,152096,2022-09-28,20:10:00,Urbana,,RIVADAVIA,SAN LORENZO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+187,162783,2022-09-27,12:40:00,Urbana,Avenida,AVDA 3 DE ABRIL,CÓRDOBA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Funciona
+188,140974,2022-09-27,09:00:00,Urbana,Calle,GASCON,,,,4.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+189,145058,2022-09-27,14:00:00,Urbana,Avenida,AV IV CENTENARIO,AV GARAY,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+190,136336,2022-09-27,11:37:00,Urbana,Calle,TACUARI,LAS HERAS,-2.748.425,-5.880.699,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+191,151195,2022-09-26,12:01:00,Urbana,,AV. CHACABUCO,MORENO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+192,159927,2022-09-26,11:35:00,Urbana,,QUINTANA,MENDOZA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+193,160643,2022-09-26,12:18:00,Urbana,Avenida,AVDA. MAIPÚ,MADARIAGA,-2.748.222,-5.882.648,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+194,161496,2022-09-25,14:30:00,Urbana,Calle,MANUEL BELGRANO,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+195,148181,2022-09-25,16:15:00,Urbana,,AYACUCHO,COLOMBIA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,,NO,Despejado,Buena,Sin Semáforo
+196,164583,2022-09-23,07:00:00,Urbana,Calle,GUEMES,LAVALLE,,,1.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+197,148182,2022-09-23,07:30:00,Urbana,,NECOCHEA,GOBERNADOR CASTILLO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+198,137051,2022-09-22,12:00:00,Urbana,Avenida,3 DE abril,CORDOBA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+199,142692,2022-09-22,22:00:00,Urbana,Avenida,AV JUAN DOMINGO PERON,DARRAGUEIRA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+200,175475,2022-09-22,11:24:00,Urbana,Avenida,AVENIDA PATAGONIA,AVENIDA PAYSANDU,-2.749.258,-5.882.439,2.0,1.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,,Despejado,,Funciona
+201,151199,2022-09-21,12:00:00,Urbana,Avenida,AV. ARTIGAS,AYACUCHO,,,1.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,,Buena,Funciona
+202,169867,2022-09-21,15:45:00,Urbana,Calle,TACUARÍ,LARREA,-2.748.947,-5.880.802,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+203,134848,2022-09-20,12:15:00,Urbana,Calle,RECONQUISTA,EX VIA,-2.749.369,-5.881.594,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+204,136377,2022-09-20,10:45:00,Urbana,Calle,CATAMARCA,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+205,139255,2022-09-20,01:24:00,Rural,Avenida,AV MAIPU,GDOR TORRENT,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+206,139233,2022-09-19,08:25:00,Urbana,Calle,BELGRANO,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,Buena,
+207,139742,2022-09-19,20:50:00,Urbana,Calle,MEDRANO,OMBU,-2.748.606,-5.879.913,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+208,151206,2022-09-19,20:00:00,Urbana,Calle,PAYSANDU,DR UNANUE,-2.750.393,-5.882.608,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+209,169150,2022-09-18,20:00:00,Urbana,Calle,CÓRDOBA,MANUEL BELGRANO,-2.747.225,-5.883.497,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+210,134824,2022-09-18,19:47:00,Urbana,Calle,BONASTRE,COSQUIN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,
+211,175458,2022-09-18,09:50:00,Urbana,Calle,LORETO,LINIERS,,,2.0,0.0,0.0,2,,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+212,159887,2022-09-18,08:28:00,Urbana,Avenida,AVDA CAZADORES CORRENTINOS,OBISPO NIELLA,-2.748.693,-5.880.412,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+213,148993,2022-09-18,12:12:00,Urbana,Avenida,AV PUJOL,BRASIL,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+214,148175,2022-09-18,17:15:00,Urbana,Avenida,AV RAUL R. ALFONSIN,LAS PIEDRAS,-2.747.469,-5.879.954,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+215,169888,2022-09-16,08:30:00,Urbana,Calle,JUJUY,,-2.746.715,-5.882.780,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+216,134855,2022-09-15,20:19:00,Urbana,Calle,GUASTAVINO,LAVALLE,-2.747.626,-5.884.317,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,,Seca,Atardecer,NO,Despejado,Buena,Sin Semáforo
+217,142701,2022-09-15,10:15:00,Urbana,Avenida,AV J R FERNANDEZ,RIO TERCERO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,,Buena,Sin Semáforo
+218,135580,2022-09-15,12:45:00,Urbana,Avenida,AV. CHACABUCO,AV. FERRE,-2.747.850,-5.881.475,2.0,1.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+219,143723,2022-09-15,00:12:00,Urbana,Avenida,TENIENTE IBAÑEZ,VARGAS GOMEZ,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,,Sin Semáforo
+220,161516,2022-09-14,12:30:00,Urbana,Avenida,AV ARMENIA,20 DE mayo,-2.746.816,-5.880.381,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Nublado,Buena,Sin Semáforo
+221,155607,2022-09-13,10:35:00,Urbana,Calle,VIEDMA,ESTRADA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+222,162764,2022-09-12,10:45:00,Urbana,Avenida,AV LAPRIDA,MISTRAL,-2.747.004,-5.878.760,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+223,176148,2022-09-12,19:00:00,Urbana,Calle,HIPOLITO YRIGOYEN,MENDOZA,,,1.0,1.0,0.0,1,1.0,Atropello a peatón/es,2,Asfalto,Apto,Seca,Día,,Despejado,,Funciona
+224,143728,2022-09-11,07:45:00,Urbana,Calle,SAN MARTIN,PARAGUA,,,1.0,1.0,0.0,2,0.0,Choque,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+225,146704,2022-09-11,07:15:00,Urbana,,GUEMES,LA MADRID,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+226,161519,2022-09-09,14:46:00,Urbana,Avenida,AV INDEPENDENCIA,RIO JURAMENTO,-2.748.136,-5.879.933,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+227,171737,2022-09-09,07:54:00,Urbana,Calle,9 DE julio,CÓRDOBA,-2.746.663,-5.883.444,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+228,136412,2022-09-09,19:00:00,Urbana,Avenida,AV- PUJOL,ROCA,-2.746.681,-5.882.121,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+229,155562,2022-09-09,17:34:00,Urbana,Calle,BOLIVAR,JUJUY,-2.747.175,-5.882.827,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+230,169872,2022-09-09,08:16:00,Rural,Ruta Nacional,12,ACCESO AL BARRIO PONCE,-2.747.833,-5.878.270,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Tierra,Apto,,Día,NO,Despejado,Buena,Funciona
+231,135570,2022-09-07,12:50:00,Urbana,Calle,SANTA FE,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,
+232,163578,2022-09-07,10:05:00,Urbana,Ruta Provincial,RUTA 5,CESAR ALVAREZ,-2.748.446,-5.878.012,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+233,174824,2022-09-06,11:10:00,Urbana,Calle,CATAMARCA,RIVADAVIA,-2.747.465,-5.883.385,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+234,139230,2022-09-06,13:30:00,Urbana,Calle,SAN MARTIN,EE.UU,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+235,147417,2022-09-05,18:41:00,,,CENTENARIO,SANCHEZ DE BUSTAMANTE,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Atardecer,SI,Despejado,Buena,Sin Semáforo
+236,153797,2022-09-05,14:40:00,Urbana,Avenida,AV CENTENARIO,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+237,162744,2022-09-05,10:40:00,Urbana,Avenida,AV CHACABUCO,SUIZA,-2.747.548,-5.881.368,2.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+238,165351,2022-09-02,14:40:00,Urbana,Calle,MISIONES,SIMÓN BOLÍVAR,-2.747.009,-5.884.572,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,SI,Despejado,Buena,
+239,139236,2022-09-02,06:00:00,Urbana,Avenida,AV. INDEPENDENCIA,,,,1.0,0.0,0.0,3,0.0,Choque,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+240,158350,2022-09-02,12:13:00,Urbana,Avenida,AVDA CAZADORES CORRENTINOS,TACUARÍ,-2.748.642,-5.880.730,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+241,175499,2022-09-02,15:10:00,Urbana,Avenida,AV PUJOL,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+242,133401,2022-09-01,15:30:00,Urbana,Avenida,AV. ALFONSIN,TACUARÍ,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+243,175494,2022-09-01,18:30:00,Urbana,Avenida,AV CENTENARIO,NIÑO JESUS,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+244,133387,2022-09-01,09:55:00,Urbana,Avenida,AV. MEDRANO,,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+245,151211,2022-08-31,14:50:00,Urbana,Avenida,AV ARMENIA,CANAL 13,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+246,164599,2022-08-31,07:50:00,Urbana,Avenida,AV RAUL ALFONSIN,SANCHEZ DE BUSTAMANTE,-2.747.702,-5.878.785,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+247,139273,2022-08-31,20:21:00,Urbana,Ruta Provincial,5,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+248,161517,2022-08-31,08:16:00,Urbana,Avenida,AV LIBERTAD,DARDO ROCHA,-2.746.623,-5.878.801,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+249,134815,2022-08-31,15:10:00,Urbana,Calle,SALTA,RIVADAVIA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+250,137580,2022-08-30,14:33:00,Urbana,Avenida,RAUL ALFONSIN,,,,2.0,1.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+251,159929,2022-08-29,10:19:00,Urbana,,AV. ARMENIA,MARTIN FIERRO,,,8.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+252,168132,2022-08-29,07:15:00,Urbana,Calle,MENDOZA,LAVALLE,-2.747.714,-5.883.665,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+253,168418,2022-08-29,09:10:00,Urbana,Calle,ESPAÑA,BERNARIDNO RIVADAVIA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,,NO,Despejado,Buena,Sin Semáforo
+254,169895,2022-08-28,16:30:00,Urbana,Avenida,AVENIDA INDEPENDENCIA,LAS PIEDRAS,-2.748.065,-5.880.052,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+255,201970,2022-08-27,20:30:00,Urbana,Calle,CAZADORES CORRENTINOS,RESOAGLI,,,0.0,2.0,0.0,1,1.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,,Sin Semáforo
+256,151190,2022-08-26,20:35:00,Urbana,Avenida,AV ALTA GRACIA,STA CATALINA,,,1.0,0.0,0.0,1,0.0,Atropello a animal/es,1,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+257,168419,2022-08-26,15:10:00,Urbana,Avenida,AVENIDA CAZADORES CORRENTINOS,RECONQUISTA,-2.748.682,-5.880.878,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+258,151198,2022-08-26,21:55:00,Urbana,,ROCA,LAVALLE,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Noche,SI,Despejado,Buena,Sin Semáforo
+259,167702,2022-08-26,00:14:00,Rural,Ruta Provincial,5,,-2.748.802,-5.876.355,3.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Baches,Seca,Noche,NO,Despejado,,Sin Semáforo
+260,133384,2022-08-26,12:20:00,Urbana,Avenida,AV. MAIPU,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+261,152973,2022-08-25,07:05:00,Urbana,Calle,ALVEAR,BRASIL,,,1.0,0.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+262,161490,2022-08-25,22:50:00,Urbana,Calle,SAN JUAN,SAN MARTÍN,-2.746.976,-5.883.700,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+263,146703,2022-08-25,08:25:00,Urbana,,LAS MARGARITAS,JOSEFINA CONTTE,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+264,158368,2022-08-24,11:41:00,Urbana,Calle,BOLÍVAR,Y SAN LUIS,-2.747.030,-5.884.320,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+265,172477,2022-08-24,08:00:00,Urbana,Avenida,AVENIDA MAIPÚ,NUESTRA SEÑORA DE LA ASUNCIÓN,-2.749.125,-5.881.989,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Otro,Apto,,Día,,Despejado,,Funciona
+266,148187,2022-08-24,17:20:00,Urbana,Calle,SAN MARTIN,PARAGUAY,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+267,139249,2022-08-24,07:00:00,Urbana,Calle,GRAL PAZ,PIO XII,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+268,139264,2022-08-23,13:30:00,Urbana,Avenida,AV MAIPU,FRAGATA SARMIENTO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+269,132618,2022-08-23,20:55:00,Urbana,Calle,TUCUMAN,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Noche,SI,Despejado,Buena,
+270,139941,2022-08-22,18:07:00,Urbana,Calle,CORDOBA,MORENO,,,2.0,1.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+271,139943,2022-08-22,10:40:00,Urbana,Avenida,AV CENTENARIO,PJE BIRAN,,,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+272,141872,2022-08-22,19:44:00,Urbana,Avenida,3 DE CABRIL,BS. AS.,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,,Seca,Noche,SI,Despejado,Buena,Intermitente
+273,148146,2022-08-21,08:37:00,Urbana,Calle,GASCON,,-2.748.084,-5.879.441,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+274,159877,2022-08-21,08:50:00,Urbana,Avenida,AVDA. ARMENIA,CRISTO OBRERO,-2.746.866,-5.879.799,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+275,137054,2022-08-21,10:35:00,Urbana,Calle,PARAGUAY,BELGRANO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+276,163594,2022-08-20,19:00:00,Urbana,Avenida,AVDA. CAZADORES CORRENTINOS,C. SAAVEDRA,-2.748.715,-5.881.352,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,
+277,169146,2022-08-20,08:00:00,Urbana,Calle,BENITO LYNCH,ANDRADE,-2.746.596,-5.879.750,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Tierra,Apto,,Día,NO,Despejado,Buena,Sin Semáforo
+278,174258,2022-08-20,13:30:00,Urbana,Calle,RECONQUISTA,PASAJE GUIDO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+279,165426,2022-08-20,06:50:00,Urbana,Avenida,AVENIDA PRESIDENTE AVELLANEDA,GASCÓN,-2.748.799,-5.879.646,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Mojada,Día,NO,Nublado,Buena,Sin Semáforo
+280,155597,2022-08-20,18:50:00,Urbana,Avenida,AV PAYSANDU,SAN MARTIN,-2.750.013,-5.882.584,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,,Seca,Día,SI,Despejado,Buena,
+281,169149,2022-08-19,13:30:00,Urbana,Calle,SIMÓN BOLÍVAR,JULIO ARGENTINO ROCA,-2.747.227,-5.882.323,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+282,157726,2022-08-18,17:29:00,Urbana,Avenida,AV ARMENIA,22 DE mayo,,,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+283,167704,2022-08-18,13:15:00,Urbana,Avenida,AVENIDA CHACABUCO,SUIZA,-2.747.551,-5.881.374,3.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+284,157811,2022-08-17,17:30:00,Urbana,Avenida,AVENIDA IBERÁ,,-2.749.843,-5.883.415,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+285,173772,2022-08-16,17:50:00,Urbana,Calle,MENDOZA,25 DE mayo,,,1.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+286,158361,2022-08-16,13:10:00,Urbana,Avenida,AVDA. FERRÉ,GOB. GOITIA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+287,165387,2022-08-15,10:44:00,Urbana,Avenida,AVENIDA ALTA GRACIA,2 DE abril,-2.750.910,-5.882.224,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+288,134822,2022-08-15,14:15:00,Urbana,Calle,GENERAL PAZ,GUASTAVINO,,,4.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+289,165343,2022-08-14,15:20:00,Urbana,Avenida,LORETO,AVENIDA MAIPÚ,-2.750.595,-5.881.114,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+290,134039,2022-08-13,07:55:00,Urbana,Calle,ABITBOL,PAYES,-2.754.305,-5.878.814,0.0,4.0,0.0,2,0.0,Colisión entre vehículos,2,Tierra,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+291,145134,2022-08-13,02:15:00,Urbana,Avenida,AV 3 DE ABRIL,VARGAS GOMEZ,,,1.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Funciona
+292,147086,2022-08-13,09:30:00,Urbana,,GUTEMBERG,LAVALLE,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+293,174827,2022-08-12,08:35:00,Urbana,Calle,MADARIAGA,EX VÍA,-2.748.456,-5.882.338,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+294,148998,2022-08-12,06:30:00,Urbana,Calle,LAFERRERE,ONTIVEROS,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Sin Semáforo
+295,169873,2022-08-12,06:50:00,Urbana,Calle,RIVADAVIA,JUJUY,-2.747.515,-5.882.862,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Mojada,Amanecer,NO,Lluvia,Buena,Sin Semáforo
+296,165345,2022-08-12,16:30:00,Urbana,Calle,CARIBE,ATACAMA,-2.749.912,-5.881.620,1.0,0.0,0.0,1,0.0,Choque,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+297,167743,2022-08-11,06:46:00,Urbana,Calle,MEDRANO,,-2.747.859,-5.879.782,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,,Sin Semáforo
+298,145050,2022-08-11,20:00:00,Urbana,Avenida,AV ARMENIA,J R FERNANDEZ,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Funciona
+299,161487,2022-08-11,07:45:00,Urbana,Avenida,AVDA. COSTANERA GRAL SAN MARTÍN,DON BOSCO,-2.746.641,-5.884.931,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+300,151187,2022-08-11,05:25:00,Urbana,Avenida,AV INDEPENDENCIA,GASCON,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+301,134090,2022-08-11,10:20:00,Urbana,Avenida,AV INDEPENDENCIA,MEDRANO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+302,145047,2022-08-11,09:52:00,Urbana,Avenida,R.R.ALFONSIN,DARRAGUEIRA,-2.747.578,-5.879.452,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+303,159931,2022-08-09,17:35:00,Urbana,,AV. MEDRANO,CARTAGENA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+304,134805,2022-08-09,07:10:00,Urbana,Ruta Nacional,5,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+305,151222,2022-08-09,20:40:00,,,PATAGONIA,PAISANDU,,,2.0,0.0,1.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+306,158364,2022-08-08,09:54:00,Urbana,Avenida,AVDA. TTE. IBAÑEZ,CATAMARCA,-2.748.561,-5.883.522,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+307,166846,2022-08-07,13:30:00,Urbana,Calle,DARRAGUEIRA,MORENO,-2.748.048,-5.879.645,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Tierra,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+308,134821,2022-08-07,16:40:00,Urbana,Calle,IRIGOYEN,ROCA,,,1.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,,Día,NO,Despejado,Buena,
+309,152092,2022-08-06,11:10:00,Urbana,,H.IRIGOYEN,RIOJA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+310,162784,2022-08-06,08:00:00,Urbana,Avenida,AVDA. PONCHO VERDE,,-2.746.678,-5.882.259,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+311,169838,2022-08-06,12:35:00,Urbana,Avenida,AV. ARTIGAS,RIVADAVIA,-2.747.607,-5.881.963,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+312,139737,2022-08-06,06:50:00,Urbana,Avenida,AV LIBERTAD,LAS VIOLETAS,-2.746.281,-5.877.484,1.0,0.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+313,175493,2022-08-05,23:40:00,Urbana,Avenida,AV EL MAESTRO,COSQUIN Y RAFAELA,,,0.0,1.0,0.0,1,0.0,Atropello a animal/es,1,Asfalto,Apto,Seca,Noche,SI,Despejado,,Sin Semáforo
+314,157802,2022-08-04,07:20:00,,Avenida,AV MAIPU,NUESTRA SEÑORA DE LA ASUNCIÓN,-2.749.125,-5.881.990,3.0,2.0,0.0,4,0.0,Colisión entre vehículos,4,Asfalto,Apto,"Despejada, Seca",Amanecer,SI,Despejado,Buena,
+315,163573,2022-08-02,14:06:00,Urbana,Calle,RECONQUISTA,LAS HERAS,-2.748.324,-5.881.413,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Ripio,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+316,169148,2022-08-01,09:36:00,Urbana,Avenida,AVENIDA TENIENTE IBAÑEZ,LISANDRO SEGOVIA,-2.748.551,-5.883.644,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Sin Semáforo
+317,139251,2022-07-31,10:00:00,Urbana,Calle,PAMPIN,,,,1.0,0.0,0.0,1,0.0,Choque,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+318,171750,2022-07-31,06:00:00,Urbana,Calle,SUIZA,CORNELIO SAAVEDRA,-2.747.595,-5.881.165,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Amanecer,NO,Despejado,Buena,Sin Semáforo
+319,163590,2022-07-31,16:40:00,Urbana,Calle,GOGOY CRUZ,,,,1.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+320,169845,2022-07-30,04:00:00,Urbana,Avenida,AVENIDA RAÚL ALFONSÍN,LOS TILOS,-2.747.389,-5.880.136,1.0,1.0,1.0,1,0.0,Despiste,1,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+321,142762,2022-07-30,06:20:00,Urbana,Avenida,AV MAIPU,TILCARA,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",,SI,Nublado,Buena,Funciona
+322,162768,2022-07-30,06:20:00,Urbana,Calle,SALTA,25 DE mayo,-2.746.372,-5.883.880,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Amanecer,SI,Despejado,Buena,Sin Semáforo
+323,134051,2022-07-30,09:10:00,Urbana,Avenida,AV. INDEPENDENCIA,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+324,175479,2022-07-30,06:50:00,Urbana,Avenida,AVENIDA FERRÉ,AVENIDA SANTA ROSA,-2.747.785,-5.881.979,1.0,1.0,0.0,1,1.0,Atropello a peatón/es,2,Asfalto,Apto,Seca,Día,,Despejado,,Funciona
+325,139222,2022-07-29,07:55:00,Urbana,Calle,MADARIAGA,PIO XII,-2.748.473,-5.882.021,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+326,142718,2022-07-29,07:00:00,Urbana,Calle,SALTA,PELLEGRINI,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Mojada,Día,NO,Lluvia,Lluvia,Sin Semáforo
+327,158365,2022-07-29,10:15:00,Urbana,Avenida,AVDA. PUJOL,,-2.746.598,-5.882.320,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+328,157820,2022-07-28,12:25:00,Urbana,Calle,SAN MARTIN,EE UU,-2.747.203,-5.881.432,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+329,137577,2022-07-28,19:30:00,Urbana,Avenida,AV CAZADORES CORRENTINOS,FRANCIA,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+330,142756,2022-07-28,13:50:00,Urbana,Calle,J M ROLON,PARAGUAY,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+331,161488,2022-07-28,23:50:00,Urbana,Avenida,AVDA. PEDRO FERRÉ,PARAGUAY,-2.747.668,-5.882.746,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,
+332,134846,2022-07-27,19:20:00,Urbana,Calle,LOS TILOS,YATAY,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+333,165423,2022-07-26,06:10:00,Urbana,Calle,GÜEMES,,-2.747.598,-5.880.700,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+334,139232,2022-07-26,08:55:00,Urbana,Avenida,MEDRANO,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+335,143761,2022-07-24,13:07:00,Urbana,Calle,ESTADO DE ISRAEL,RECONQUISTA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+336,148209,2022-07-24,09:18:00,Urbana,,GOBERNADOR RUIZ,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Nublado,Buena,Sin Semáforo
+337,163596,2022-07-23,23:05:00,Urbana,Calle,ESPAÑA,CARLOS PELLEGRINI,-2.746.543,-5.882.891,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,,Buena,Sin Semáforo
+338,151189,2022-07-23,15:15:00,Urbana,Avenida,AV ARMENIA,24 DE agosto,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+339,165420,2022-07-23,12:26:00,Urbana,Calle,TUCUMÁN,,-2.746.425,-5.884.144,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Lluvia,Lluvia,Sin Semáforo
+340,152106,2022-07-23,18:22:00,Urbana,,ROTONDA SANTA CATALINA,MAIPU,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Atardecer,SI,Despejado,Buena,Sin Semáforo
+341,139945,2022-07-22,09:50:00,Urbana,Calle,LA RIOJA,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+342,133406,2022-07-20,07:30:00,Urbana,Calle,9 DE julio,,,,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+343,153795,2022-07-19,16:11:00,Urbana,Calle,RIVADAVIA,BRASIL,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+344,175495,2022-07-18,06:20:00,Urbana,Calle,MEXICO,JUNIN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+345,151205,2022-07-18,18:40:00,Urbana,Calle,QUINQUELA MARTIN,,-2.747.577,-5.879.365,1.0,2.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,Atardecer,SI,Despejado,Buena,Sin Semáforo
+346,160640,2022-07-17,22:45:00,Urbana,Calle,USHUAIA,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+347,139224,2022-07-17,08:30:00,Urbana,Calle,BRASIL,IRIGOYEN,-2.746.982,-5.882.418,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+348,139738,2022-07-16,10:50:00,Urbana,Avenida,AV PAYSANDU,IBERA,-2.749.944,-5.882.569,2.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Funciona
+349,142691,2022-07-16,00:15:00,Urbana,Avenida,AV TENIENTE IBAÑEZ,AV MAIPU,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+350,146712,2022-07-16,06:55:00,Urbana,,LAGRAÑA,ROLON,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Atardecer,NO,Despejado,Buena,Sin Semáforo
+351,158356,2022-07-15,12:50:00,Urbana,Avenida,PLÁCIDO MARTÍNEZ,,-2.746.157,-5.884.055,3.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,
+352,137576,2022-07-14,19:13:00,Urbana,Avenida,AV. CAZADORES CORRENTINOS,RECONQUISTA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+353,152977,2022-07-13,20:50:00,Urbana,Avenida,AV. CHACABUCO,GENERAL PAZ,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+354,159882,2022-07-13,16:20:00,Urbana,Calle,PERÚ,BELGRANO,-2.747.348,-5.882.200,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+355,175478,2022-07-12,11:30:00,Urbana,Avenida,AVENIDA MAIPÚ,,-2.748.697,-5.882.277,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+356,139736,2022-07-12,13:10:00,Urbana,Avenida,AV MAIPU,,-2.748.833,-5.882.183,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+357,161543,2022-07-12,09:02:00,Urbana,Avenida,Av. Chacabuco,ARNMENIA,,,0.0,1.0,0.0,1,0.0,Despiste,1,Asfalto,Apto,Despejada,,NO,Despejado,Buena,Sin Semáforo
+358,175477,2022-07-11,18:50:00,Urbana,Avenida,AVENIDA POMAR,AVENIDA RAÚL ALFONSÍN,-2.747.270,-5.880.627,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Funciona
+359,137589,2022-07-11,14:09:00,Urbana,Calle,ROCA,SAN MARTIN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+360,139239,2022-07-11,19:09:00,Urbana,Avenida,AV. TTE IBAÑEZ,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+361,134797,2022-07-11,11:10:00,Urbana,Avenida,AV FERRE,PERU,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+362,134864,2022-07-10,12:50:00,Urbana,Avenida,AV. CHACABUCO,LAS HERAS,,,0.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Ripio,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+363,136368,2022-07-10,15:05:00,Urbana,Calle,DON BOSCO,SAN MARTIN,,,1.0,0.0,0.0,1,0.0,Choque,1,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+364,161499,2022-07-10,06:40:00,Urbana,Calle,RÍO LIMAY,COMODORO RIVADAVIA,-2.749.018,-5.883.518,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Amanecer,NO,Despejado,Buena,
+365,169893,2022-07-09,13:55:00,Urbana,Avenida,AVENIDA RAÚL ALFONSÍN,DESCARTES,-2.747.726,-5.878.632,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+366,139275,2022-07-09,21:50:00,Urbana,Calle,AYACUCHO,ARTIGAS,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,Funciona
+367,164590,2022-07-08,03:57:00,Urbana,Avenida,AV ARTIGA,,,,1.0,0.0,0.0,1,0.0,Choque,1,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+368,166063,2022-07-06,22:25:00,Urbana,Calle,TRANSITO COCOMAROLA,,-2.746.954,-5.881.874,0.0,1.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,Sin Semáforo
+369,139265,2022-07-06,07:10:00,Urbana,Avenida,AV PATAGONIA,CALLE 171,,,1.0,0.0,0.0,1,0.0,Despiste,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+370,142706,2022-07-05,18:39:00,Urbana,Avenida,AV ALTA GRACIA,STA CATALINA,,,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Mojada,Atardecer,NO,Lluvia,Lluvia,Sin Semáforo
+371,151183,2022-07-05,18:10:00,Urbana,Avenida,AV PUJOL,PERU,,,4.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+372,159878,2022-07-05,08:37:00,Urbana,Avenida,AVDA MAIPÚ,,-2.748.492,-5.882.436,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,,Apto,Seca,Día,NO,Despejado,Buena,
+373,144735,2022-07-05,14:47:00,Urbana,Avenida,AV. COSTANERA,3 DE abril,,,3.0,0.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+374,157805,2022-07-05,08:35:00,Urbana,,ESPAÑA,SAN MARTÍN,-2.747.053,-5.882.940,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+375,165427,2022-07-04,09:50:00,Urbana,Calle,NECOCHEA,AVENIDA SARMIENTO,-2.748.020,-5.883.059,6.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+376,134069,2022-07-04,12:57:00,Urbana,Calle,MEXICO,BELGRANO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+377,145182,2022-07-03,21:42:00,Urbana,Avenida,GOBERNADOR RUIZ,ESTADO UNIDO,,,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+378,176145,2022-07-02,07:50:00,Urbana,Calle,BOLIVAR,AV ARTIGAS,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+379,136375,2022-07-02,11:26:00,Urbana,Avenida,TTE IBAÑEZ,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,
+380,146713,2022-07-02,08:42:00,Urbana,,SAN MARTIN,EE.UU,,,1.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+381,134820,2022-07-02,12:15:00,Urbana,Calle,PEREZ BULNER,CAYETANO RODRIGUEZ,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+382,139938,2022-07-02,10:00:00,Urbana,Avenida,AV 3 DE ABRIL,SAN LUIS,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+383,145173,2022-07-02,16:15:00,,Avenida,AVENIDA VERA,CATARMARCA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+384,151193,2022-07-01,10:08:00,Urbana,Calle,TACUARI,LAS HERAS,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+385,139235,2022-07-01,08:45:00,Urbana,Avenida,AV. MAIPU,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+386,146729,2022-07-01,17:55:00,Urbana,Avenida,AV. TTE IBAÑEZ,BALBOA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+387,151217,2022-07-01,12:30:00,Urbana,,MADARIAGA,FRAGATA HERCULES,,,1.0,1.0,0.0,1,1.0,Atropello a peatón/es,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+388,146723,2022-06-30,15:55:00,Urbana,,CORDOBA,SAN MARTIN,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Mojada,Día,NO,Lluvia,Lluvia,Sin Semáforo
+389,174635,2022-06-30,15:10:00,Urbana,Avenida,Av. Montecarlos,Río de Janeíro,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,,Apto,Seca,Día,,Despejado,,Sin Semáforo
+390,148994,2022-06-30,13:50:00,Urbana,Avenida,AV 3 DE ABRIL,BS AS,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+391,169891,2022-06-29,09:30:00,Urbana,Avenida,AVENIDA LIBERTAD,UNNE,-2.746.523,-5.878.392,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Funciona
+392,141873,2022-06-29,12:40:00,Urbana,Avenida,AV MAIPU,LAS HERAS,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+393,148155,2022-06-29,14:19:00,Urbana,Calle,LA RIOJA,LAS HERAS,-2.748.033,-5.883.972,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+394,152959,2022-06-28,20:00:00,Urbana,,AV.MAIPÙ,SANTA CATALINA,,,1.0,1.0,0.0,2,0.0,,2,Hormigón,Apto,Seca,Atardecer,SI,Despejado,Buena,Funciona
+395,151200,2022-06-27,16:50:00,Urbana,,AV MAIPU,TILCARA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+396,152939,2022-06-27,10:35:00,Urbana,Calle,ESTADO DE ISRAEL,,-2.747.268,-5.881.894,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+397,134861,2022-06-26,22:51:00,Urbana,Calle,CUBA,YUGOSLAVIA,,,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,,Apto,,Noche,SI,,Buena,
+398,165340,2022-06-26,13:03:00,Urbana,Avenida,AVENIDA RAÚL ALFONSÍN,ARAOZ,,,1.0,1.0,0.0,1,1.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+399,134853,2022-06-26,12:38:00,Urbana,Calle,COLOMBIA,BROWN,-2.747.401,-5.881.752,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,Buena,Sin Semáforo
+400,169154,2022-06-26,06:00:00,Urbana,Avenida,AVENIDA MAIPÚ,VALPARAISO,-2.749.729,-5.881.599,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Sin Semáforo
+401,141857,2022-06-25,09:10:00,Urbana,Calle,CORDOBA,3 DE abril,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+402,152054,2022-06-25,08:40:00,Urbana,Calle,LAPRIDA,LAPIACE,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+403,152103,2022-06-23,18:00:00,Urbana,,SAN MARTIN,CATAMARCA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+404,171743,2022-06-23,17:59:00,Urbana,Calle,BELGRANO,BRASIL,-2.747.329,-5.882.458,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+405,174820,2022-06-23,19:10:00,Urbana,Calle,SICILIA,GRANADA,-2.745.758,-5.878.847,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Ripio,Apto,Seca,Día,,Despejado,,Sin Semáforo
+406,159884,2022-06-22,19:25:00,Urbana,Calle,TACUARÍ,LAMADRID,-2.748.542,-5.880.714,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+407,164601,2022-06-22,16:30:00,Urbana,Ruta Provincial,5,FRENTE A STA RITA,,,1.0,0.0,0.0,1,0.0,Vuelco (solo 1 participante),1,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+408,165421,2022-06-22,13:23:00,Urbana,Calle,PLÁCIDO MARTÍNEZ,SALTA,-2.746.176,-5.883.877,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Nublado,Buena,Funciona
+409,148955,2022-06-22,17:30:00,Urbana,Calle,GUASTAVINO,LAVALLE,,,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+410,171748,2022-06-21,17:52:00,Urbana,Avenida,AVENIDA CHACABUCO,AVENIDA CENTENARIO,-2.747.117,-5.881.256,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,SI,Despejado,Buena,Funciona
+411,139997,2022-06-20,21:10:00,Urbana,Avenida,AV ALTA GRACIA,AV STA CATALINA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+412,156556,2022-06-20,18:50:00,Urbana,Calle,CORDOBA,BELGRANO,-2.747.226,-5.883.513,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+413,134866,2022-06-20,13:40:00,Urbana,Avenida,AV JUAN DE VERA,ROCA,,,1.0,1.0,0.0,2,0.0,Choque,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+414,134045,2022-06-20,12:45:00,Urbana,Avenida,AV. INDEPENDENCIA,LAS PIEDRAS,,,0.0,1.0,0.0,1,0.0,Choque,1,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+415,164617,2022-06-20,11:20:00,Urbana,Calle,ROCA,25 DE mayo,-2.746.552,-5.882.207,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,,,Día,NO,Despejado,Buena,
+416,134804,2022-06-20,07:05:00,Urbana,Avenida,AV MAIPU,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+417,151213,2022-06-19,17:05:00,Urbana,Avenida,AV FERRE,CHACABUCO,,,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+418,135558,2022-06-19,11:15:00,Urbana,Avenida,AV MAIPU,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+419,153812,2022-06-19,08:40:00,Urbana,Calle,ROTONDA ESPAÑA,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+420,167745,2022-06-19,14:00:00,Urbana,Avenida,AVENIDA RAÚL ALFONSÍN,TACUARÍ,-2.747.306,-5.880.528,1.0,1.0,0.0,2,0.0,Choque,2,Asfalto,Apto,Seca,Día,SI,Nublado,Buena,Funciona
+421,133415,2022-06-19,08:10:00,Urbana,Calle,COLOMBIA,JUNIN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,
+422,151224,2022-06-19,09:44:00,Urbana,Avenida,AV. INDEPENDENCIA,GUEMES,,,2.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+423,157798,2022-06-19,11:05:00,Urbana,Avenida,AV INDEPENDENCIA,AV CHACABUCO,,,6.0,2.0,0.0,4,0.0,Colisión entre vehículos,4,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+424,164580,2022-06-19,12:00:00,Urbana,Avenida,AV PEDRO FERRE,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+425,169152,2022-06-18,11:20:00,Urbana,Calle,BUENOS AIRES,25 DE mayo,-2.746.385,-5.884.021,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+426,152985,2022-06-18,06:55:00,Urbana,,VERONA,COLECTORA,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Despejada,,SI,Despejado,Buena,Sin Semáforo
+427,134042,2022-06-18,09:40:00,Urbana,Calle,TACUARÍ,GENERAL PAZ,,,1.0,0.0,0.0,1,0.0,Choque,1,,Apto,Seca,Día,NO,Despejado,,Sin Semáforo
+428,148950,2022-06-18,08:00:00,Urbana,Calle,25 DE mayo,SAN JUAN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Mojada,Día,NO,Lluvia,Buena,Sin Semáforo
+429,153895,2022-06-18,08:10:00,,,AV PUJOL,BRASIL,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,,Seca,Día,NO,Despejado,Buena,
+430,160654,2022-06-18,06:00:00,Urbana,Calle,CÓRDOBA,CARLOS PELLEGRINI,-2.746.557,-5.883.408,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Amanecer,NO,Despejado,,Funciona
+431,137572,2022-06-18,20:00:00,Urbana,Calle,BONASTRE,IBERA,,,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+432,164613,2022-06-17,07:30:00,Urbana,Avenida,AVDA. ARMENIA,CRISTO OBRERO,-2.746.863,-5.879.800,0.0,2.0,0.0,1,1.0,Atropello a peatón/es,2,Hormigón,Apto,Seca,Día,NO,"Despejado, Viento",Buena,Funciona
+433,168421,2022-06-17,06:30:00,Urbana,Avenida,AVENIDA PEDRO FERRÉ,,,,0.0,1.0,0.0,2,0.0,Choque,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+434,161483,2022-06-17,21:45:00,Urbana,Calle,ASUNCIÓN,,,,1.0,0.0,1.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+435,174821,2022-06-17,07:00:00,Urbana,Avenida,AVDA. CARTAGENA,AVDA. MEDRANO,-2.749.615,-5.880.031,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Funciona
+436,157785,2022-06-15,10:24:00,Urbana,Avenida,AV ARMRNIA,LOS LAPACHO,-2.746.898,-5.879.883,0.0,2.0,0.0,1,1.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+437,157849,2022-06-15,19:30:00,Urbana,Avenida,AV MAIPU,ROTONDA SANTA CATALINA,-2.752.241,-5.879.940,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+438,173503,2022-06-14,14:20:00,Urbana,Calle,San Lorenzo,Junin,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Otro,Apto,Seca,Día,,Despejado,,Funciona
+439,143755,2022-06-14,05:36:00,Urbana,Ruta Nacional,5,,,,1.0,0.0,0.0,1,0.0,Despiste,1,Asfalto,Apto,Seca,Amanecer,NO,Despejado,Buena,Sin Semáforo
+440,137592,2022-06-14,13:39:00,Urbana,Avenida,AV. CENTENARIO,QUINQUELA MARTIN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+441,175492,2022-06-14,10:00:00,Urbana,Calle,GUTEMBERG,LAMADRID,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+442,143765,2022-06-14,11:34:00,Urbana,Avenida,3 DE abril,CATAMARCA,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+443,157800,2022-06-13,16:45:00,Urbana,Avenida,AV 3 DE ABRIL,CHACO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+444,164598,2022-06-12,13:00:00,Urbana,Calle,LARREA,DR SUSSINI,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+445,135583,2022-06-12,06:45:00,Urbana,Avenida,AV. FERRE,PARAGUAY,-2.747.671,-5.882.746,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+446,159881,2022-06-12,22:15:00,Urbana,Calle,SAN JUAN,MADARIAGA,-2.748.271,-5.883.895,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,"Despejada, Seca",Noche,SI,Despejado,,Sin Semáforo
+447,146707,2022-06-11,06:39:00,Urbana,,AV.INDEPENDENCIA,MEDRANO,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,No Funciona
+448,151164,2022-06-11,13:50:00,Urbana,,URUGUAY,JULIO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+449,160653,2022-06-10,18:40:00,Urbana,Avenida,AVDA. INDEPENDENCIA,,-2.747.988,-5.880.443,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Atardecer,NO,Despejado,Buena,
+450,139250,2022-06-09,06:20:00,Urbana,Avenida,AV CHACABUCO,BOLIVAR,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Sin Semáforo
+451,139261,2022-06-09,12:25:00,Urbana,Avenida,AV CHACABUCO,ÑAEMBE,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+452,160648,2022-06-08,09:14:00,Urbana,Avenida,AVDA. MAIPÚ,,-2.748.357,-5.882.550,0.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,,NO,,Buena,
+453,171740,2022-06-07,16:50:00,Urbana,Calle,PÍO XII,MADARIAGA,-2.748.303,-5.883.747,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+454,139254,2022-06-06,16:45:00,Urbana,Avenida,AV GDOR RUIZ,MEXICO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+455,160681,2022-06-06,08:45:00,Urbana,Avenida,AVDA. INDEPENDENCIA,,-2.748.065,-5.880.164,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+456,165295,2022-06-05,10:58:00,Urbana,Calle,JUJUY,MORENO,-2.747.390,-5.882.850,3.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+457,134831,2022-06-05,12:50:00,Urbana,Avenida,CHACABUCO,GRAL PAZ,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+458,143722,2022-06-04,17:34:00,Urbana,Avenida,AV PEDRO FERRE,JUJUY,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+459,134850,2022-06-04,19:50:00,Urbana,Calle,SAN JUAN,MARIANO MORENO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+460,157806,2022-06-04,09:15:00,Urbana,,HÉROES CIVILES,LAMADRID,-2.748.148,-5.883.980,6.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+461,169847,2022-06-04,17:40:00,Urbana,Avenida,AVENIDA RAÚL ALFONSÍN,,-2.747.517,-5.879.690,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+462,134865,2022-06-04,09:37:00,Urbana,Calle,COLOMBIA,ESTADO DE ISRAEL,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+463,135582,2022-06-03,17:49:00,Urbana,Calle,ESPAÑA,MORENO,-2.747.388,-5.882.985,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+464,145741,2022-06-03,11:00:00,Urbana,Calle,BUENOS AIRES,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+465,158373,2022-06-03,18:50:00,Urbana,Avenida,AVDA. MAIPÚ,TILCARA,,,3.0,2.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Noche,NO,Despejado,,
+466,169846,2022-06-03,17:15:00,Urbana,Avenida,AVENIDA CAZADORES CORRENTINOS,,-2.748.729,-5.880.224,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+467,151208,2022-06-02,14:10:00,Urbana,Avenida,AV 3 DE ABRIL,BUENOS AIRES,-2.747.498,-5.884.116,0.0,1.0,0.0,1,0.0,Choque,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+468,143758,2022-06-02,14:05:00,Urbana,Calle,SAN LORENZO,JUNIN,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Funciona
+469,134089,2022-06-02,15:30:00,Urbana,Calle,MORENO,JUJUY,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,
+470,152964,2022-06-02,20:30:00,Urbana,Avenida,AV CENTENARIO,,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,"Despejada, Seca",Día,SI,Despejado,Buena,Funciona
+471,156560,2022-05-31,10:20:00,Urbana,Calle,J. M. ROLON,VELEZ SARSFIELD,-2.746.165,-5.881.921,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+472,163587,2022-05-31,06:20:00,Urbana,Ruta Provincial,5,,,,1.0,0.0,0.0,1,0.0,Vuelco (solo 1 participante),1,Asfalto,Apto,"Despejada, Seca",Amanecer,SI,Nublado,Buena,Sin Semáforo
+473,174825,2022-05-30,16:45:00,Urbana,Avenida,AVENIDA CHACABUCO,MADARIAGA,-2.748.513,-5.881.597,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+474,139940,2022-05-30,14:38:00,Urbana,Avenida,AV PUJOL,COLOMBIA,,,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+475,161493,2022-05-30,09:11:00,Urbana,Avenida,AVDA. J.G. PUJOL,JUNÍN,-2.746.915,-5.881.955,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+476,161495,2022-05-29,13:05:00,Urbana,Calle,GUTEMBERG,ISLAS MALVINAS,-2.748.180,-5.883.206,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,
+477,134049,2022-05-28,07:33:00,Urbana,Calle,9 DE julio,BUENOS AIRES,-2.746.618,-5.884.047,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+478,165422,2022-05-28,14:25:00,Urbana,Calle,SIMÓN BOLÍVAR,ITUZAINGÓ,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Nublado,Buena,Sin Semáforo
+479,157725,2022-05-27,11:15:00,Urbana,Avenida,AV PEDRO FERRE,,,,5.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+480,163575,2022-05-27,10:00:00,Urbana,Avenida,MEDRANO,FRENTE JARDIN BOTANICO,-2.749.963,-5.879.831,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+481,164589,2022-05-27,08:32:00,Urbana,Avenida,AV CHACABUCO,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+482,134048,2022-05-25,16:35:00,Urbana,Calle,DARDO ROCHA,REMEDIOS DE ESCALADA,,,1.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+483,132632,2022-05-24,16:37:00,Urbana,Avenida,BUENOS AIRES,AV. 3 DE ABRIL,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+484,139237,2022-05-23,12:30:00,Urbana,Calle,SANTA FE,BOLIVAR,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+485,151225,2022-05-23,11:40:00,Urbana,,SAN FRANCISCO DE ASIS,YUGOSLAVIA,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+486,152974,2022-05-23,11:45:00,Urbana,Avenida,AV. TTE IBAÑEZ,CORDOBA (LISANDRO SEGOVIA),,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+487,151194,2022-05-22,11:24:00,Urbana,Avenida,ROTONDA OESTE,AV.INDEPENDENCIA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+488,153890,2022-05-21,11:10:00,Urbana,Avenida,AV. INDEPENDENCIA,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+489,161497,2022-05-21,15:45:00,Urbana,Avenida,AVDA. COSTANERA GRAL. SAN MARTÍN,,-2.746.584,-5.884.837,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+490,141875,2022-05-21,13:02:00,Urbana,Calle,GENERAL PAZ,SAN LOPRENZO,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+491,139972,2022-05-20,22:15:00,Urbana,Avenida,AV MAIPU (FRENTE A CHANGO MAS),,,,1.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+492,161553,2022-05-20,12:40:00,Urbana,Avenida,AV MAIPU,,,,0.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+493,140971,2022-05-20,08:30:00,Urbana,Avenida,AV. LA PAZ,AV. MAIPU,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+494,153809,2022-05-19,09:15:00,Urbana,Calle,25 DE mayo,SAN LORENZO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+495,167742,2022-05-18,10:38:00,Urbana,Avenida,AVENIDA PEDRO FERRÉ,iTUZAINGÓ,-2.747.768,-5.882.043,1.0,2.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,,Día,NO,Despejado,Buena,Sin Semáforo
+496,157803,2022-05-18,19:11:00,Urbana,,CARLOS PELLEGRINI,JUJUY,-2.746.614,-5.882.769,2.0,,,2,,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,
+497,168420,2022-05-17,17:00:00,Urbana,Calle,SUIZA,RECONQUISTA,-2.747.568,-5.881.273,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+498,147088,2022-05-16,10:59:00,Urbana,Avenida,REPUBLICA EL LIBANO,SARMIENTO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+499,156557,2022-05-16,22:30:00,Urbana,Avenida,AV CENTENARIO,,-2.747.365,-5.880.263,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+500,152967,2022-05-16,06:10:00,Urbana,Avenida,ROTONDA PUJOL,,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,"Despejada, Seca",Día,SI,Nublado,Buena,Sin Semáforo
+501,157808,2022-05-15,19:00:00,,Ruta Nacional,12,FRENTE AL AEROPUERTO,-2.745.185,-5.875.548,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+502,164620,2022-05-14,10:15:00,Urbana,Calle,MARIANO MORENO,SAN LORENZO,-2.747.363,-5.883.240,2.0,0.0,0.0,2,0.0,,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,
+503,152942,2022-05-14,07:30:00,Urbana,Avenida,AV IV CENTENARIO,AV COLON,-2.748.918,-5.883.813,1.0,1.0,0.0,1,0.0,Choque,1,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Funciona
+504,148186,2022-05-12,12:56:00,Urbana,,CAZADORES,GAZCON,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+505,152944,2022-05-11,10:40:00,Urbana,Calle,AV PATAGONIA,AV PAYSANDU,-2.749.259,-5.882.438,1.0,0.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+506,137590,2022-05-11,11:20:00,Urbana,Calle,ESPAÑA,3 DE abril,,,3.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+507,175461,2022-05-10,09:35:00,Urbana,Calle,ESPAÑA,QUINTANA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,S/D,Apto,Seca,Día,,Despejado,,S/D
+508,162785,2022-05-09,06:20:00,Urbana,Avenida,AVDA. MAIPÚ,MOCORETÁ,-2.751.322,-5.880.808,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+509,171739,2022-05-09,13:20:00,Urbana,Avenida,AVDA. MONTECARLO,SAN FRANCISCO DE ASIS,-2.749.403,-5.879.625,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,SI,Despejado,Buena,Sin Semáforo
+510,175471,2022-05-09,12:46:00,Urbana,Avenida,AVENIDA AYACUCHO,,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,,Despejado,,Funciona
+511,139968,2022-05-09,12:23:00,Urbana,Calle,SANTA FE,MORENO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+512,156524,2022-05-09,16:35:00,Urbana,Calle,NEUQUEN,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Ripio,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+513,160651,2022-05-09,13:15:00,Urbana,Avenida,AVDA. MAIPÚ,LOS MATACOS,-2.750.367,-5.881.213,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,,Seca,Día,SI,Despejado,Buena,
+514,175449,2022-05-08,20:20:00,Urbana,Avenida,AV CENTENARIO,ONTIVERO,,,2.0,1.0,,3,,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+515,142694,2022-05-08,15:40:00,Urbana,Avenida,AV PEDRO FERRE,PARAGUA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+516,169864,2022-05-08,11:05:00,Urbana,Calle,LORETO,RENACIMIENTO,,,3.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Tierra,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+517,152056,2022-05-08,12:20:00,Urbana,,CARLOS PELLEGRINI,SAN LUIS,,,0.0,1.0,0.0,1,0.0,Despiste,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+518,156559,2022-05-08,13:37:00,Urbana,Avenida,AV MAIPU,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+519,139262,2022-05-07,15:59:00,Urbana,Avenida,AV LIBERTAD,AV . J. R. FERNANDEZ,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+520,139937,2022-05-07,18:45:00,Urbana,Avenida,AV LIBERTAD,RUTA 12,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+521,169849,2022-05-07,07:50:00,Urbana,Avenida,LAS HERAS,FRAY JUSTO SANTA MARIA DE ORO,-2.748.250,-5.881.978,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Tierra,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,
+522,145170,2022-05-06,07:58:00,Urbana,Calle,25 DE mayo,COSTANERA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+523,152940,2022-05-05,16:45:00,Urbana,Avenida,AV CAZADORES CORRENTINOS,SAAVEDRA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+524,152963,2022-05-05,10:40:00,Urbana,Calle,RIOJA,RIVADAVIA,-2.747.422,-5.883.878,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+525,169848,2022-05-03,12:15:00,Rural,Ruta Nacional,12,ROTONDA DE LA VIRGEN DE ITATÍ,-2.748.391,-5.878.235,1.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+526,142699,2022-05-03,12:29:00,Urbana,Avenida,AV INDEENDENCIA,GUEMES,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+527,160645,2022-05-02,14:45:00,Urbana,Calle,MEDRANO,SAN FRANCISCO DE ASÍS,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,
+528,174618,2022-04-30,05:50:00,Urbana,Avenida,AV. MAIPU,Los Alpes,,,0.0,0.0,1.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Noche,NO,Despejado,,Sin Semáforo
+529,133405,2022-04-30,19:45:00,Urbana,Calle,BONASTRE,RIO NEGRO,,,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Atardecer,SI,Despejado,Buena,
+530,140963,2022-04-30,05:30:00,Urbana,Ruta Provincial,5,,,,1.0,0.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,"Despejada, Seca",Día,SI,Despejado,Buena,Sin Semáforo
+531,163579,2022-04-29,19:00:00,Urbana,Calle,AV ARTIGAS,BOLIVAR,-2.747.270,-5.881.887,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,Sin Semáforo
+532,164579,2022-04-29,18:00:00,Urbana,Avenida,AV CHACABUCO,LAVALLE,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+533,142696,2022-04-29,14:53:00,Urbana,Avenida,PATAGONIA,BONASTRE,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+534,160642,2022-04-28,11:35:00,Urbana,Avenida,AVDA SANTA CATALINA,LOS GUARANÍES,-2.750.650,-5.882.240,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+535,160684,2022-04-28,09:30:00,Urbana,Avenida,J. R. FERNÁNDEZ,ARMENIA,-2.746.666,-5.878.993,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+536,158362,2022-04-28,08:10:00,Urbana,Calle,SÁNCHEZ DE BUSTAMANTE,,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+537,142757,2022-04-28,22:30:00,Urbana,Avenida,CAZADORES CORRENTINOS,,,,1.0,0.0,0.0,2,0.0,Choque,2,Hormigón,Apto,"Despejada, Seca",Noche,SI,Nublado,,Sin Semáforo
+538,139942,2022-04-27,10:54:00,Urbana,Avenida,AV INDEPENDENCIA,TACUARI,,,2.0,1.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+539,169866,2022-04-26,23:15:00,Urbana,Avenida,AVENIDA PAISANDU,COSQUÍN,-2.749.474,-5.882.471,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+540,135576,2022-04-25,06:45:00,Urbana,Calle,PARAGUAY,,,,1.0,0.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+541,137581,2022-04-25,08:30:00,Urbana,Calle,SAN LUIS,BOLIVAR,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+542,142753,2022-04-25,15:30:00,Urbana,Ruta Nacional,12,FRENTE AL AEROPUERTO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,SI,Despejado,Buena,Sin Semáforo
+543,166823,2022-04-24,08:05:00,Urbana,Calle,MENDOZA,,-2.747.403,-5.883.635,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+544,146715,2022-04-24,15:15:00,Urbana,Calle,CATARMARCA,BELGRANO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Lluvia,Lluvia,Sin Semáforo
+545,159930,2022-04-24,13:50:00,Urbana,,AYACUCHO,COLONIA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+546,138508,2022-04-23,06:50:00,Urbana,Avenida,AV. FERRE,PARAGUAY,,,1.0,0.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+547,156555,2022-04-22,18:00:00,Urbana,Ruta Nacional,12,FRENTE AL AEROPUERTO,-2.745.192,-5.875.533,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Atardecer,NO,Nublado,Buena,Sin Semáforo
+548,175452,2022-04-21,06:15:00,Urbana,Calle,9 DE julio,ROCA,,,0.0,1.0,,1,,Despeñamiento,1,,Apto,Seca,Día,,Despejado,,S/D
+549,137584,2022-04-21,11:45:00,Urbana,Calle,QUINTANA,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+550,157741,2022-04-20,13:36:00,Urbana,Avenida,AV INDEPENDENCIA,RIO JURAMENTO,,,1.0,1.0,0.0,2,0.0,Choque,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+551,169869,2022-04-20,12:15:00,Urbana,Avenida,AVENIDA JUAN PUJOL,,-2.746.672,-5.882.229,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+552,136373,2022-04-20,13:27:00,Urbana,Avenida,INDEPENDENCIA,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+553,146725,2022-04-20,13:18:00,,Avenida,AV MAIPU,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+554,147090,2022-04-20,15:50:00,Urbana,,MEDRANO,RAUL ALFONSIN,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Funciona
+555,153906,2022-04-19,14:20:00,Urbana,,DOMINICANA,CENTENARIO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+556,135574,2022-04-19,12:13:00,Urbana,Calle,BELGRANO,CÓRDOBA,,,2.0,0.0,0.0,2,0.0,Choque,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+557,142732,2022-04-18,15:15:00,Urbana,Calle,LISANDRO SEGOVIA,,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+558,152972,2022-04-18,20:15:00,Urbana,Avenida,AV PUJOL,SANTA FE,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+559,164600,2022-04-16,08:11:00,Urbana,Avenida,AV MAIPU,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+560,152047,2022-04-16,21:30:00,Urbana,Calle,CASTELLI,CARTAGENA,,,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+561,169887,2022-04-14,08:10:00,Urbana,Avenida,AVENIDA LIBERTAD,AVENIDA J.R. FERNÁNDEZ,-2.746.662,-5.878.994,0.0,1.0,0.0,0,1.0,Caída desde vehículo,1,Asfalto,Apto,,Día,NO,Despejado,Buena,Funciona
+562,134801,2022-04-14,11:55:00,Urbana,Avenida,AV MAIPU,BELTRAN,-2.747.997,-5.882.859,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+563,152982,2022-04-14,07:52:00,Urbana,Avenida,AV PUJOL,PERU,,,1.0,0.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+564,166848,2022-04-14,08:15:00,Urbana,Calle,CÓRDOBA,MORENO,-2.747.340,-5.883.507,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Despejada,Día,NO,"Despejado, Viento",Buena,Sin Semáforo
+565,162782,2022-04-14,13:20:00,Urbana,Avenida,AVDA INDEPENDENCIA,,-2.748.211,-5.879.676,1.0,2.0,0.0,2,0.0,Despiste,2,Asfalto,Apto,Seca,,SI,Despejado,Buena,
+566,160646,2022-04-13,00:45:00,Urbana,Calle,SANTA FE,SAN MARTÍN,-2.747.039,-5.883.071,1.0,0.0,1.0,2,0.0,Choque,2,,Apto,Despejada,Noche,SI,Despejado,,Intermitente
+567,148210,2022-04-13,20:32:00,Urbana,,CHACABUCO,BOLIVAR,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Mojada,Noche,SI,Lluvia,Lluvia,Sin Semáforo
+568,151166,2022-04-12,08:08:00,Urbana,Calle,NICARAGUA,CORINTO,,,1.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+569,137578,2022-04-11,08:45:00,Urbana,Avenida,AV. TTE IBAÑEZ,GUASTAVINO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+570,158157,2022-04-10,21:30:00,Urbana,Avenida,AV PEDRO FERRE,ESPAÑA,-2.747.654,-5.883.017,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,,Despejado,Buena,Funciona
+571,164616,2022-04-09,08:20:00,Urbana,Calle,RECONQUISTA,,-2.749.030,-5.881.539,0.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Ripio,,,Día,NO,Despejado,Buena,
+572,151170,2022-04-09,18:40:00,Urbana,Avenida,AV PUJOL,CARLOS PELLEGRINI,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,NO,Despejado,Buena,Sin Semáforo
+573,152970,2022-04-08,14:21:00,Urbana,Calle,BELGRANO,PARAGUAY,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+574,157824,2022-04-08,10:55:00,Urbana,Avenida,AV PAYSANDU,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+575,160644,2022-04-08,08:40:00,Urbana,Avenida,AVDA. INDEPENDENCIA,,-2.748.148,-5.879.906,5.0,0.0,0.0,5,0.0,Colisión entre vehículos,5,Asfalto,Apto,,Día,NO,Despejado,Buena,
+576,175459,2022-04-08,18:30:00,Urbana,Calle,DON BOSCO,COSTANERA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+577,160649,2022-04-06,15:38:00,Urbana,Avenida,AVDA. SANTA ROSA,ÑAEMBÉ,-2.747.904,-5.881.999,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+578,134817,2022-04-06,10:00:00,Urbana,Avenida,AV. MAIPU,RECONQUISTA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+579,145739,2022-04-06,14:00:00,Urbana,Calle,TACUARI,CENTENARIO,,,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+580,158360,2022-04-05,12:40:00,Urbana,Calle,TRES SARGENTO,COSQUÍN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+581,176153,2022-04-05,22:05:00,Urbana,Calle,LA PAMPA,AV SARMIENTO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,NO,Despejado,,S/D
+582,152966,2022-04-05,08:10:00,Urbana,Calle,AV R.R.ALFONSIN,SANCHEZ DE BUSTAMANTE,-2.747.686,-5.878.794,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+583,152046,2022-04-05,23:20:00,Urbana,,SANCHEZ BUSTAMANTE,JUAN DOMINGO PERON,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,
+584,160686,2022-04-05,11:50:00,Urbana,Avenida,AVDA. MAIPÚ,NICARAGUA,-2.749.887,-5.881.465,1.0,1.0,0.0,2,0.0,,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Funciona
+585,151227,2022-04-04,06:00:00,Urbana,Avenida,AV. INDEPENDENIA,GASCON,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Sin Semáforo
+586,152981,2022-04-04,14:55:00,Urbana,,AV MAIPU,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Funciona
+587,160682,2022-04-04,13:15:00,Urbana,Avenida,9 DE julio,AVDA. COSTANERA,-2.746.560,-5.884.790,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,
+588,139998,2022-04-03,17:30:00,Urbana,Calle,LAVALLE,PIO XII,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+589,164615,2022-04-03,08:18:00,Rural,Ruta Nacional,12,AVENIDA RAÚL ALFONSÍN,-2.747.826,-5.878.273,0.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+590,135569,2022-04-03,07:30:00,Urbana,Avenida,CAZADORES CORRENTINOS,MEDRANO,,,,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+591,161548,2022-04-02,07:20:00,Urbana,Calle,ALTAGRACIA,SANTA CATALINA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+592,167715,2022-04-02,14:00:00,Urbana,Avenida,AVENIDA ARMENIA,CHACABUCO,-2.746.750,-5.881.185,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Intermitente
+593,151162,2022-04-02,19:30:00,Urbana,Avenida,AV MAIPU,ROCA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+594,152978,2022-04-02,19:30:00,Urbana,,VESPUCIO,TAMPICO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,,Despejada,Noche,SI,Despejado,Buena,Sin Semáforo
+595,174823,2022-04-02,16:20:00,Urbana,Calle,LAVALLE,PERÚ,-2.747.842,-5.882.261,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+596,139974,2022-04-02,13:39:00,Urbana,Avenida,AV CHACABUCO,GRAL PAZ,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+597,175500,2022-04-02,16:15:00,Urbana,Calle,BOLIVAR,CORDOBA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,S/D,Apto,Seca,Día,,Despejado,,Sin Semáforo
+598,136369,2022-04-02,23:48:00,Urbana,Avenida,AV 3 DE ABRIL,CORDOBA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,
+599,169897,2022-04-02,23:55:00,Urbana,Avenida,AVENIDA MAIPÚ,,,,0.0,2.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Baches,,Noche,NO,Despejado,Buena,Sin Semáforo
+600,169890,2022-04-02,13:45:00,Urbana,Calle,CORREA FERNÁNDEZ,AVENIDA SARMIENTO,-2.748.326,-5.883.088,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+601,139214,2022-03-31,19:59:00,Urbana,Calle,PAISANDU,GUALEGUAYCHU,-2.749.383,-5.882.456,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+602,146714,2022-03-28,10:20:00,,,CATARMARCA,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+603,175504,2022-03-28,07:40:00,Urbana,Calle,CARTAGENA,GASCON,,,0.0,1.0,0.0,1,0.0,Salida de calzada,1,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+604,175469,2022-03-26,10:30:00,Urbana,Avenida,INDEPENDENCIA,GAZCON,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+605,136411,2022-03-26,19:00:00,Urbana,Avenida,AV ARTIGAS,,-2.747.160,-5.881.866,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+606,151226,2022-03-23,11:18:00,Urbana,Avenida,AV. GOBERNADOR RUIZ,ESTADOS UNIDOS,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+607,159880,2022-03-21,22:00:00,Urbana,Avenida,PAYSANDU,PATAGONIA,-2.749.260,-5.882.439,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,
+608,165341,2022-03-20,04:30:00,Urbana,Calle,SANTIAGO DEL ESTERO,,,,0.0,1.0,0.0,1,0.0,Choque,1,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+609,165293,2022-03-20,08:24:00,Urbana,Calle,MEDRANO,LAS HERAS,-2.748.542,-5.879.905,0.0,1.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+610,155608,2022-03-20,08:00:00,Urbana,Avenida,MAIPU,TTE IBAÑEZ,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+611,168562,2022-03-20,10:15:00,Urbana,Calle,LAS MARGARITAS,,-2.746.104,-5.877.718,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+612,148190,2022-03-19,17:00:00,Urbana,,AV MAIPU,,,,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+613,138493,2022-03-19,08:45:00,Urbana,Avenida,AV MAIPU,ROTONDA ACCESO Bª SANTA CATALINA,-2.752.229,-5.879.982,0.0,1.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+614,151218,2022-03-19,21:50:00,,Ruta Nacional,12,PIRAYUI,,,1.0,0.0,0.0,1,0.0,,1,Asfalto,En reparación,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+615,169868,2022-03-18,18:30:00,Urbana,Calle,25 DE mayo,,-2.746.417,-5.883.702,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+616,142754,2022-03-18,15:00:00,Urbana,Calle,HIPOLITO YRIGOYEN,SAN LUIS,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+617,135559,2022-03-18,14:30:00,Urbana,Avenida,AV. C.CORRENTINO,LAS PIEDRAS,-2.748.729,-5.880.139,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+618,151158,2022-03-18,10:30:00,,,BELGRANO,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Sin Semáforo
+619,141866,2022-03-16,08:50:00,Urbana,Avenida,AV J R VIDAL,CARTAGENA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+620,152104,2022-03-15,11:22:00,,,MEDRANO,JARDIN BOTANICO,,,0.0,1.0,0.0,1,0.0,Atropello a animal/es,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+621,164619,2022-03-13,06:32:00,Urbana,Avenida,AVDA. 3 DE ABRIL,MENDOZA,-2.747.567,-5.883.640,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Funciona
+622,132625,2022-03-13,14:20:00,Urbana,Calle,BOLIVAR,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+623,159886,2022-03-13,08:14:00,Urbana,Calle,CATAMARCA,BELGRANO,-2.747.192,-5.883.350,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,
+624,169173,2022-03-13,10:20:00,Urbana,Calle,LOS MATACOS,LOS ATACAMAS,-2.750.404,-5.881.434,0.0,1.0,0.0,1,0.0,Choque,1,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+625,144736,2022-03-13,20:00:00,Urbana,Calle,CUBA,RAMOS MEJIA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Noche,SI,Despejado,Buena,Sin Semáforo
+626,139241,2022-03-12,07:00:00,Urbana,Calle,SAN MARTIN,,,,0.0,1.0,0.0,1,0.0,Vuelco (solo 1 participante),1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+627,141868,2022-03-12,12:00:00,Urbana,Calle,ROCA,BELGRANO,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+628,156536,2022-03-12,19:20:00,,Ruta Nacional,12,FERRAU,,,2.0,0.0,0.0,2,0.0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+629,162790,2022-03-12,09:40:00,Rural,Ruta Provincial,RUTA 5 Y MERCEDES CREMONTE,,-2.748.461,-5.877.896,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+630,167705,2022-03-10,14:10:00,Urbana,Calle,MADRID,SHERIDAN,-2.745.826,-5.878.378,1.0,2.0,0.0,1,0.0,Vuelco (solo 1 participante),1,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+631,157783,2022-03-09,13:00:00,Urbana,Avenida,AV GARAY,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+632,174256,2022-03-07,11:30:00,Urbana,Avenida,AV TTE IBAÑEZ,RIOJA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+633,167695,2022-03-06,23:30:00,Urbana,Avenida,AVENIDA CENTENARIO,,-2.747.360,-5.880.267,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+634,139227,2022-03-05,08:31:00,Urbana,Ruta Provincial,5,,-2.747.995,-5.881.170,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+635,151156,2022-03-05,13:50:00,Urbana,Avenida,AV. 3 DE ABRIL,BS.AS,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+636,164585,2022-03-05,11:01:00,Urbana,Avenida,RIO CHICO,LAS GARDENIAS,-2.746.022,-5.877.465,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+637,152980,2022-03-05,17:15:00,Urbana,,COSQUIN,PAYSANDU,,,0.0,2.0,0.0,1,0.0,Caída desde vehículo,1,,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+638,153888,2022-03-04,13:15:00,Urbana,Avenida,AV. INDEPENDENCIA,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+639,134830,2022-03-04,10:00:00,Urbana,Calle,PJE CATUEGNO,PJE LONDRES,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Tierra,Apto,,Día,NO,Despejado,Buena,
+640,148995,2022-03-04,15:00:00,Urbana,Avenida,AV LIBERTAD,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+641,152979,2022-03-03,17:55:00,Urbana,Calle,MURCIA,SALAMANCA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+642,160641,2022-03-03,05:20:00,Urbana,Calle,CATAMARCA,BOLÍVAR,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Sin Semáforo
+643,167749,2022-03-03,18:30:00,Rural,Semiautopista/Autovía,ROTONDA VIRGEN DE ITATÍ,,-2.748.432,-5.878.277,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+644,175476,2022-03-02,15:00:00,Urbana,Calle,YRIGOYEN,SAN LUIS,-2.746.811,-5.884.301,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+645,176147,2022-03-01,09:20:00,Urbana,Calle,LAVALLE,PARAGUAY,,,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+646,141871,2022-02-28,19:00:00,Urbana,Calle,CHARRUAS,,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Ripio,Apto,Mojada,Atardecer,SI,Lluvia,Lluvia,Sin Semáforo
+647,136337,2022-02-28,09:45:00,Urbana,Calle,ROCA,BELGRANO,-2.747.341,-5.882.333,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,,,NO,Despejado,Buena,Sin Semáforo
+648,159928,2022-02-27,11:45:00,Urbana,,BELGRANO,CATAMARCA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+649,168422,2022-02-26,09:30:00,Urbana,Avenida,NICARAGUA,AVENIDA MAIPÚ,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+650,159885,2022-02-26,07:11:00,Urbana,Calle,JUJUY,,-2.747.378,-5.882.855,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,,Día,NO,Despejado,Buena,
+651,145171,2022-02-26,17:18:00,Urbana,Avenida,AVENIDA ALTA GRACIA,COCHABAMBA,,,0.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,,Sin Semáforo
+652,163588,2022-02-25,06:40:00,Urbana,Calle,LAVALLE,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,SI,,,Sin Semáforo
+653,175496,2022-02-24,08:10:00,Urbana,Calle,ESPAÑA,PELLEGRINI,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+654,152947,2022-02-24,10:40:00,Urbana,Avenida,AV INDEPENDENCIA,MEDRANO,-2.748.160,-5.879.842,1.0,0.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Funciona
+655,175451,2022-02-24,13:10:00,Urbana,Calle,BUENOS AIRES,PELLEGRINI,,,1.0,1.0,,2,,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+656,137055,2022-02-24,16:05:00,Urbana,Avenida,AV. INDEPENDENCIA,SAENZ,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Mojada,Día,NO,Lluvia,Lluvia,Funciona
+657,145156,2022-02-23,14:00:00,Urbana,Avenida,AV PUJOL,BRASIL,,,4.0,0.0,0.0,4,0.0,Colisión entre vehículos,4,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+658,151219,2022-02-23,22:00:00,Urbana,,TURIN,AMERICO DESPUCIO,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+659,158344,2022-02-23,10:20:00,Urbana,Calle,LAVALLE,CASI SARMIENTO,-2.747.765,-5.883.051,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Nublado,Buena,
+660,139753,2022-02-22,11:00:00,Urbana,Avenida,AV ALTAGRACIA,AV SANTA CATALINA,-2.750.907,-5.882.217,1.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,,Buena,Sin Semáforo
+661,174255,2022-02-22,18:00:00,Urbana,Calle,LAS HERAS,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+662,175473,2022-02-21,08:25:00,Urbana,Avenida,AVENIDA ARMENIA,MARTÍN FIERRO,-2.746.897,-5.879.968,0.0,3.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+663,157727,2022-02-20,09:20:00,Urbana,Avenida,AV LIBERTAD,GRANVILLE,-2.749.266,-5.882.439,2.0,0.0,0.0,1,0.0,Vuelco (solo 1 participante),1,Tierra,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+664,174215,2022-02-20,07:40:00,Urbana,Calle,RIOJA,RIVADAVIA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,,Despejado,,Sin Semáforo
+665,146702,2022-02-20,09:25:00,,,ROTONDA ESPAÑA,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+666,151152,2022-02-19,10:06:00,Urbana,,CATAMARCA,BOLIVAR,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+667,151191,2022-02-18,17:56:00,Urbana,,SAN LUIS,SAN MARTIN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,,NO,Despejado,Buena,Sin Semáforo
+668,166830,2022-02-17,08:31:00,Urbana,Avenida,AVENIDA INDEPENDENCIA,MEDRANO,-2.748.167,-5.879.840,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Funciona
+669,152941,2022-02-17,18:30:00,Urbana,Avenida,AV LIBERTAD,RUTA 12,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Lluvia,Buena,Sin Semáforo
+670,137574,2022-02-17,21:00:00,Urbana,Avenida,MAIPU,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,
+671,171745,2022-02-17,18:16:00,Urbana,Calle,ROCA,MORENO,-2.747.451,-5.882.344,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+672,156587,2022-02-17,19:30:00,Urbana,Calle,COSQUIN,BONASTRE,,,0.0,3.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+673,161485,2022-02-17,07:45:00,Urbana,Avenida,AVDA. PAYSANDÚ,AVDA. PATAGONIA,-2.749.263,-5.882.441,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,
+674,165425,2022-02-17,06:35:00,Urbana,Calle,GUTENBERG,SANTA CRUZ,,,0.0,4.0,0.0,1,0.0,Vuelco (solo 1 participante),1,Asfalto,Apto,Mojada,Amanecer,NO,Nublado,Buena,Sin Semáforo
+675,176150,2022-02-16,14:34:00,Urbana,Avenida,COSQUIN,EL MAESTRO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+676,151220,2022-02-15,14:10:00,Urbana,Avenida,AV. FERRE,ROCA,,,1.0,1.0,0.0,2,0.0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+677,145061,2022-02-15,10:08:00,Urbana,Avenida,AV PUJOL,JUJUY,-2.746.289,-5.882.728,4.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Lluvia,Lluvia,Sin Semáforo
+678,146711,2022-02-13,15:38:00,,Avenida,,CHACO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+679,169151,2022-02-13,10:53:00,Urbana,Calle,CATAMARCA,PLÁCIDO MARTÍNEZ,-2.746.240,-5.883.243,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Sin Semáforo
+680,139234,2022-02-13,19:14:00,Urbana,Avenida,AV. CENTENARIO,MEDRANO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+681,156529,2022-02-12,18:50:00,Urbana,Calle,MARTIN FIERRO,,,,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+682,169158,2022-02-12,09:05:00,Urbana,Avenida,AVENIDA INDEPENDENCIA,NIÑO JESÚS,-2.748.069,-5.880.215,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+683,148213,2022-02-12,08:50:00,Urbana,,YRIGOYEN,PARAGUAY,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,,Mojada,Día,NO,Lluvia,Lluvia,Sin Semáforo
+684,156535,2022-02-12,06:05:00,Urbana,Calle,9 DE julio,SALTA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Mojada,Noche,SI,Lluvia,Lluvia,Sin Semáforo
+685,162769,2022-02-11,10:30:00,Urbana,Calle,NAPOLES,SAN FRANCISCO DE ASIS,-2.749.605,-5.878.341,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+686,162786,2022-02-11,11:10:00,Urbana,Calle,BRASIL,HIPÓLITO YRIGOYEN,-2.746.987,-5.882.417,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+687,169171,2022-02-10,07:55:00,Urbana,Calle,MANUEL BELGRANO,SAN LORENZO,-2.747.252,-5.883.224,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+688,143771,2022-02-10,22:17:00,Urbana,Avenida,AV PUJOL,URUGUAY,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Funciona
+689,167699,2022-02-09,05:00:00,Urbana,Avenida,AVENIDA CENTENARIO,,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Hormigón,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Funciona
+690,175503,2022-02-09,10:13:00,Urbana,Avenida,AV 3 DE ABRIL,BUENOS AIRES,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+691,148952,2022-02-08,00:28:00,Urbana,Avenida,AV ARMENIA,19 DE mayo,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Intermitente
+692,152938,2022-02-08,22:30:00,Urbana,Avenida,AV INDEPENDENCIA,DARRAGUEIRA,,,1.0,0.0,0.0,1,0.0,Choque,1,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+693,152969,2022-02-08,06:45:00,Urbana,,MEDRANO,AVELLANEDA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Sin Semáforo
+694,139975,2022-02-07,13:15:00,Urbana,Calle,DOMINGO LASTRA,GALLARDO,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+695,134807,2022-02-07,12:27:00,Urbana,Avenida,AV PUJOL,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+696,142761,2022-02-06,13:18:00,Urbana,Calle,SAN MARTIN,SAN JUAN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+697,160683,2022-02-06,09:00:00,Urbana,Calle,9 DE julio,LA RIOJA,-2.746.637,-5.883.795,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Funciona
+698,165424,2022-02-06,11:18:00,Urbana,Avenida,AVENIDA CAZADORES CORRENTINOS,YUGOSLAVIA,-2.748.851,-5.879.248,2.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,,NO,Despejado,Buena,Sin Semáforo
+699,156532,2022-02-06,17:21:00,Urbana,Calle,ESPAÑA,PELLEGRINI,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Atardecer,NO,Nublado,Buena,Sin Semáforo
+700,146701,2022-02-05,07:58:00,Urbana,,25 DE mayo,SALTA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+701,168136,2022-02-05,08:48:00,Urbana,Calle,MENDOZA,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+702,171742,2022-02-04,22:15:00,Urbana,Avenida,AVDA. MAIPÚ,,-2.752.182,-5.879.969,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+703,175447,2022-02-03,10:50:00,Urbana,Avenida,COSTANERA,SAN LUIS,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,Sin Semáforo
+704,139220,2022-02-03,12:39:00,Urbana,Avenida,AV INDEPENDENCIA,REPUBLICA DOMINICANA,-2.747.879,-5.881.133,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,,Seca,Día,,Despejado,Buena,Funciona
+705,141867,2022-02-03,11:30:00,Urbana,Calle,SAN MARTIN,SAN LORENZO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Funciona
+706,146722,2022-02-03,15:40:00,Urbana,Calle,,FRANCIA,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Mojada,Día,NO,Lluvia,Lluvia,Sin Semáforo
+707,148997,2022-02-03,18:40:00,Urbana,Ruta Nacional,12,MAIPU,,,1.0,0.0,0.0,1,0.0,Vuelco (solo 1 participante),1,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+708,155567,2022-02-03,16:50:00,Urbana,Calle,GUTEMBERG,LAVALLE,-2.747.761,-5.883.154,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+709,161552,2022-02-02,09:10:00,Urbana,,GOBDRNADOR CONTE,GENERAL PAZ,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Sin Semáforo
+710,151215,2022-02-02,09:18:00,Urbana,,CORDOBA,BELGRANO,,,4.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+711,176154,2022-02-02,13:20:00,Urbana,Calle,LUIS BRAILE,,,,0.0,1.0,0.0,1,0.0,Vuelco (solo 1 participante),1,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+712,140918,2022-02-02,22:20:00,Urbana,Calle,9 DE julio,ROCA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+713,148953,2022-02-02,09:45:00,Urbana,Avenida,AV J.R FERNANDEZ,,,,0.0,2.0,0.0,1,1.0,Atropello a peatón/es,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+714,147419,2022-02-01,11:55:00,Urbana,,JOSE INGENIERO,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+715,162767,2022-02-01,14:30:00,Urbana,Calle,SUIZA,RECONQUISTA,-2.747.585,-5.881.283,2.0,1.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+716,145178,2022-02-01,17:50:00,Urbana,,HIPOLITO YRIGOYEN,PARAGUAY,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+717,169870,2022-01-31,09:25:00,Urbana,Calle,BRASIL,CARLOS PELLEGRINI,-2.746.651,-5.882.376,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+718,139238,2022-01-31,13:10:00,Urbana,Ruta Nacional,12,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+719,153894,2022-01-31,18:14:00,Urbana,,MENDOZA,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+720,134814,2022-01-30,12:30:00,Urbana,Avenida,AV. INDEPENDENCIA,TACUARI,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+721,137593,2022-01-30,19:19:00,Urbana,Avenida,AV. JUAN DE VERA,SALTA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+722,139258,2022-01-29,09:40:00,Urbana,Avenida,AV PEDRO FERRE,,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+723,147089,2022-01-27,15:25:00,,Avenida,MORSE,RAUL ALFONSIN,,,3.0,0.0,0.0,3,0.0,Colisión entre vehículos,3,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+724,167696,2022-01-26,12:30:00,Urbana,Avenida,AVENIDA RAÚL AALFONSIN,,-2.747.486,-5.879.862,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+725,171741,2022-01-26,12:15:00,Urbana,Calle,AGUSTÍN ONTIVEROS,ÁNGEL HEREDIA,-2.747.183,-5.879.149,1.0,1.0,0.0,2,0.0,Choque,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+726,139935,2022-01-25,09:10:00,Urbana,Calle,LAS PIEDRAS,ZAPIOLA,,,2.0,1.0,0.0,1,0.0,Despiste,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+727,165428,2022-01-25,06:10:00,Urbana,Avenida,AVENIDA 3 DE ABRIL,ESPAÑA,-2.747.635,-5.883.013,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Funciona
+728,165349,2022-01-24,13:50:00,Urbana,Calle,SUIZA,RECONQUISTA,-2.747.576,-5.881.275,1.0,2.0,0.0,2,0.0,,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+729,166829,2022-01-24,10:50:00,Urbana,Calle,SIMÓN BOLÍVAR,PERÚ,-2.747.240,-5.882.188,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+730,146708,2022-01-24,12:50:00,,,RESOAGLI,CARTAGENA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+731,134818,2022-01-24,07:50:00,Urbana,Avenida,CARTAGENA,RECONQUISTA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+732,138492,2022-01-24,13:36:00,Urbana,Calle,25 DE mayo,SAN LORENZO,-2.746.477,-5.883.141,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,,Sin Semáforo
+733,135568,2022-01-24,10:15:00,Urbana,Avenida,AV ARMENIA,22 DE mayo,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+734,137573,2022-01-23,19:15:00,Urbana,Ruta Nacional,12,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+735,143762,2022-01-23,08:00:00,Urbana,Calle,GENERAL PAZ,VARGAS GOMEZ,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+736,163589,2022-01-23,12:00:00,Urbana,Avenida,LAS HERAS,AVDA. SANTA ROSA,,,1.0,1.0,0.0,1,1.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Nublado,Buena,Sin Semáforo
+737,165386,2022-01-22,14:02:00,Urbana,Avenida,AVENIDA SARMIENTO,AVIADOR JOSÉ CORREA FERNÁNDEZ,-2.748.325,-5.883.089,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,,,Funciona
+738,139277,2022-01-20,09:50:00,Urbana,Calle,H. IRIGOYEN,PARAGUAY,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+739,140969,2022-01-20,06:50:00,Urbana,Avenida,AV. ALTA GRACIA,LOS TEHUELCHES,,,1.0,0.0,0.0,1,0.0,Colisión entre vehículos,1,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+740,166827,2022-01-19,10:30:00,Urbana,Avenida,AVENIDA CHACABUCO,MADARIAGA,-2.748.549,-5.881.604,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,,Día,NO,Despejado,Buena,
+741,169153,2022-01-18,13:30:00,Urbana,Calle,SANTA FE,SAN MARTÍN,-2.747.038,-5.883.074,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Funciona
+742,169155,2022-01-17,17:25:00,Urbana,Calle,GUASTAVINO,LAVALLE,-2.747.627,-5.884.315,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+743,139741,2022-01-17,12:20:00,Urbana,Calle,ONTIVEROS,AV. ALFONSIN,-2.747.591,-5.879.265,0.0,1.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+744,139747,2022-01-17,07:40:00,Urbana,Calle,CARTAGENA,MEDRANO,-2.749.661,-5.880.036,1.0,0.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+745,165291,2022-01-16,09:20:00,Urbana,Calle,SAN JUAN,,-2.746.764,-5.883.674,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+746,165372,2022-01-15,17:27:00,Urbana,Calle,SANCHEZ BUSTAMANTE,PALERMO,-2.747.568,-5.878.741,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+747,169871,2022-01-15,11:30:00,Urbana,Avenida,AVENIDA GOBERNADOR JUAN PUJOL,,-2.746.691,-5.882.250,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+748,133385,2022-01-13,20:00:00,Urbana,Calle,SAN LUIS,JUNIN,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Atardecer,NO,Despejado,Buena,Sin Semáforo
+749,155612,2022-01-13,07:45:00,Urbana,Avenida,AV ARMENIA,,,,0.0,1.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+750,135573,2022-01-12,11:05:00,Urbana,Calle,GUEMES,,,,1.0,0.0,0.0,1,0.0,Caída desde vehículo,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+751,163586,2022-01-11,06:10:00,Urbana,Avenida,AVDA. INDEPENDENCIA,SÁENZ,-2.748.270,-5.879.365,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Amanecer,SI,Despejado,Buena,Funciona
+752,143756,2022-01-11,17:30:00,Urbana,Avenida,AV. INDEPENDENCIA,SAENZ,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+753,156554,2022-01-10,16:15:00,Urbana,Calle,CHACO,BELGRAN O,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,,,,,,,,
+754,163591,2022-01-10,19:31:00,Urbana,Avenida,AVDA. RAÚL ALFONSÍN,SÁNCHEZ DE BUSTAMANTE,-2.747.685,-5.878.792,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Atardecer,SI,Nublado,Buena,Sin Semáforo
+755,166824,2022-01-10,22:10:00,Urbana,Avenida,AVENIDA TENIENTE IBÁÑEZ,GOBERNADOR VELZCO,-2.748.556,-5.883.389,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+756,142715,2022-01-09,20:15:00,Urbana,Calle,TACUARI,,,,1.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Mojada,Noche,SI,Nublado,Buena,Sin Semáforo
+757,169892,2022-01-09,13:30:00,Urbana,Avenida,AVENIDA INDEPENDENCIA,MEDRANO,-2.748.155,-5.879.838,0.0,1.0,1.0,1,1.0,Atropello a peatón/es,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+758,156533,2022-01-09,21:37:00,Urbana,,CARTAGENA,RECONQUISTA,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Noche,SI,Nublado,Buena,
+759,169865,2022-01-09,16:40:00,Urbana,Avenida,INDEPENDENCIA,LAS PIEDRAS,-2.748.101,-5.880.054,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+760,136354,2022-01-08,09:00:00,Urbana,Avenida,AV TENIENTE IBAÑES,,-2.748.475,-5.884.301,0.0,1.0,0.0,1,0.0,Colisión entre vehículos,1,Asfalto,,,Día,NO,,,Sin Semáforo
+761,152053,2022-01-08,04:20:00,Urbana,Ruta Provincial,RUTA PROVINCIAL 5,,,,1.0,0.0,0.0,1,0.0,Despiste,1,Asfalto,Apto,Despejada,Noche,SI,Despejado,Buena,Sin Semáforo
+762,139231,2022-01-07,09:50:00,Urbana,Calle,GDOR CONTTE,GRAL PAZ,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+763,139253,2022-01-07,12:30:00,Urbana,Avenida,AV PATAGONIA,AV SARMIENTO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+764,151212,2022-01-07,16:02:00,Urbana,Avenida,AV MAIPU,TILCARA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+765,167701,2022-01-06,03:45:00,Urbana,Calle,CARTAGENA,RECONQUISTA,-2.749.238,-5.881.576,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Hormigón,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+766,151167,2022-01-05,19:10:00,Urbana,Ruta Nacional,12,,,,1.0,0.0,0.0,1,0.0,Vuelco (solo 1 participante),1,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,,Sin Semáforo
+767,164586,2022-01-05,14:00:00,Urbana,Calle,EX VIA,,,,2.0,1.0,0.0,1,1.0,Atropello a peatón/es,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+768,174253,2022-01-05,10:20:00,Urbana,Calle,AV. VERA,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,,Despejado,,S/D
+769,137052,2022-01-04,10:24:00,Urbana,Calle,ROCA,,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+770,139240,2022-01-04,13:30:00,Urbana,Avenida,AV. RAUL ALFONSIN,,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+771,152971,2022-01-03,14:43:00,Urbana,Calle,JUJUY,BELGRANO,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+772,151192,2022-01-03,07:20:00,Urbana,,MORENO,JUJUY,,,1.0,1.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+773,169159,2022-01-02,06:30:00,Urbana,Calle,OLMEDO,ALEJANDRO DUMAS,-2.751.514,-5.879.000,1.0,0.0,0.0,1,0.0,Choque,1,Tierra,Apto,"Despejada, Seca",,NO,Despejado,Buena,Sin Semáforo
+774,140000,2022-01-01,17:50:00,Urbana,Calle,CRISTO OBRERO,RAFAEL OBLIGADO,,,0.0,4.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+775,142702,2022-01-01,08:23:00,Urbana,Calle,SAN MARTIN,CORDOBA,,,2.0,0.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+776,157728,2022-01-01,07:00:00,Urbana,Avenida,AV PUJOL,ESPAÑA,-2.746.206,-5.882.851,0.0,2.0,0.0,2,0.0,Colisión entre vehículos,2,Asfalto,Apto,"Despejada, Seca",Amanecer,NO,Despejado,Buena,Sin Semáforo

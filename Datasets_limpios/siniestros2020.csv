@@ -1,0 +1,439 @@
+,id_feu,siniestro_fecha,siniestro_hora,zona_ocurrencia,via_publica,nombre_via,entre_calle_1,latitud,longitud,ilesos,heridos,fallecidos,vehiculos,peatones,tipo_colision,cantidad_de_involucrados,material_de_la_calzada,estado_de_la_calzada,estado_fisico_ambiental,luminosidad,luz_artificial,estado_ambiental,visibilidad,semaforo
+0,71290,2020-12-28,17:34:00,Urbana,Calle,HIPOLITO IRIGOYEN,ITUZAINGO,-2.751.527,-5.875.677,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,,Despejado,,
+1,75820,2020-12-27,12:15:00,Urbana,Avenida,AV CUBA,TURIN,-2.750.558,-5.878.565,1,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Despejado,,Sin Semáforo
+2,72215,2020-12-27,19:22:00,Rural,Ruta Provincial,RUTA 5KM,,-2.747.903,-5.881.874,2,1,0,2,0,Angulo,2,,Apto,Seca,Día,SI,Despejado,Buena,
+3,79464,2020-12-26,07:14:00,Urbana,Avenida,AV COLON,IV CENTENARIO,-2.748.913,-5.883.815,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+4,84248,2020-12-25,19:25:00,Urbana,Avenida,AV GOBERNADOR RUIZ,VELEZSARSFIELD,-2.746.673,-5.881.942,1,1,0,2,0,Lateral,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+5,84767,2020-12-21,13:25:00,Urbana,Calle,ESTADOS UNIDOS,,-2.746.928,-5.881.330,0,1,0,1,0,,1,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+6,76784,2020-12-19,08:45:00,Urbana,Calle,H.YRIGOYEN,PERU,-2.747.010,-5.882.171,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+7,74218,2020-12-19,08:20:00,Urbana,Calle,MEDRANO,LAVALLE,-2.748.321,-5.879.868,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+8,79693,2020-12-18,09:31:00,Urbana,Avenida,AV INDEPENDENCIA,GUEMES,-2.747.930,-5.880.754,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Funciona
+9,79548,2020-12-18,09:31:00,Urbana,Avenida,AV INDEPENDENCIA,GUEMES,-2.747.932,-5.880.753,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Funciona
+10,85768,2020-12-17,09:45:00,Urbana,Avenida,AV.R.R.ALFONSIN,,-2.747.470,-5.879.889,2,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+11,81296,2020-12-16,11:55:00,Rural,Avenida,AV TTE IBAÑEZ,,-2.748.259,-5.882.418,2,0,0,2,0,Angulo,2,Hormigón,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+12,87727,2020-12-16,16:30:00,Urbana,Avenida,AV MAIPU,ACONCAGUA,-2.749.819,-5.881.520,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+13,75099,2020-12-16,12:47:00,Urbana,Avenida,AV MEDRANO,LORETO,-2.750.608,-5.879.795,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+14,88553,2020-12-15,08:30:00,Urbana,Calle,GOBERNADOR CONTE,,-2.752.532,-5.879.192,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+15,86070,2020-12-15,08:19:00,Urbana,Ruta Provincial,5,,-2.748.451,-5.877.959,1,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+16,74029,2020-12-14,13:05:00,Urbana,Avenida,AV LIBERTAD,,-2.746.247,-5.877.334,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+17,68926,2020-12-13,06:45:00,Urbana,Avenida,AV ARMENIA,J.R FERNANDEZ,-2.746.651,-5.878.977,1,1,0,2,0,Angulo,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+18,79465,2020-12-12,12:00:00,Urbana,Avenida,AV.C.CORRENTINO,MEDRANO,-2.748.759,-5.879.919,2,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+19,77087,2020-12-11,17:30:00,Urbana,Avenida,AV MAIPU,MANTILLA,-2.749.617,-5.881.668,0,2,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+20,75806,2020-12-11,04:20:00,Urbana,Calle,LAVALLE,PAGO LARGO,-2.747.538,-5.884.968,0,1,0,1,0,,1,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Sin Semáforo
+21,86424,2020-12-11,23:20:00,Urbana,Ruta Nacional,12,,-2.751.859,-5.876.778,0,1,0,1,0,,1,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+22,81407,2020-12-11,23:30:00,Rural,Avenida,AV INDEPENDENCIA,THAMES,-2.748.374,-5.879.116,0,1,0,1,0,,1,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+23,86423,2020-12-10,12:28:00,Urbana,Avenida,AV CHCABUCO,INDEPENDENCIA,-2.747.843,-5.881.465,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+24,74188,2020-12-09,15:45:00,Urbana,Calle,COSQUIN,CRESPO,-2.749.411,-5.882.921,1,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+25,77237,2020-12-08,18:00:00,Urbana,Avenida,AV FERRE,JUJUY,-2.747.666,-5.882.878,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+26,85406,2020-12-07,15:20:00,Urbana,Avenida,AV MAIPU,MADARIAGA,-2.748.508,-5.882.422,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+27,85542,2020-12-06,10:34:00,Urbana,Avenida,AV CHACABUCO,,-2.747.187,-5.881.279,1,0,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+28,75163,2020-12-05,16:00:00,Urbana,Calle,SAN FRANCISCO DE ASIS,PERITO MORENO,-2.749.551,-5.878.780,1,1,0,1,1,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+29,74535,2020-12-05,16:30:00,Urbana,Avenida,AV MAIPU,GOYA,-2.749.000,-5.882.054,1,1,0,1,1,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+30,84287,2020-12-04,18:54:00,Urbana,Calle,M.MORENO,LA RIOJA,-2.747.307,-5.883.865,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+31,85004,2020-12-03,13:25:00,Urbana,Calle,SALTA,,,,3,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+32,79361,2020-12-01,08:30:00,Urbana,Calle,BELGRANO,ITUZAINGO,-2.747.374,-5.882.020,2,0,0,2,0,,2,,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+33,88572,2020-12-01,12:00:00,Urbana,Avenida,AV ARMENIA,FRENTE E. TIPOITI,-2.746.761,-5.879.399,2,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+34,88070,2020-11-29,06:50:00,Urbana,Avenida,AV P. FERRE,URUGUAY,-2.747.687,-5.882.628,1,1,0,1,1,,2,Asfalto,Apto,Seca,Amanecer,NO,Despejado,Buena,Sin Semáforo
+35,85193,2020-11-29,13:30:00,Urbana,Calle,ROCA,,-2.747.113,-5.882.309,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+36,74185,2020-11-27,13:30:00,Urbana,Calle,ESPAÑA,9 DE julio,-2.746.705,-5.882.910,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+37,80492,2020-11-24,12:35:00,Urbana,Calle,GUASTAVINO,PERUGORRIA,-2.748.335,-5.884.420,1,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+38,87718,2020-11-22,13:30:00,Urbana,Avenida,AV R.R. ALFONSIN,FRENTE CASINO,-2.747.231,-5.880.830,4,0,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+39,81278,2020-11-21,14:20:00,Urbana,Calle,SAN JUAN,BELGRANO,-2.747.204,-5.883.721,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+40,84279,2020-11-20,14:05:00,Urbana,Calle,PAGO LARGO,LA MADRID,-2.748.009,-5.885.032,3,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+41,90003,2020-11-19,08:15:00,Urbana,Avenida,AV C.CORRRENTINO,RIO JURAMENTO,-2.748.739,-5.880.027,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+42,84580,2020-11-17,16:30:00,Urbana,Calle,BAIBIENE,VELEZSARSFIELD,-2.746.323,-5.881.926,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+43,87213,2020-11-16,14:20:00,Urbana,Avenida,AV MAIPU,AV AGUSTIN PAYES,-2.749.430,-5.881.790,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+44,75818,2020-11-16,08:27:00,Urbana,Calle,SAN MARTIN,ESPAÑA,-2.747.051,-5.882.945,1,1,0,2,0,,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+45,84086,2020-11-16,16:30:00,Urbana,Avenida,AV R.R. ALFONSIN,GORRITI,-2.747.658,-5.878.930,2,0,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,
+46,84949,2020-11-12,16:15:00,Urbana,Avenida,AV MAIPU,,,,1,1,0,1,1,,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+47,85184,2020-11-12,11:25:00,Urbana,Avenida,AV ARMENIA,ZACARIAS SANCHES,-2.746.714,-5.880.856,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Funciona
+48,86137,2020-11-12,15:30:00,Urbana,Avenida,AV 3 DE ABRIL,ENTRE RIOS,-2.747.449,-5.884.480,1,1,0,2,0,,2,Hormigón,Apto,Seca,,NO,Despejado,Buena,Funciona
+49,68938,2020-11-11,10:25:00,Urbana,Calle,SAN LORENZO,RIVADAVIA,-2.747.473,-5.883.252,2,0,0,2,0,Angulo,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+50,76114,2020-11-11,12:54:00,Urbana,Avenida,AV.C.CORRENTINO,MILAN,-2.749.011,-5.878.484,1,1,0,2,0,,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Funciona
+51,77444,2020-11-10,06:35:00,Urbana,Calle,PELLEGRINI,ESPAÑA,-2.746.602,-5.882.898,1,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,Amanecer,NO,Despejado,,Sin Semáforo
+52,79530,2020-11-10,17:35:00,Urbana,Avenida,MEDRANO,PALERMO,-2.749.513,-5.880.000,2,1,0,2,0,Angulo,2,Hormigón,Apto,"Despejada, Seca",Día,SI,Nublado,Buena,Sin Semáforo
+53,85433,2020-11-10,09:20:00,Urbana,Calle,SAN MARTIN,PARAGUAY,-2.747.075,-5.882.685,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+54,84592,2020-11-10,18:20:00,Urbana,Avenida,AV MAIPU,EX VIA,-2.753.212,-5.877.162,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+55,85832,2020-11-09,15:30:00,Urbana,Avenida,AV ARMENIA,,-2.746.832,-5.879.648,4,0,0,4,0,,4,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+56,80326,2020-11-07,23:45:00,Urbana,Calle,COSQUIN,BONASTRE,-2.749.396,-5.883.010,1,0,0,2,0,,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+57,75811,2020-11-07,02:40:00,Urbana,Avenida,AV C.CORRENTINO,JUAN JOSE PASO,-2.748.722,-5.881.208,0,1,0,1,0,,1,Asfalto,Apto,Seca,,SI,Despejado,Buena,Sin Semáforo
+58,87719,2020-11-06,13:30:00,Urbana,Avenida,AV. R. R. ALFONSIN,FRENTE AL CASINO,-2.747.230,-5.880.831,1,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+59,88571,2020-11-06,18:00:00,Urbana,Calle,AV LA PRIDA,GIMENEZ,-2.746.680,-5.878.719,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,,Buena,Sin Semáforo
+60,76319,2020-11-06,18:45:00,Urbana,Calle,I. YRIGOYEN,JUJUY,-2.746.951,-5.882.757,2,1,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,,Buena,Sin Semáforo
+61,79531,2020-11-06,23:50:00,Urbana,Avenida,AV GOBERNADOR RUIZ,,-2.746.679,-5.881.883,1,0,0,1,0,,1,Asfalto,Apto,Seca,Noche,SI,Nublado,Buena,Sin Semáforo
+62,86579,2020-11-06,01:00:00,Urbana,Avenida,AV GENERAL SAN MARTIN,EDISON,-2.747.043,-5.885.406,2,0,0,2,0,Angulo,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+63,72298,2020-11-06,08:00:00,Urbana,Calle,ITUZAINGO,MORENO,-2.746.449,-5.873.514,2,0,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+64,84566,2020-11-06,17:05:00,Urbana,Avenida,AV LIBERTAD,,-2.746.508,-5.878.399,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,SI,Nublado,Buena,Sin Semáforo
+65,74014,2020-11-05,21:30:00,Urbana,Calle,ESPAÑA,PELLEGRINI,-2.746.602,-5.882.898,1,1,0,2,0,,2,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,Sin Semáforo
+66,85435,2020-11-05,18:30:00,Urbana,Calle,SAN JUAN,BELGRANO,-2.747.204,-5.883.721,2,0,0,2,0,,2,Asfalto,Apto,Seca,Atardecer,NO,Despejado,Buena,Sin Semáforo
+67,85548,2020-11-05,11:45:00,Urbana,Calle,LAS PIEDRAS,LAVALLE,-2.748.272,-5.880.081,1,1,0,2,0,Angulo,2,Hormigón,,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+68,76210,2020-11-04,10:00:00,Urbana,Calle,TURIN,NICARAGUA,-2.750.276,-5.878.562,0,1,0,1,0,,1,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+69,76228,2020-11-02,17:15:00,Urbana,Calle,BRASIL,RIVADAVIA,-2.747.553,-5.882.487,1,1,0,2,0,,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+70,84079,2020-11-02,00:05:00,Urbana,Calle,AV PEDRO FERRE,ROCA,-2.747.730,-5.882.368,2,0,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+71,84415,2020-11-02,09:00:00,Urbana,Avenida,AV MAIPU,LOS MATACOS,-2.750.375,-5.881.218,1,3,0,3,0,Angulo,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+72,85539,2020-11-02,08:54:00,Urbana,Avenida,AV INDEPENDENCIA,GUEMEZ,-2.747.930,-5.880.754,2,0,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+73,71294,2020-10-30,20:05:00,Urbana,Avenida,RUTA 5 KM 2,,-2.748.794,-5.876.381,3,0,0,2,0,Angulo,2,,Apto,Seca,,SI,Despejado,Buena,
+74,86573,2020-10-30,09:49:00,Urbana,Calle,JUNIN,BUENOS AIRES,-2.746.727,-5.884.052,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+75,72171,2020-10-30,08:00:00,Urbana,Ruta Provincial,RUTA 12,KM1036,-2.744.667,-5.874.853,2,0,0,2,0,Angulo,2,Asfalto,Apto,Despejada,Día,NO,Despejado,,Sin Semáforo
+76,76791,2020-10-29,10:45:00,Urbana,Avenida,AV MAIPU,AV C. CORRENTINOS,-2.748.645,-5.882.308,1,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Funciona
+77,84766,2020-10-29,09:12:00,Urbana,Calle,MEDRANO,NECOCHEA,-2.748.375,-5.879.874,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+78,90015,2020-10-28,10:00:00,Urbana,Avenida,AV ARMENIA,ONTIVERO,-2.746.692,-5.879.079,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+79,86054,2020-10-28,09:05:00,Urbana,Avenida,AV ARMENIA,22 DE mayo,-2.746.866,-5.880.256,2,0,0,2,0,,2,Asfalto,,,Día,,,,Sin Semáforo
+80,71573,2020-10-27,03:42:00,Rural,Avenida,Av. Armenia,ESTADOS UNIDOS,-2.746.883,-5.880.166,2,0,0,2,0,Rozamiento,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+81,77085,2020-10-27,08:34:00,Urbana,Avenida,AV GRAL PAZ,GDOR CONTTE,-2.747.970,-5.882.390,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+82,74751,2020-10-27,12:40:00,Urbana,Avenida,AV FERRE,BRASIL,-2.747.714,-5.882.507,2,0,0,2,0,Alcance,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,
+83,74189,2020-10-27,23:35:00,Urbana,Ruta Nacional,12,FRENTE AL AEROPUERTO,-2.745.192,-5.875.535,1,0,1,2,0,,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+84,71454,2020-10-27,23:15:00,Urbana,Avenida,Av C. Correntinos,Rio Juramento,-2.748.747,-5.880.027,1,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Noche,NO,Despejado,Buena,Sin Semáforo
+85,88554,2020-10-26,16:50:00,Urbana,Ruta Provincial,RUTA PROVINCIAL 5,,-2.748.608,-5.876.990,2,0,1,2,0,Lateral,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+86,91660,2020-10-26,16:50:00,Urbana,Avenida,AV 3 DE ABRIL,LA RIOJA (BANDA CENTRAL SUR ),-2.747.556,-5.883.906,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+87,87364,2020-10-25,07:45:00,Urbana,Ruta Nacional,12,,-2.751.733,-5.876.819,0,2,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,SI,Despejado,,Sin Semáforo
+88,79451,2020-10-24,09:50:00,Urbana,Calle,NUESTRA SEÑORA DE ASUNCION,EX VIA,-2.749.066,-5.881.855,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,"Despejado, Viento",Buena,Sin Semáforo
+89,85194,2020-10-23,08:08:00,Urbana,Avenida,AV J.R.VIDAL,,-2.747.869,-5.881.471,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+90,76286,2020-10-22,07:00:00,Urbana,Avenida,AV PUJOL,VELEZ SARSFIELD,-2.746.847,-5.882.013,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,,Buena,Sin Semáforo
+91,68921,2020-10-22,17:34:00,Urbana,Calle,AV.CARTAJENA,TACUARI,-2.746.906,-5.883.372,2,0,0,2,0,Alcance,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+92,72457,2020-10-21,17:20:00,Urbana,Calle,SAN MARTIN,MENDOZA,-2.746.990,-5.883.584,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+93,81281,2020-10-20,18:00:00,Urbana,Calle,TENIENTE CUNDON,GOBERNADOR VELAZCO,-2.748.640,-5.883.425,4,0,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+94,74181,2020-10-20,12:10:00,Urbana,Calle,PARAGUAY,BOLIVAR,-2.747.189,-5.882.698,2,0,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+95,74020,2020-10-20,23:35:00,Urbana,Calle,PLACIDO MARTINEZ,SA JUAN,-2.746.197,-5.883.633,2,0,0,2,0,,2,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,Sin Semáforo
+96,72422,2020-10-18,10:05:00,Urbana,Avenida,AV.FERRE,CHACABUCO,-2.747.850,-5.881.458,2,0,0,2,0,Angulo,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Funciona
+97,79284,2020-10-17,17:40:00,Urbana,Avenida,AV LAPRIDA,LA FERRERE,-2.747.077,-5.878.768,2,1,0,2,0,,2,Hormigón,Apto,,Atardecer,NO,Despejado,Buena,Sin Semáforo
+98,91662,2020-10-16,09:40:00,Urbana,Avenida,AV FERRE,CHILE,,,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+99,84257,2020-10-16,23:30:00,Urbana,Avenida,AV MAIPU,RUTA 12,-2.752.620,-5.876.480,0,1,0,1,0,,1,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,Sin Semáforo
+100,84408,2020-10-15,14:40:00,Urbana,Calle,SAMUEL MORSE,,-2.747.116,-5.879.612,0,1,0,1,0,,1,Hormigón,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+101,72269,2020-10-15,11:00:00,Urbana,Avenida,Av. Independencia,GASCON,-2.748.239,-5.879.677,2,0,0,2,0,Alcance,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+102,84412,2020-10-15,14:15:00,Urbana,Calle,SAN LORENZO,RIVADAVIA,-2.747.477,-5.883.255,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+103,84589,2020-10-14,22:15:00,Urbana,Avenida,AV CHACABUCO,MADARIAGA,-2.748.528,-5.881.595,1,2,0,2,0,,2,Hormigón,Apto,Despejada,Noche,SI,Despejado,,Sin Semáforo
+104,85774,2020-10-13,11:55:00,Urbana,Avenida,AV INDEPENDENCIA,,-2.748.004,-5.880.327,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,,Sin Semáforo
+105,85000,2020-10-11,17:00:00,Urbana,Avenida,AV 3 DE ABRIL,CATAMARCA,,,1,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+106,76028,2020-10-11,07:00:00,Urbana,Avenida,AV. PAYSANDU,RAFAELA,-2.749.751,-5.882.537,0,1,0,1,0,,1,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Sin Semáforo
+107,88053,2020-10-10,12:50:00,Urbana,Calle,CATAMARCA,BOLIVAR,-2.747.122,-5.883.344,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+108,79470,2020-10-10,12:57:00,Urbana,Avenida,AV MAIPU,,-2.749.700,-5.881.609,3,0,0,2,0,Angulo,2,,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+109,75476,2020-10-10,06:15:00,Urbana,Avenida,AV ARMENIA,AMADO BOMPLAN,-2.746.721,-5.880.982,1,1,0,2,0,,2,Asfalto,Apto,Mojada,Amanecer,SI,Lluvia,Buena,Sin Semáforo
+110,86577,2020-10-10,13:30:00,Urbana,Avenida,AV CHACABUCO,MADARIAGA,-2.748.511,-5.881.589,1,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+111,77242,2020-10-10,12:33:00,Urbana,Avenida,AV MAIPU,CUEVAS,-2.750.653,-5.881.083,1,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+112,71483,2020-10-10,10:15:00,Urbana,Avenida,FERRE,,-2.747.846,-5.881.548,2,1,0,2,0,Lateral,2,Hormigón,Apto,Despejada,Día,NO,Despejado,,Funciona
+113,74182,2020-10-10,06:00:00,Urbana,Avenida,AV FERRE,AV CHACABUCO,-2.747.850,-5.881.475,2,0,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+114,76289,2020-10-09,10:55:00,Urbana,Calle,ESPAÑA,MORENO,-2.747.387,-5.882.984,3,0,0,3,0,Alcance,3,Asfalto,,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+115,74779,2020-10-09,08:45:00,Urbana,Avenida,AV MEDRANO,OMBU,-2.749.000,-5.879.970,1,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+116,77612,2020-10-09,18:10:00,Urbana,Avenida,AV INDEPENDENCIA,TACUARI,-2.747.952,-5.880.636,1,1,0,2,0,,2,Asfalto,Apto,Seca,Atardecer,NO,Despejado,Buena,No Funciona
+117,92378,2020-10-09,17:40:00,Urbana,Avenida,AV 3 DE ABRIL,MENDOZA,-2.747.562,-5.883.646,3,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+118,84283,2020-10-09,13:40:00,Urbana,Avenida,AV POMAR,AV. R.R. ALFONSIN,-2.747.272,-5.880.636,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Funciona
+119,86575,2020-10-07,10:30:00,Urbana,Ruta Nacional,12,,-2.745.584,-5.876.062,1,1,0,2,0,,2,Asfalto,En reparación,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+120,84247,2020-10-06,08:03:00,Urbana,Calle,GENERAL PAZ,ELIAS ABAD,-2.747.667,-5.884.848,1,1,0,2,0,,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+121,91661,2020-10-06,11:50:00,Urbana,Calle,URUGUAY,J.M. ROLON,-2.746.148,-5.882.463,1,1,0,2,0,Lateral,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+122,74532,2020-10-06,10:25:00,Urbana,Calle,SANTA MARIA DE ORO,,-2.749.689,-5.883.825,0,2,0,2,0,Frontal,2,Tierra,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+123,85199,2020-10-05,06:35:00,Urbana,Calle,ROCA,BOLIVAR,-2.747.221,-5.882.326,0,3,0,2,0,Angulo,2,Asfalto,Apto,Seca,Amanecer,NO,Nublado,Buena,Sin Semáforo
+124,84220,2020-10-05,14:20:00,Urbana,Calle,MEDRANO,CARTAGENA,-2.749.613,-5.880.021,0,1,0,2,0,,2,Asfalto,Apto,,Día,NO,Despejado,Buena,Sin Semáforo
+125,91666,2020-10-05,14:00:00,Urbana,Calle,BELGRANO,PARAGUAY,-2.747.308,-5.882.713,3,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+126,77448,2020-10-04,06:45:00,Urbana,Avenida,AV VERA,MENDOZA,-2.746.119,-5.883.489,0,1,0,1,0,,1,Asfalto,Apto,Seca,Amanecer,NO,Despejado,Buena,Sin Semáforo
+127,84586,2020-10-04,09:45:00,Urbana,Calle,ENTRE RIOS,BELGRANO,-2.747.140,-5.884.453,2,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+128,87735,2020-10-04,22:15:00,Urbana,Avenida,AV ARMENIA,24 DE agosto,-2.746.711,-5.880.762,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Intermitente
+129,85009,2020-10-04,09:47:00,Urbana,Calle,CERDEÑA,ARTAZA,,,1,0,0,1,0,,1,Ripio,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+130,71459,2020-10-04,10:30:00,Urbana,Calle,MARIO PAYES,ACC ESPERANZA,-2.753.107,-5.879.129,1,2,0,1,0,,1,Tierra,Apto,,Día,NO,Despejado,Buena,
+131,75098,2020-10-03,09:30:00,Urbana,Calle,RESOAGLI,LAS HERAS,-2.748.461,-5.880.475,1,1,0,2,0,Angulo,2,Tierra,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+132,88065,2020-10-03,11:00:00,Urbana,Calle,J.J. CASTELLI,LUIS BRAILE,-2.747.774,-5.880.951,1,1,0,2,0,Angulo,2,Tierra,Apto,Seca,Día,NO,,Buena,Sin Semáforo
+133,74017,2020-10-01,11:55:00,Urbana,Avenida,AV MEDRANO,LARREA,-2.749.134,-5.879.959,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+134,74224,2020-10-01,09:10:00,Urbana,Avenida,AV 3 DE ABRIL,BLAS PARERA,-2.747.542,-5.884.038,2,0,0,2,0,,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Nublado,Buena,Sin Semáforo
+135,84569,2020-09-30,07:52:00,Urbana,Ruta Nacional,12,ROTONDA VIRGEN DE ITATI,-2.748.339,-5.878.244,2,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+136,85761,2020-09-30,03:45:00,Urbana,Avenida,AV INDEPENDENCIA,RECONQUISTA,,,1,2,0,2,0,Otro,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+137,86716,2020-09-29,13:50:00,Urbana,Avenida,AV CHACABUCO,GENERAL PAZ,-2.748.062,-5.881.510,1,2,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+138,89995,2020-09-29,20:00:00,Urbana,Calle,SUIZA,REPUBLIVA DOMINICANA,-2.747.615,-5.881.075,2,0,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+139,85429,2020-09-28,17:20:00,Urbana,Avenida,AV CHACABUCO,BOLIVAR,-2.747.225,-5.881.317,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+140,85830,2020-09-28,15:50:00,Urbana,Calle,SAN MARTIN,ESPAÑA,-2.747.052,-5.882.948,1,1,0,2,0,,2,Asfalto,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+141,74213,2020-09-27,07:15:00,Urbana,Avenida,AV 3 DE ABRIL,TUCUMAN,-2.747.508,-5.884.220,1,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,SI,Despejado,Buena,No Funciona
+142,85001,2020-09-27,19:50:00,Urbana,Avenida,AV VERA,CATAMARCA,,,1,0,1,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+143,79368,2020-09-25,11:05:00,Urbana,Calle,H. IRIGOYEN,,-2.746.959,-5.882.740,2,1,0,2,0,,2,Asfalto,,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+144,72185,2020-09-25,10:25:00,Rural,Avenida,AV .TTE IBAÑE,MAIPU,-2.748.330,-5.882.595,2,0,0,2,0,Lateral,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+145,74892,2020-09-24,11:01:00,Urbana,Avenida,AV. ARTIGAS,BELGRANO,-2.747.387,-5.881.913,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+146,84562,2020-09-23,19:34:00,Urbana,Calle,SANTA CATALINA,LYON,-2.749.480,-5.882.047,2,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+147,84761,2020-09-23,08:20:00,Urbana,Avenida,AV. R.R.ALFONSIN,J.J. CASTELLI,-2.747.225,-5.880.829,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Funciona
+148,76545,2020-09-22,14:55:00,Urbana,Avenida,AV PATAGONIA,2 DE abril,-2.749.204,-5.882.790,1,1,0,2,0,Angulo,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+149,79362,2020-09-22,13:10:00,Urbana,Avenida,AV VERA,CATAMARCA,-2.746.127,-5.883.230,1,1,0,2,0,Angulo,2,,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,No Funciona
+150,74008,2020-09-22,08:42:00,Urbana,Calle,MEDRANO,,-2.748.036,-5.879.818,2,0,0,2,0,Lateral,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+151,84282,2020-09-21,10:11:00,Urbana,Avenida,AV C.CORRENTINO,TACUARI,-2.748.646,-5.880.726,1,0,0,1,0,,1,Hormigón,Apto,Seca,Día,SI,Despejado,Buena,Funciona
+152,75527,2020-09-21,11:36:00,Urbana,Calle,9 DE julio,PARAGUAY,-2.746.725,-5.882.648,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+153,79468,2020-09-21,11:08:00,Urbana,Calle,PARAGUAY,SAN MARTIN,-2.747.075,-5.882.685,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+154,91679,2020-09-21,13:15:00,Urbana,Ruta Provincial,RUTA PROVINCIAL Nª 5,FRENTE INCA,,,1,0,1,1,1,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+155,84758,2020-09-20,10:00:00,Urbana,Avenida,AV.R.R.ALFONSIN,MEDRANO,-2.747.521,-5.879.725,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,No Funciona
+156,88552,2020-09-19,12:30:00,Urbana,Ruta Provincial,RUTA 5,,-2.748.602,-5.876.991,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+157,74180,2020-09-19,01:15:00,Rural,Ruta Nacional,12,,-2.754.237,-5.875.282,0,3,0,2,0,,2,Asfalto,,,Noche,,,,Sin Semáforo
+158,74753,2020-09-18,12:50:00,Urbana,Avenida,AV FERRE,PARAGUAY,-2.747.687,-5.882.749,1,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+159,76551,2020-09-18,13:50:00,Urbana,Avenida,AV 3 DE ABRIL,SANTA FE,-2.747.651,-5.883.145,2,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+160,84588,2020-09-18,19:30:00,Urbana,Calle,MISIONES,JUNIN,-2.746.689,-5.884.545,2,0,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+161,84419,2020-09-18,09:36:00,Urbana,Avenida,AV INDEPENDENCIA,GUEMES,-2.747.930,-5.880.754,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+162,71289,2020-09-17,11:05:00,Urbana,Avenida,AV SANTA ROSA,ÑAEMBE,-2.747.902,-5.881.999,1,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,,Sin Semáforo
+163,84578,2020-09-17,14:40:00,Urbana,Calle,INGLATERRA,LORETA,-2.750.561,-5.880.252,1,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+164,84763,2020-09-15,11:45:00,Urbana,Ruta Provincial,5,ROTONDA DE LA VIRGEN DE ITATI,-2.748.470,-5.878.139,2,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+165,76043,2020-09-15,20:00:00,Urbana,Avenida,AV MAIPU,ASUNCION,-2.749.119,-5.881.979,0,1,0,1,0,,1,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+166,85440,2020-09-14,06:30:00,Urbana,Avenida,AV MAIPU,,,,1,0,0,1,0,,1,Asfalto,,Seca,Amanecer,NO,Despejado,Buena,Sin Semáforo
+167,84285,2020-09-14,20:30:00,Urbana,Avenida,MEDRANO,SAN FRANCISCO DE ASIS,-2.749.315,-5.879.929,1,1,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+168,81314,2020-09-13,22:30:00,Urbana,Calle,MORENO,ROCA,-2.747.451,-5.882.346,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+169,74034,2020-09-12,20:20:00,Urbana,Calle,MENDOZA,GENERAL PAZ,-2.747.829,-5.883.680,2,0,0,2,0,Frontal,2,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,Sin Semáforo
+170,80494,2020-09-12,19:30:00,Urbana,Calle,AV PUJOL,CARLOS PELLEGRINI,-2.746.644,-5.882.268,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+171,84226,2020-09-12,22:15:00,Urbana,Avenida,AV COLON,IRALA,-2.748.838,-5.884.331,0,1,0,1,0,,1,Asfalto,Apto,Seca,Noche,NO,Viento,Buena,Sin Semáforo
+172,86712,2020-09-12,08:29:00,Urbana,Ruta Provincial,5,YEDRO,-2.748.859,-5.876.191,0,2,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+173,79285,2020-09-12,06:00:00,Urbana,Avenida,AV FERRE,BRASIL,-2.747.714,-5.882.507,2,0,0,2,0,,2,Asfalto,Apto,Seca,Amanecer,SI,Despejado,Buena,Funciona
+174,76052,2020-09-10,17:40:00,Urbana,Avenida,AV MAIPU,LOS MATACOS,-2.750.375,-5.881.218,3,1,0,3,0,,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+175,80974,2020-09-09,22:10:00,Urbana,Avenida,AV. PAYSANDU,TEGUELCHE,-2.750.060,-5.882.589,1,1,0,2,0,,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+176,84424,2020-09-08,17:08:00,Urbana,Avenida,AV FERRE,JUJUY,-2.747.667,-5.882.878,1,2,0,2,1,,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+177,86429,2020-09-08,17:55:00,Urbana,Ruta Provincial,5,,-2.748.794,-5.876.355,0,1,0,1,0,,1,Asfalto,Apto,Seca,Atardecer,NO,Despejado,Buena,Sin Semáforo
+178,73996,2020-09-07,22:15:00,Urbana,Avenida,AV SANTA ROSA,PJE CABILDO,-2.748.056,-5.882.016,2,0,0,2,0,,2,Hormigón,Apto,Seca,Noche,NO,Despejado,Buena,Sin Semáforo
+179,87514,2020-09-06,03:41:00,Urbana,Avenida,AV FERRE,,-2.747.800,-5.882.070,3,0,0,3,0,,3,Hormigón,Apto,Seca,Noche,SI,Nublado,Buena,Sin Semáforo
+180,90017,2020-09-06,13:50:00,Urbana,Calle,BOLIVAR,SAN LORENZO,-2.747.136,-5.883.211,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+181,80166,2020-09-04,22:30:00,Urbana,Avenida,AV INDEPENDENCIA,LAS PIEDRAS,-2.748.080,-5.880.050,2,0,0,2,0,,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+182,79699,2020-09-04,20:15:00,Urbana,Avenida,AV R.R.ALFONSIN,RUTA NACIONAL 12,-2.747.824,-5.878.310,2,1,0,3,0,Alcance,3,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+183,81355,2020-09-02,17:40:00,Urbana,Avenida,GUTEMBER,GRAL PAZ,-2.747.892,-5.883.170,1,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+184,76787,2020-08-27,19:15:00,Urbana,Calle,DARRAGUEIRA,LAS HERAS,-2.748.565,-5.879.735,1,1,0,2,0,,2,Asfalto,,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+185,88052,2020-08-25,21:47:00,Urbana,Calle,PARAGUAY,SAN MARTIN,-2.747.075,-5.882.685,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+186,74041,2020-08-25,12:00:00,Urbana,Calle,COLOMBIA,PASAJE PUJOL,-2.746.992,-5.881.654,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+187,85008,2020-08-24,09:30:00,Urbana,Avenida,AV.R.R.ALFONSIN,MEDRANO,,,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+188,76790,2020-08-23,07:48:00,Urbana,Avenida,AV C.CORRENTINO,LAS PIEDRAS,-2.748.738,-5.880.144,2,0,0,2,0,Frontal,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Funciona
+189,77611,2020-08-23,15:45:00,Urbana,Calle,ALBERTI,,-2.748.762,-5.881.644,3,0,0,2,0,,2,Tierra,Apto,"Despejada, Seca",Día,NO,Nublado,Buena,Sin Semáforo
+190,85676,2020-08-23,07:00:00,Urbana,Avenida,AV. LIBERTAD,,-2.746.197,-5.877.104,1,1,0,2,0,Angulo,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+191,86063,2020-08-22,08:00:00,Urbana,Avenida,AV MAIPU,,-2.751.228,-5.880.880,0,1,0,1,0,,1,Hormigón,Apto,Despejada,Día,NO,Despejado,Buena,Sin Semáforo
+192,81280,2020-08-22,17:30:00,Urbana,Calle,TENIENTE IBAÑEZ,GOBERNADOR CONTTE,-2.748.258,-5.882.418,1,1,0,2,0,,2,Hormigón,Apto,Seca,Atardecer,NO,Despejado,Buena,Sin Semáforo
+193,76209,2020-08-22,10:30:00,Urbana,Avenida,AV LA PAZ,HONDURAS,-2.748.633,-5.882.523,2,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+194,81276,2020-08-21,11:00:00,Urbana,Calle,LAS HERAS,PIROVANO,-2.748.444,-5.880.596,2,0,0,2,0,,2,Ripio,Apto,,Día,NO,"Despejado, Viento",Buena,Sin Semáforo
+195,75530,2020-08-21,16:30:00,Urbana,Calle,ROCA,BELGRANO,-2.747.340,-5.882.335,2,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+196,76135,2020-08-21,12:20:00,Urbana,Calle,BRAILE,MADARIAGA,-2.748.250,-5.884.141,1,1,0,2,0,,2,Ripio,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+197,79703,2020-08-21,15:17:00,Urbana,Calle,SANTA CATALINA,LOS MATACOS,-2.750.457,-5.882.228,1,0,0,1,0,,1,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+198,81269,2020-08-20,14:50:00,Urbana,Calle,COSQUIN,CRESPO,-2.749.409,-5.882.921,2,0,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+199,84759,2020-08-20,11:40:00,Urbana,Avenida,AV MAIPU,LYON,-2.749.479,-5.881.745,1,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,,NO,Despejado,Buena,Sin Semáforo
+200,68911,2020-08-19,18:30:00,Urbana,Calle,ALMIRANTE BROWN,,-2.747.500,-5.881.059,1,1,0,2,0,Alcance,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,
+201,79711,2020-08-19,17:00:00,Urbana,Calle,JUNIN,CHACO,-2.746.680,-5.884.671,2,0,0,2,0,,2,Hormigón,Apto,Seca,Atardecer,NO,Despejado,Buena,Sin Semáforo
+202,74190,2020-08-18,13:35:00,Urbana,Calle,SUIZA,REPUBLICA DOMINICANA,-2.747.611,-5.881.069,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+203,80926,2020-08-13,10:15:00,Urbana,Avenida,AV MAIPU,,-2.749.824,-5.881.520,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+204,79466,2020-08-11,13:00:00,Urbana,Calle,H.IRIGOYEN,URUGUAY,-2.746.973,-5.882.546,2,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+205,80320,2020-08-10,11:50:00,Urbana,Avenida,AV TENIENTE IBAÑES,GUSTAVINO,-2.748.462,-5.884.431,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+206,71357,2020-08-10,11:50:00,Urbana,Calle,San Martin,JUJUY,-2.747.066,-5.882.823,1,1,0,2,0,Alcance,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,
+207,74538,2020-08-09,10:00:00,Urbana,Calle,GUEMES,GENERAL PAZ,-2.748.207,-5.880.800,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+208,85403,2020-08-08,16:10:00,Urbana,Avenida,AV JUAN PUJOL,JUNIN,-2.746.917,-5.881.953,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+209,76226,2020-08-08,14:20:00,Urbana,Calle,VELEZ SARSFIELD,ROLON,-2.746.170,-5.881.923,4,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+210,74187,2020-08-07,23:10:00,Urbana,Avenida,PAYSANDU,,-2.750.032,-5.882.585,1,1,0,2,0,,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+211,84421,2020-08-07,10:50:00,Urbana,Calle,ESPAÑA,BOLIVAR,-2.747.166,-5.882.963,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+212,85540,2020-08-06,17:50:00,Urbana,Calle,BELGRANO,PERU,-2.747.354,-5.882.201,1,1,0,2,0,Angulo,2,Asfalto,,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+213,90037,2020-08-06,10:45:00,Urbana,Calle,SAN JUAN,Y SAN MARTIN,-2.746.977,-5.883.696,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+214,87211,2020-08-05,14:15:00,Urbana,Avenida,AV INDEPENDENCIA,LAS PIEDRAS,-2.748.079,-5.880.050,1,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,,SI,Despejado,Buena,Funciona
+215,68891,2020-08-05,13:12:00,Urbana,Avenida,CARTAJENA,RESOAGLI,-2.749.351,-5.880.618,1,1,0,2,0,Angulo,2,Hormigón,Apto,"Despejada, Seca",Día,SI,,Buena,Sin Semáforo
+216,74077,2020-08-04,20:05:00,Urbana,Avenida,AV FERRE,AV ARTIGAS,-2.747.789,-5.881.974,1,0,1,2,0,Alcance,2,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,Funciona
+217,74089,2020-08-02,03:17:00,Urbana,Ruta Provincial,RUTA 5,ROTONDA DE LA VIRGEN DE ITATI,-2.748.450,-5.878.143,0,0,1,1,0,,1,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+218,87518,2020-08-01,12:00:00,Urbana,Avenida,AV 3 DE ABRIL,LA RIOJA,-2.747.539,-5.883.896,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+219,79701,2020-08-01,10:50:00,Urbana,Avenida,AV INDEPENDENCIA,TACUARI,-2.747.952,-5.880.636,0,1,0,1,0,,1,Hormigón,Apto,Seca,Día,NO,,Buena,Funciona
+220,87717,2020-08-01,19:20:00,Urbana,Avenida,AV PAYSANDU,FRAY MARTI Y PORTO,-2.750.640,-5.882.634,1,1,0,2,0,,2,Asfalto,Apto,Seca,Atardecer,SI,Despejado,Buena,Funciona
+221,81040,2020-08-01,18:45:00,Urbana,Calle,RIO LIMAY,MAGALLANES,-2.749.322,-5.883.571,2,0,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+222,74222,2020-08-01,11:46:00,Urbana,Avenida,AV 3 DE ABRIL,SAN JUAN,-2.747.555,-5.883.762,2,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+223,84423,2020-07-31,11:39:00,Urbana,Avenida,AV CHACABUCO,ESTADO DE ISRAEL,-2.747.330,-5.881.335,2,0,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+224,84407,2020-07-31,19:50:00,Urbana,Avenida,AV MAIPU,LYON,-2.749.480,-5.881.756,0,2,0,1,1,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+225,91669,2020-07-30,11:25:00,Urbana,Avenida,AV 3 DE ABRIL,BUENOS AIRES,-2.747.498,-5.884.117,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+226,79532,2020-07-30,07:10:00,Urbana,Calle,ESPAÑA,RIVADAVIA,-2.747.498,-5.883.003,2,1,0,2,0,,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Nublado,Buena,Sin Semáforo
+227,84411,2020-07-28,07:42:00,Urbana,Avenida,AV MAIPU,LOS CONDORES,-2.749.991,-5.881.401,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+228,75815,2020-07-28,00:11:00,Urbana,Ruta Nacional,12,INGRESO Bº PIRAYUI,-2.750.538,-5.877.347,0,2,0,1,0,,1,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+229,87516,2020-07-27,13:45:00,Urbana,Avenida,AV R.R.ALFONSIN,SANCHEZ DE BUSTAMANTE,-2.747.675,-5.878.789,1,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+230,79696,2020-07-26,10:47:00,Urbana,Calle,LA RIOJA,SAN MARTIN,-2.746.966,-5.883.828,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+231,90016,2020-07-26,12:20:00,Urbana,Calle,PLACIDO MARTINEZ,,-2.746.241,-5.883.243,1,1,0,2,0,,2,Asfalto,,Seca,Día,,,,Sin Semáforo
+232,84409,2020-07-25,10:00:00,Urbana,Calle,SUIZA,REPUBLICA DOMINICANA,-2.747.612,-5.881.069,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+233,88630,2020-07-25,12:55:00,Urbana,Calle,TUCUMAN,BELGRANO,-2.747.160,-5.884.196,5,0,0,4,0,,4,Asfalto,Apto,Seca,Día,NO,,Buena,Sin Semáforo
+234,75455,2020-07-25,13:40:00,Urbana,Calle,PAGO LARGO,,-2.746.670,-5.884.799,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+235,84558,2020-07-25,13:11:00,Urbana,Avenida,AV MAIPU,GUAIQUIRARO,-2.751.379,-5.880.720,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+236,75474,2020-07-25,12:18:00,Urbana,Avenida,AV MAIPU,,-2.747.754,-5.883.022,3,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+237,70155,2020-07-25,03:47:00,Urbana,Avenida,LAPRIDA,LIBERTAD,-2.746.787,-5.878.732,0,1,0,1,0,Columna,1,Hormigón,Apto,Mojada,Noche,SI,,Lluvia,Sin Semáforo
+238,88569,2020-07-24,23:15:00,Urbana,Calle,SANTA FE,H IRIGOYEN,-2.746.925,-5.883.060,0,1,0,1,0,,1,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,Funciona
+239,71307,2020-07-23,13:00:00,Urbana,Avenida,Av. Maipú,Reconquista,-2.749.706,-5.881.600,2,0,0,2,0,Alcance,2,,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+240,72391,2020-07-23,15:40:00,Urbana,Avenida,AV. ARMENIA,22 DE mayo,-2.746.920,-5.880.035,5,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+241,76041,2020-07-22,08:00:00,Urbana,Ruta Nacional,12,,-2.751.739,-5.876.832,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+242,84281,2020-07-22,19:50:00,Urbana,Ruta Provincial,5,,-2.748.534,-5.877.403,1,1,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+243,85762,2020-07-22,08:20:00,Urbana,Avenida,AV R.R. ALFONSIN,MEDRANO,,,0,3,0,3,0,"Lateral, Multiple",3,Asfalto,Apto,Seca,Día,NO,Despejado,,Funciona
+244,86078,2020-07-22,10:43:00,Urbana,Calle,SANTA FE,,-2.746.695,-5.883.035,2,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+245,72266,2020-07-21,11:15:00,Urbana,Calle,RIOJA,SAN MARTIN,-2.746.967,-5.883.829,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+246,75819,2020-07-21,06:15:00,Urbana,Calle,SAN LUIS,H YRIGOYEN,-2.746.813,-5.884.304,1,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Amanecer,NO,Despejado,Buena,Sin Semáforo
+247,85306,2020-07-21,08:00:00,Urbana,Calle,RESOAGLI,LARREA,-2.748.982,-5.880.533,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+248,76229,2020-07-20,00:20:00,Urbana,Calle,CENTENO,RIO  LIMAY,-2.749.704,-5.883.637,2,0,0,2,0,,2,Asfalto,Apto,"Despejada, Seca",Noche,SI,Despejado,Buena,Sin Semáforo
+249,76541,2020-07-20,13:00:00,Urbana,Avenida,AV INDEPENDENCIA,"J,J, CASTELLI",-2.747.904,-5.880.979,2,0,0,2,0,,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+250,76292,2020-07-20,14:10:00,Urbana,Calle,LAS PIEDRAS,GENERAL PAZ,-2.748.309,-5.880.067,1,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+251,79697,2020-07-20,19:23:00,Urbana,Calle,SANTA CATALINA,,-2.751.103,-5.882.200,1,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+252,79709,2020-07-16,18:10:00,Urbana,Ruta Provincial,RUTA PROVINCIAL 5,,-2.748.614,-5.876.972,1,1,0,2,0,,2,Hormigón,Apto,Seca,Atardecer,NO,Despejado,Buena,Sin Semáforo
+253,76321,2020-07-16,14:40:00,Urbana,Calle,SUIZA,COLOMBIA,-2.747.510,-5.881.773,1,1,0,2,0,Alcance,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+254,84284,2020-07-12,20:05:00,Urbana,Avenida,AV EL MAESTRO,RAFAELA,-2.749.719,-5.882.717,2,0,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,,Sin Semáforo
+255,76785,2020-07-12,12:11:00,Urbana,Calle,NUESTRA SEÑORA DE LA ASUNCION,,-2.749.121,-5.881.981,1,1,0,2,0,,2,,Apto,Seca,,NO,Despejado,Buena,Sin Semáforo
+256,90004,2020-07-12,07:25:00,Urbana,Avenida,AV.C.CORRENTINOS,NIÑO JESUS,-2.748.706,-5.880.298,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+257,76136,2020-07-08,08:20:00,Urbana,Avenida,AV C. CORRENTINO,MEDRANO,-2.748.762,-5.879.940,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+258,85007,2020-07-06,00:10:00,Urbana,Avenida,AV MAIPU,,,,0,1,0,1,0,,1,Asfalto,Apto,Seca,Noche,SI,Nublado,Buena,Sin Semáforo
+259,84591,2020-07-06,08:05:00,Urbana,Calle,SANTA FE,,-2.746.918,-5.883.058,2,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+260,76034,2020-07-06,11:40:00,Urbana,Avenida,AV MAIPU,,-2.749.383,-5.881.808,1,1,0,1,1,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+261,79831,2020-07-03,08:50:00,Urbana,Avenida,AV INDEPENDENCIA,CASTELLI,-2.747.922,-5.880.983,2,0,0,2,0,,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+262,85763,2020-07-03,18:40:00,Urbana,Calle,9 DE julio,ESPAÑA,,,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+263,87517,2020-07-02,20:40:00,Urbana,Calle,H. IRIGOYEN,JUJUY,-2.746.948,-5.882.801,2,1,0,2,0,Alcance,2,Asfalto,,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+264,85681,2020-07-01,17:30:00,Urbana,Avenida,AV TENIENTE IBAÑES,HEROES CIVILES,-2.748.502,-5.884.070,1,1,0,2,0,Lateral,2,Hormigón,Apto,Seca,Atardecer,SI,Despejado,Buena,Sin Semáforo
+265,88573,2020-07-01,13:20:00,Urbana,Avenida,AV IV CENTENARIO,,-2.749.082,-5.883.817,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+266,87716,2020-06-30,01:30:00,Urbana,Ruta Provincial,RUTA NACIONAL 12,,-2.751.786,-5.876.819,1,0,0,1,0,,1,Hormigón,Apto,Mojada,Noche,SI,Nublado,Buena,Sin Semáforo
+267,71315,2020-06-30,14:30:00,Urbana,Calle,GUASTAVINO,GENERAL PAZ,-2.747.743,-5.884.333,2,0,0,2,0,Angulo,2,Asfalto,Apto,,,NO,Despejado,Buena,Sin Semáforo
+268,71467,2020-06-30,09:10:00,Urbana,Avenida,INDEPENDENCIA,LAS PIEDRAS,-2.748.067,-5.880.064,2,0,0,2,0,Alcance,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+269,86713,2020-06-29,09:39:00,Urbana,Calle,LA RIOJA,BOLIVAR,-2.747.054,-5.883.839,2,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+270,74942,2020-06-27,10:37:00,Urbana,Calle,ESPAÑA,BELGRAO,-2.747.278,-5.882.972,1,2,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+271,71380,2020-06-27,06:00:00,Urbana,Avenida,MAIPU,,-2.747.814,-5.882.979,1,0,1,2,0,En calzada,2,,Apto,Seca,Día,SI,Despejado,Buena,
+272,90042,2020-06-27,10:00:00,Urbana,Avenida,AV MAIPU,HAITI,-2.748.792,-5.882.207,1,2,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+273,72307,2020-06-26,06:31:00,Urbana,Calle,LA MADRID,SUIPACHA,-2.747.995,-5.885.152,2,0,0,2,0,Frontal,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+274,72416,2020-06-26,16:40:00,Urbana,Calle,ROMULO ALTIERA,VERONA,-2.749.734,-5.877.028,2,1,0,2,0,Angulo,2,Tierra,,Mojada,Día,NO,Nublado,,Sin Semáforo
+275,80927,2020-06-25,12:50:00,Urbana,Avenida,AV MAIPU,RUTA 12,-2.752.498,-5.876.512,1,3,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+276,84577,2020-06-25,13:00:00,Urbana,Avenida,AV ARTIGAS,MORENO,-2.747.493,-5.881.933,2,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,,Funciona
+277,90001,2020-06-25,08:45:00,Urbana,Avenida,AV GOBERNADOR RUIZ,,-2.746.760,-5.881.396,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+278,75542,2020-06-25,13:05:00,Urbana,Calle,HEROES CIVILES,PERUGORRIA,-2.748.379,-5.884.014,1,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+279,74431,2020-06-23,21:22:00,Urbana,Avenida,AV CENTENARIO,,-2.747.924,-5.877.940,1,1,0,2,0,,2,Ripio,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+280,86431,2020-06-23,19:20:00,Urbana,Avenida,AV RIO CHICO,BENABIDES,-2.746.118,-5.878.267,1,1,0,2,0,,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+281,80975,2020-06-19,16:10:00,Urbana,Avenida,AV 3 DE ABRIL,TUCUMAN,-2.747.508,-5.884.227,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+282,86707,2020-06-19,18:50:00,Urbana,Calle,CATAMARCA,BOLIVAR,-2.747.122,-5.883.344,1,2,0,2,0,Angulo,2,Asfalto,Apto,Seca,Atardecer,SI,Despejado,Buena,Sin Semáforo
+283,77408,2020-06-18,08:10:00,Urbana,Avenida,AV DEL IV CENTENARIO,TARAGUI,-2.749.548,-5.883.813,1,1,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+284,89994,2020-06-18,20:15:00,Urbana,Avenida,AV MAIPU,ROTONDA SANTA CATALINA,-2.752.211,-5.879.979,2,0,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+285,76288,2020-06-18,10:00:00,Urbana,Calle,ELIAS ABAD,,-2.748.362,-5.884.987,1,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,"Despejado, Viento",Buena,Sin Semáforo
+286,84083,2020-06-18,08:41:00,Urbana,Calle,H. IRIGOYEN,ITUZAINGO,-2.747.038,-5.881.901,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,,Sin Semáforo
+287,84401,2020-06-17,22:54:00,Urbana,Calle,LAS HERAS,OBISPO NIELLA,-2.748.479,-5.880.349,2,0,0,2,0,,2,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,Sin Semáforo
+288,74003,2020-06-17,20:10:00,Urbana,Avenida,AV R.R.ALFONSIN,MEDRANO,-2.747.521,-5.879.725,1,1,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+289,85772,2020-06-17,08:29:00,Urbana,Avenida,AV VERA,CATAMARCA,-2.746.127,-5.883.230,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+290,79828,2020-06-17,12:45:00,Urbana,Calle,MEXICO,SUECIA,-2.747.522,-5.881.642,0,2,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,
+291,88050,2020-06-16,11:10:00,Urbana,Calle,LA CUEVA,,-2.750.664,-5.881.168,2,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+292,71477,2020-06-16,06:00:00,Urbana,Avenida,MAIPU,TENIENTE IBAÑEZ,-2.748.742,-5.882.223,1,2,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,,Buena,Intermitente
+293,71488,2020-06-16,15:45:00,Urbana,Calle,ESPAÑA,,-2.747.599,-5.883.003,1,1,0,2,0,Alcance,2,Hormigón,Apto,Seca,Día,NO,,,Funciona
+294,74042,2020-06-16,12:45:00,Urbana,Avenida,AV  3 DE ABRIL,SAN LORENZO,-2.747.615,-5.883.268,2,0,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+295,74783,2020-06-16,16:25:00,Urbana,Calle,GENERAL PAZ,ELIAS ABAB,-2.747.671,-5.884.848,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,,NO,Despejado,,Sin Semáforo
+296,81408,2020-06-16,19:10:00,Urbana,Avenida,JUAN PUJOL,PARAGUAY,-2.746.850,-5.882.662,1,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,Noche,,Despejado,Buena,
+297,86428,2020-06-14,07:50:00,Urbana,Calle,RAWSON,ONTEVERO,-2.747.429,-5.879.217,0,2,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+298,85679,2020-06-13,18:00:00,Urbana,Calle,SAAVEDRA,CABILDO,-2.748.075,-5.881.235,1,1,0,2,0,,2,Ripio,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+299,74869,2020-06-13,08:00:00,Urbana,Avenida,AV MAIPU,,-2.749.722,-5.881.589,0,1,0,1,0,,1,Asfalto,Apto,Mojada,Día,NO,Lluvia,Buena,Sin Semáforo
+300,71388,2020-06-13,08:30:00,Urbana,Avenida,Av. Gdor Ruiz,Av. Gdor J. Pujol,-2.746.709,-5.882.170,2,0,0,2,0,Angulo,2,Hormigón,Apto,Mojada,Día,NO,Lluvia,Buena,Sin Semáforo
+301,85191,2020-06-12,10:00:00,Urbana,Avenida,AV 3 DE ABRIL,ESPAÑA,-2.747.639,-5.883.017,3,0,0,3,0,Alcance,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+302,79462,2020-06-12,17:30:00,Urbana,Calle,CUBA,YUGOSLAVIA,-2.750.478,-5.879.561,1,2,0,2,0,Angulo,2,Hormigón,Apto,Seca,Atardecer,NO,Despejado,Buena,Sin Semáforo
+303,75447,2020-06-12,13:45:00,Urbana,Calle,ESMERALDA,GOROSTIAGA,-2.748.321,-5.879.687,1,1,0,2,0,,2,Tierra,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+304,80317,2020-06-11,09:43:00,Urbana,Calle,MEDRANO,LAVALLE,-2.748.323,-5.879.866,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+305,76290,2020-06-11,13:00:00,Urbana,Calle,NECOCHEA,ELIAS ABAD,-2.747.790,-5.884.865,1,2,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+306,72242,2020-06-10,16:15:00,Urbana,Avenida,CAFAYATE 2800,AV. SANTA CATALINA,-2.749.708,-5.882.123,1,1,0,2,0,Frontal,2,,Apto,Mojada,,NO,Lluvia,Lluvia,
+307,86705,2020-06-09,06:25:00,Urbana,Calle,MENDOZA,PELLEGRINI,-2.746.545,-5.883.537,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+308,71448,2020-06-08,10:30:00,Urbana,Avenida,GOBERNADOR RUIZ,PERU,-2.746.671,-5.882.067,1,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+309,74183,2020-06-08,13:25:00,Urbana,Avenida,AV SARMIENTO,GEERAL PAZ,-2.747.903,-5.883.039,2,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+310,84246,2020-06-05,22:00:00,Urbana,Calle,CARTAGENA,SAAVEDRA,-2.749.255,-5.881.408,3,1,0,2,0,,2,Hormigón,Apto,,Noche,SI,Nublado,Buena,Sin Semáforo
+311,72435,2020-06-04,17:45:00,Urbana,Calle,SAN LUIS,SAN MARTIN,-2.746.910,-5.884.307,2,2,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+312,76792,2020-06-04,13:30:00,Urbana,Calle,SAN FRANCISCO DE ASIS,DUMAS,-2.749.557,-5.878.685,0,2,0,2,0,Frontal,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+313,85189,2020-06-04,14:00:00,Urbana,Calle,BRASIL,BOLIVAR,-2.747.214,-5.882.447,2,0,0,2,0,Angulo,2,Asfalto,Apto,"Despejada, Seca",Día,SI,Despejado,Buena,Sin Semáforo
+314,74426,2020-06-02,10:39:00,Urbana,Calle,COMODORO RIVADAVIA,TRES SARGENTO,-2.748.992,-5.883.705,1,0,0,1,0,Inmueble,1,Asfalto,Apto,Seca,Día,SI,Nublado,Buena,Sin Semáforo
+315,74868,2020-06-01,08:00:00,Urbana,Avenida,AV PUJOL,VELEZ SARSFIELD,-2.746.847,-5.882.013,1,1,0,1,0,,1,Asfalto,Apto,Mojada,Día,SI,Lluvia,Buena,Sin Semáforo
+316,76109,2020-05-31,07:20:00,Urbana,Avenida,AV LAS VIOLETAS,LOS LIRIOS,-2.745.661,-5.877.695,2,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+317,74752,2020-05-30,11:00:00,Urbana,Avenida,AV FERRE,AV ARTIGAS,-2.747.789,-5.881.974,1,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+318,85431,2020-05-29,07:00:00,Urbana,Ruta Nacional,12,,-2.750.999,-5.877.142,1,1,0,2,0,,2,Asfalto,Apto,Seca,Amanecer,NO,Despejado,Buena,Sin Semáforo
+319,77084,2020-05-27,18:30:00,Urbana,Calle,JUJUY,BOLIVAR,-2.747.175,-5.882.834,2,1,0,2,0,,2,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,Sin Semáforo
+320,70376,2020-05-27,23:00:00,Urbana,Avenida,AV MAIPU,LYON,-2.749.478,-5.881.745,1,2,0,2,0,Angulo,2,Hormigón,Apto,Mojada,Noche,SI,Lluvia,Buena,Funciona
+321,85764,2020-05-26,18:30:00,Urbana,Avenida,AV RIO CHICO,TULIPANES,,,1,1,0,2,0,,2,Asfalto,Apto,Seca,Atardecer,NO,,Buena,Sin Semáforo
+322,90040,2020-05-25,06:10:00,Urbana,Calle,MORENO,VELEZSARSFIELD,-2.747.476,-5.882.093,4,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,,Sin Semáforo
+323,74220,2020-05-24,07:10:00,Urbana,Ruta Nacional,12,VERONA,-2.749.615,-5.877.733,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+324,85759,2020-05-23,08:50:00,Urbana,Avenida,AV ARMENIA,JUAN AMBRISETTI,,,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+325,75800,2020-05-22,14:17:00,Urbana,Avenida,AV FERRE,,-2.747.817,-5.881.853,0,1,0,1,0,,1,Hormigón,Apto,Seca,Día,,Lluvia,Lluvia,Sin Semáforo
+326,91673,2020-05-22,11:30:00,Urbana,Avenida,AV MAIPU,FRENTE MAYORISTA MAKRO,-2.751.963,-5.880.132,1,0,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+327,85197,2020-05-21,16:45:00,Urbana,Ruta Nacional,12,TUPAK AMARU,-2.750.062,-5.877.548,1,1,0,2,0,Angulo,2,Asfalto,,Despejada,Día,SI,,Buena,Sin Semáforo
+328,87210,2020-05-19,07:40:00,Urbana,Avenida,AV FERRE,JUJUY,-2.747.667,-5.882.878,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+329,74422,2020-05-19,08:50:00,Urbana,Calle,LAVALLE,MENDOZA,-2.747.707,-5.883.665,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+330,76786,2020-05-18,14:00:00,Urbana,Calle,SAN MARTIN,ESPAÑA,-2.747.052,-5.882.946,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+331,80973,2020-05-17,06:00:00,Urbana,Avenida,AV. C.CORRENTINO,TRENTO,-2.749.065,-5.878.120,0,1,0,1,0,,1,Hormigón,Apto,Seca,Amanecer,SI,Despejado,Buena,Sin Semáforo
+332,88051,2020-05-16,07:51:00,Urbana,Avenida,AV FERRE,BRASIL,-2.747.714,-5.882.507,5,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,,Funciona
+333,87512,2020-05-16,14:18:00,Urbana,Avenida,AV C. CORRENTINO,RIO JURAMENTO,-2.748.742,-5.880.026,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+334,87363,2020-05-14,16:24:00,Urbana,Calle,RIVADAVIA,,-2.747.467,-5.883.381,1,3,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+335,89993,2020-05-14,14:00:00,Urbana,Avenida,AV INDEPENDENCIA,,-2.748.085,-5.880.017,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+336,81404,2020-05-13,22:50:00,Urbana,Ruta Provincial,NUMERO 5,111,-2.748.604,-5.877.014,0,0,1,1,0,,1,Asfalto,Apto,Seca,Noche,,Despejado,Buena,Sin Semáforo
+337,71471,2020-05-13,07:20:00,Urbana,Calle,Pte. A. Frondizi,NICARAGUA,-2.750.269,-5.879.767,1,0,0,1,0,,1,Hormigón,Apto,,Día,NO,Nublado,Buena,Sin Semáforo
+338,79708,2020-05-10,10:30:00,Urbana,Avenida,MEDRANO,LARREA,-2.749.134,-5.879.959,1,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+339,91675,2020-05-05,10:40:00,Urbana,Calle,MENDOZA,9 DE julio,-2.746.656,-5.883.549,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Funciona
+340,79535,2020-05-03,14:10:00,Urbana,Avenida,AV INDEPENDENCIA,DARRAGUEIRA,,,4,0,0,2,0,Alcance,2,Hormigón,Apto,Mojada,Día,NO,Lluvia,Buena,Sin Semáforo
+341,73997,2020-04-30,16:25:00,Urbana,Avenida,AV INDEPENDENCIA,TACUARI,-2.747.953,-5.880.636,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Funciona
+342,79467,2020-04-28,08:50:00,Urbana,Avenida,AV PUJOL,ROCA,-2.746.712,-5.882.185,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+343,85196,2020-04-23,07:00:00,Urbana,Calle,ESNAOLA,,-2.746.557,-5.878.932,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+344,86710,2020-04-18,19:00:00,Urbana,Calle,IRIGOYEN,BRASIL,-2.746.987,-5.882.418,1,2,0,2,0,Alcance,2,Asfalto,Apto,Seca,Atardecer,SI,Despejado,Buena,Sin Semáforo
+345,68901,2020-04-18,18:10:00,Urbana,Calle,CRISTO OBRERO,RAFAEL OBLIDO,-2.746.752,-5.879.818,0,1,0,2,0,Angulo,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+346,74219,2020-04-13,12:55:00,Urbana,Calle,MEDRANO,BRAILE,,,1,1,0,2,0,,2,Hormigón,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+347,89999,2020-04-11,13:55:00,Urbana,Calle,AYACUCHO,COLOMBIA,-2.747.058,-5.881.678,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+348,72280,2020-04-10,07:30:00,,Ruta Provincial,RATU 12,,-2.872.190,-5.661.667,1,1,0,2,0,Angulo,2,Asfalto,Apto,Despejada,Día,SI,Despejado,Buena,Sin Semáforo
+349,85434,2020-04-09,09:30:00,Urbana,Avenida,AV. CENTENARIO,AV POMAR,-2.747.276,-5.880.625,1,1,0,2,0,Lateral,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+350,91663,2020-04-02,12:30:00,Urbana,Avenida,AV. ARTIGAS,BOLIVAR,,,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+351,79370,2020-03-30,19:00:00,Urbana,Avenida,AV C.CORRENTINO,RECONQUISTA,-2.748.208,-5.881.539,1,1,0,2,0,,2,Asfalto,Apto,Seca,Noche,NO,Nublado,Buena,Sin Semáforo
+352,74781,2020-03-29,06:57:00,Urbana,Avenida,AV R.R. ALFONSIN,,-2.747.255,-5.880.702,1,0,0,1,0,,1,Asfalto,Apto,Seca,Amanecer,NO,Despejado,Buena,Sin Semáforo
+353,85186,2020-03-29,10:05:00,Urbana,Avenida,AV 3 DE ABRIL,ESPAÑA,-2.747.639,-5.883.017,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+354,79839,2020-03-28,15:25:00,Urbana,Avenida,AV INDEPENDENCIA,CASTELLI,-2.747.922,-5.880.983,2,1,0,2,0,,2,Hormigón,Apto,Seca,Atardecer,NO,Despejado,Buena,Funciona
+355,71366,2020-03-28,12:45:00,Rural,Ruta Provincial,5,,-2.748.733,-5.876.570,1,1,0,2,0,Lateral,2,Asfalto,Apto,,Día,NO,Despejado,Buena,
+356,77240,2020-03-28,16:00:00,Urbana,Calle,CATAMARCA,BELGRANO,-2.747.238,-5.883.357,1,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Nublado,,Sin Semáforo
+357,84948,2020-03-20,12:30:00,Urbana,Avenida,AV.C.CORRENTINO,RUTA 12,,,1,0,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+358,73994,2020-03-19,18:40:00,Urbana,Avenida,AV SANTA ROSA,LAS HERAS,-2.748.239,-5.882.053,3,2,0,2,0,,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+359,74782,2020-03-16,13:00:00,Urbana,Calle,ALTE BROWN,ARAOZ,-2.747.906,-5.879.184,0,1,0,2,0,Alcance,2,Tierra,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+360,80324,2020-03-15,17:50:00,Urbana,Avenida,AV C.CORRENTINO,GUEMES,-2.748.653,-5.880.829,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+361,76211,2020-03-14,10:08:00,Urbana,Avenida,AV C.CORRENTINOS,LAS PIEDRAS,-2.748.733,-5.880.142,1,1,0,2,0,Angulo,2,Asfalto,,"Despejada, Seca",Día,,Despejado,Buena,Funciona
+362,80337,2020-03-13,18:45:00,Urbana,Calle,COLOMBIA,SAN MARTIN,-2.747.175,-5.881.701,0,2,0,2,0,,2,Hormigón,Apto,Seca,Atardecer,SI,Despejado,Buena,Sin Semáforo
+363,75162,2020-03-12,13:50:00,Urbana,Avenida,AV JUAN DE VERA,PJE MANTILLA,-2.746.119,-5.883.489,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+364,81042,2020-03-12,15:30:00,Urbana,Avenida,AV MAIPU,VALPARAISO,-2.749.724,-5.881.588,0,2,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+365,80346,2020-03-11,18:50:00,Urbana,Avenida,AV MAIPU,HAITI,-2.748.782,-5.882.207,3,1,0,2,0,Angulo,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+366,81277,2020-03-11,11:51:00,Urbana,Calle,LA RIOJA,,-2.746.906,-5.883.819,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+367,85010,2020-03-11,11:15:00,Urbana,Avenida,AV RIO CHICO,,,,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,SI,Nublado,Buena,Sin Semáforo
+368,71296,2020-03-10,20:20:00,Urbana,Avenida,3 DE abril,ARTIGAS,-2.747.831,-5.882.011,2,0,0,2,0,Alcance,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+369,74521,2020-03-07,10:20:00,Urbana,Avenida,AV ARMENIA,BON PLAN,-2.746.739,-5.881.252,2,1,1,4,0,,4,Hormigón,Apto,Seca,Día,NO,Nublado,Buena,Sin Semáforo
+370,81285,2020-03-07,05:50:00,Urbana,Avenida,AYACUCHO,,-2.747.060,-5.881.722,1,0,0,1,0,Arbol,1,Asfalto,Apto,,Amanecer,SI,Despejado,Buena,Sin Semáforo
+371,84947,2020-03-06,19:30:00,Urbana,Avenida,AV PUJOL,PAMPIN,-4.000.000,-6.100.000,1,1,0,2,0,Angulo,2,,Apto,Seca,Noche,NO,Despejado,Buena,Sin Semáforo
+372,85437,2020-03-05,21:40:00,Urbana,Avenida,AV MAIPU,AUSTRALIA,-2.748.603,-5.882.352,2,0,0,2,0,,2,Asfalto,Apto,Seca,Noche,NO,Despejado,Buena,Sin Semáforo
+373,74529,2020-03-03,16:45:00,Urbana,Avenida,AV INDEPEDENCIA,LAS PIERAS,-2.748.079,-5.880.050,1,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+374,74072,2020-03-02,18:30:00,Urbana,Ruta Provincial,RUTA 5,,-2.748.529,-5.877.458,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+375,74891,2020-03-02,10:39:00,Urbana,Avenida,AV. C.CORRENTINO,LAS PIEDRAS,-2.748.726,-5.880.145,1,1,0,1,1,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+376,84080,2020-03-01,10:50:00,Urbana,Avenida,AV MAIPU,,-2.748.263,-5.882.633,1,1,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+377,76311,2020-02-29,12:45:00,Urbana,Avenida,AV VERA,CATAMARCA,-2.746.127,-5.883.230,2,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+378,74186,2020-02-29,22:30:00,Urbana,Calle,PARAGUAY,LAVALLE,-2.747.790,-5.882.762,1,1,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+379,75165,2020-02-29,13:40:00,Urbana,Avenida,AV FERRE,ROCA,-2.747.730,-5.882.368,3,2,0,3,0,,3,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+380,79463,2020-02-27,11:00:00,Urbana,Avenida,AV R.R.ALFONSIN,,,,2,0,0,2,0,,2,,Apto,Seca,Día,NO,Despejado,Buena,
+381,86425,2020-02-26,08:25:00,Urbana,Calle,LUIS BRAILE,SAENZ,-2.748.100,-5.879.330,2,1,0,3,0,Angulo,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+382,87714,2020-02-26,23:00:00,Urbana,Calle,AV INDEPENDENCIA,MEDRANO,-2.748.171,-5.879.839,2,0,0,2,0,Alcance,2,Hormigón,Apto,Seca,Noche,SI,Nublado,Buena,Funciona
+383,74043,2020-02-26,06:45:00,Urbana,Calle,AYACUCHO,ESTADOS UNIDOS,-2.747.094,-5.881.356,0,2,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+384,81279,2020-02-24,17:20:00,Urbana,Calle,SAN JUAN,,-2.746.931,-5.883.694,1,0,0,1,0,,1,Hormigón,Apto,Seca,Atardecer,NO,Despejado,Buena,Sin Semáforo
+385,80316,2020-02-24,07:40:00,Urbana,Avenida,AV SARMIENTO,RAFAELA,-2.749.629,-5.883.240,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+386,84771,2020-02-23,15:20:00,Urbana,Avenida,AV MAIPU,ALTA GRACIA,-2.750.771,-5.881.056,2,0,0,2,0,Lateral,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Funciona
+387,85003,2020-02-23,07:35:00,Urbana,Avenida,AV C.CORRRENTINO,AV. MILAN,,,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Funciona
+388,87715,2020-02-22,11:00:00,Urbana,Avenida,AV MAIPU,GENERAL PAZ,-2.747.931,-5.882.881,1,1,0,2,0,,2,,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+389,75804,2020-02-20,13:45:00,Urbana,Calle,9 DE julio,TUCUMAN,-2.746.607,-5.884.158,1,1,0,2,0,,2,Asfalto,Apto,Mojada,Día,NO,Lluvia,Buena,Sin Semáforo
+390,86426,2020-02-19,08:21:00,Urbana,Avenida,AV ARMENIA,,-2.746.696,-5.879.072,2,0,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+391,87736,2020-02-19,22:30:00,Urbana,Avenida,AV CANGALLO,RENACIMIENTO,-2.750.873,-5.879.427,0,2,0,2,0,Alcance,2,Hormigón,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+392,86062,2020-02-17,08:37:00,Urbana,Avenida,AV ARMENIA,BRAILE,-2.746.878,-5.880.176,1,0,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,"Lluvia, Viento",Buena,Sin Semáforo
+393,74191,2020-02-17,12:15:00,Urbana,Calle,RECONQUISTA,MATEU,-2.748.901,-5.881.516,1,1,0,2,0,,2,Ripio,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+394,75449,2020-02-17,07:20:00,Urbana,Avenida,AV MAIPU,,-2.752.656,-5.879.559,0,2,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+395,81041,2020-02-13,18:38:00,Urbana,Avenida,AV RIO CHICO,CALLE UNNE,-2.746.134,-5.878.494,1,1,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+396,76029,2020-02-13,13:33:00,Urbana,Avenida,AV MAIPU,MADARIAGA,-2.748.507,-5.882.417,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,SI,Despejado,Buena,Sin Semáforo
+397,76789,2020-02-12,17:10:00,Urbana,Calle,BRASIL,H. YRIGOYEN,-2.746.988,-5.882.419,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,,Sin Semáforo
+398,81411,2020-02-08,19:15:00,Urbana,Calle,MEDRANO,SAN FRANCISCO,-2.749.311,-5.879.929,1,1,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+399,84676,2020-02-04,12:40:00,Urbana,Avenida,AV AYACUCHO,ESTADOS UNIDOS,-2.747.086,-5.881.410,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+400,74780,2020-02-03,10:00:00,Urbana,Calle,SAN MARTIN,CHACO,-2.746.905,-5.884.690,2,0,0,2,0,Angulo,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+401,85549,2020-02-03,18:45:00,Urbana,Calle,BELGRANO,TUCUMAN,0,0,1,1,0,2,0,Angulo,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+402,80331,2020-02-02,14:48:00,Urbana,Calle,ESTADOS UNIDOS,JUNIN,-2.746.963,-5.881.334,0,1,0,2,0,,2,Hormigón,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+403,75470,2020-01-30,11:40:00,Urbana,Avenida,CORDOBA E,H YRIGOYEN,-2.746.889,-5.883.449,0,1,0,1,0,,1,Hormigón,,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+404,79700,2020-01-28,21:27:00,Urbana,Avenida,AV C. CORRENTINO,,-2.748.703,-5.880.297,2,0,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+405,88064,2020-01-26,11:10:00,Urbana,Avenida,AV INDEPENDENCIA,,-2.747.840,-5.881.465,3,0,0,3,0,Alcance,3,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+406,76111,2020-01-26,13:30:00,Urbana,Calle,M. MORENA,BRASIL,-2.747.437,-5.882.473,2,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,,Sin Semáforo
+407,74035,2020-01-25,12:00:00,Urbana,Calle,9 DE julio,ESPAÑA,-2.746.704,-5.882.913,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+408,74184,2020-01-25,06:00:00,Urbana,Avenida,AV MAIPU,TILCARA,-2.750.210,-5.881.275,2,0,0,2,0,,2,Hormigón,Apto,Seca,Amanecer,NO,Despejado,Buena,Sin Semáforo
+409,80977,2020-01-24,20:30:00,Urbana,Avenida,AV MAIPU,TILCARA,-2.750.209,-5.881.276,2,0,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+410,85432,2020-01-23,08:40:00,Urbana,Avenida,AV ARMENIA,19 DE mayo,-2.746.786,-5.880.504,2,0,0,2,0,,2,Asfalto,,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+411,87209,2020-01-22,21:05:00,Urbana,Avenida,AV.C.CORRENTINO,PERITO MORENO,-2.748.984,-5.878.695,2,2,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+412,71311,2020-01-22,06:00:00,Rural,Ruta Nacional,12,LILA SOTO,-2.746.867,-5.877.765,1,1,0,2,0,Angulo,2,,Apto,Seca,,NO,Despejado,Buena,
+413,80323,2020-01-22,14:10:00,Urbana,Avenida,MEDRANO,CUBA,-2.750.478,-5.879.784,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+414,79829,2020-01-20,18:45:00,Urbana,Calle,ROCA,RIVADAVIA,-2.747.568,-5.882.351,2,0,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+415,72082,2020-01-20,21:30:00,Urbana,Avenida,AV INDEPENDENCIA,SANCHE DE BUSTAMANTE,-2.748.389,-5.878.823,4,0,0,4,0,Alcance,4,Hormigón,Apto,Seca,,SI,Despejado,Buena,Funciona
+416,81343,2020-01-20,18:26:00,Urbana,Calle,LAMADRID,,-2.748.440,-5.881.440,1,1,0,2,0,Angulo,2,Asfalto,Apto,Seca,Atardecer,SI,Despejado,Buena,Sin Semáforo
+417,86138,2020-01-18,19:00:00,Urbana,Calle,SAN MARTIN,CORDOBA,-2.746.999,-5.883.466,1,1,0,2,0,Lateral,2,Asfalto,Apto,Seca,Atardecer,NO,Despejado,Buena,Sin Semáforo
+418,71371,2020-01-17,05:00:00,Urbana,Avenida,Av.  Pedro Ferre,VELEZ SARFIELD,-2.747.757,-5.882.125,1,1,0,2,0,Lateral,2,Hormigón,Apto,Seca,,SI,Despejado,Buena,
+419,74002,2020-01-16,17:58:00,Urbana,Calle,HIPOLITO YRIGOYEN,BUENOS AIRES,-2.746.830,-5.884.058,5,0,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+420,84266,2020-01-15,09:00:00,Urbana,Avenida,AV R.R. ALFONSIN,,-2.747.639,-5.879.003,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+421,91664,2020-01-14,06:30:00,Urbana,Avenida,AV MAIPU,,-2.749.312,-5.881.883,0,1,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,,Buena,Sin Semáforo
+422,79450,2020-01-10,06:33:00,Urbana,Avenida,AV R.R.ALFONSIN,MEDRANO,-2.747.521,-5.879.725,1,1,0,1,0,,1,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Sin Semáforo
+423,76788,2020-01-10,12:10:00,Urbana,Avenida,AV 3 DE ABRIL,,-2.747.743,-5.882.195,2,0,0,2,0,Angulo,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+424,85543,2020-01-09,10:21:00,Urbana,Avenida,AV MAIPU,LYON,-2.749.482,-5.881.753,1,1,0,2,0,,2,Asfalto,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Funciona
+425,74012,2020-01-08,06:20:00,Urbana,Calle,NUESTRA SEÑORA E ASUNCION,,-2.749.164,-5.882.082,0,2,0,1,0,,1,Asfalto,Apto,Seca,Amanecer,SI,,Buena,Sin Semáforo
+426,81275,2020-01-08,15:50:00,Urbana,Avenida,AV LIBERTAD,RUTA NACIONAL 12,-2.746.210,-5.876.898,0,2,0,2,0,,2,Asfalto,Apto,Seca,Atardecer,NO,Despejado,Buena,Sin Semáforo
+427,85438,2020-01-08,21:50:00,Urbana,Avenida,AV SARMIENTO,Y PATAGONIA,-2.749.071,-5.883.122,1,1,0,2,0,,2,Asfalto,Apto,Seca,Noche,SI,Despejado,Buena,Funciona
+428,91678,2020-01-08,11:10:00,Urbana,Ruta Provincial,RUTA PROVINCIAL Nª 5,FRENTE A BJB,-2.748.973,-5.875.857,1,1,0,2,0,,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+429,74890,2020-01-08,07:00:00,Urbana,Avenida,AV.C.CORRENTINO,MEDRANO,-2.748.758,-5.879.941,0,1,0,2,0,,2,Asfalto,Apto,Mojada,Amanecer,SI,Nublado,Buena,Sin Semáforo
+430,74108,2020-01-08,09:00:00,Urbana,Avenida,AV ARMEIA,MEXICO,-2.746.749,-5.881.437,2,0,0,2,0,Lateral,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Sin Semáforo
+431,74784,2020-01-08,16:55:00,Urbana,Calle,H. YRIGOYEN,V.SARSFIEL,-2.747.022,-5.882.041,1,1,0,2,0,,2,Hormigón,Apto,Mojada,Día,NO,Lluvia,Buena,Sin Semáforo
+432,90041,2020-01-07,11:35:00,Urbana,Calle,JUNIN,,-2.746.722,-5.884.165,1,0,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,,Sin Semáforo
+433,74033,2020-01-07,12:15:00,Urbana,Avenida,AV.R.R.ALFONSIN,,-2.747.557,-5.879.566,3,1,0,2,0,,2,Hormigón,Apto,"Despejada, Seca",Día,NO,Despejado,Buena,Sin Semáforo
+434,87513,2020-01-06,08:33:00,Urbana,Avenida,AV INDEPENDENCIA,MEDRANO,-2.748.171,-5.879.839,1,0,0,1,0,,1,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
+435,81359,2020-01-04,20:50:00,Urbana,Avenida,AV IBERA,AV SARMIENO,-2.749.839,-5.883.283,2,0,0,2,0,Lateral,2,Asfalto,Apto,Despejada,Noche,SI,Despejado,Buena,Sin Semáforo
+436,90039,2020-01-03,07:00:00,Urbana,Avenida,AV 3 DE ABRIL,CORDOBA,-2.747.603,-5.883.533,2,1,0,2,0,,2,Asfalto,,Seca,Día,NO,Despejado,Buena,Funciona
+437,73999,2020-01-03,13:35:00,Urbana,Avenida,AV FERRE,ROCA,-2.747.730,-5.882.368,1,2,0,2,0,Alcance,2,Asfalto,Apto,Seca,Día,NO,Despejado,Buena,Funciona
