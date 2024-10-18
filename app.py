@@ -58,20 +58,28 @@ if st.button("Generar Ruta"):
         # Crear un grafo de las calles en Corrientes
         G = ox.graph_from_place('Corrientes, Argentina', network_type='drive')
 
-        # Definir una función de peso para la ruta, que penaliza áreas con más siniestros
-        def custom_weight(u, v, data):
-            # Asignar un peso bajo a las áreas con menos siniestros y más alto a zonas de alta concentración
-            lat_u, lon_u = G.nodes[u]['y'], G.nodes[u]['x']
-            siniestros_cercanos = df[((df['latitud'] - lat_u)**2 + (df['longitud'] - lon_u)**2) < 0.0001]  # Ajusta el rango de cercanía
-            penalizacion = len(siniestros_cercanos)  # Número de siniestros cercanos
-            return data.get('length', 1) * (1 + penalizacion)
+        # Encontrar el nodo más cercano en el grafo para las coordenadas de inicio y destino
+        try:
+            start_node = ox.distance.nearest_nodes(G, X=start_coords[1], Y=start_coords[0])
+            end_node = ox.distance.nearest_nodes(G, X=end_coords[1], Y=end_coords[0])
 
-        # Obtener la ruta más segura en base al heatmap
-        route = ox.shortest_path(G, start_coords, end_coords, weight=custom_weight)
+            # Definir una función de peso para la ruta, que penaliza áreas con más siniestros
+            def custom_weight(u, v, data):
+                lat_u, lon_u = G.nodes[u]['y'], G.nodes[u]['x']
+                siniestros_cercanos = df[((df['latitud'] - lat_u)**2 + (df['longitud'] - lon_u)**2) < 0.0001]  # Ajusta el rango de cercanía
+                penalizacion = len(siniestros_cercanos)
+                return data.get('length', 1) * (1 + penalizacion)
 
-        # Mostrar la ruta en el mapa
-        route_map = ox.plot_route_folium(G, route, route_map=m)
-        st_data = st_folium(route_map, width=700, height=500)
+            # Obtener la ruta más segura en base al heatmap
+            route = ox.shortest_path(G, start_node, end_node, weight=custom_weight)
+
+            # Mostrar la ruta en el mapa
+            route_map = ox.plot_route_folium(G, route, route_map=m)
+            st_data = st_folium(route_map, width=700, height=500)
+
+        except nx.NodeNotFound:
+            st.error("No se pudo encontrar un nodo cercano a las coordenadas proporcionadas. Intenta con una dirección diferente.")
     else:
         st.error("No se pudo obtener la geolocalización de una o ambas direcciones. Intenta con otras.")
+
 
