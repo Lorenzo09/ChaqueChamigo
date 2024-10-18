@@ -1,72 +1,83 @@
 import streamlit as st
 import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 import folium
-from folium.plugins import HeatMap
 from streamlit_folium import st_folium
-import osmnx as ox
-import networkx as nx
+from folium.plugins import HeatMap
 
-# Ajustar configuración de OSMnx
-ox.settings.max_query_area_size = 50 * 1000 * 1000
+# Configuración de estilo para los gráficos
+sns.set(style="whitegrid")
 
-# Cargar los datos de siniestros
-df = pd.read_parquet('Datasets_limpios/siniestrosfinal.parquet')
+# Cargar los datos
+df_siniestros_final = pd.read_parquet('Dataset_limpios/df_siniestros_totales.parquet')
 
-# Título del dashboard
-st.title("ChaqueChamigo - Dashboard de Siniestros Viales en Corrientes")
+# Título del Dashboard
+st.title('Dashboard Interactivo de Siniestros Viales')
 
-# Título del dashboard
-st.title("ChaqueChamigo - Dashboard de Siniestros Viales en Corrientes")
+# Gráfico 1: Distribución de siniestros por Año
+st.subheader('Distribución de Siniestros por Año')
+fig, ax = plt.subplots(figsize=(10, 6))
+sns.countplot(data=df_siniestros_final, x='anio', palette='Blues', ax=ax)
+ax.set_title('Distribución de siniestros por Año')
+ax.set_xlabel('Año')
+ax.set_ylabel('Frecuencia')
+st.pyplot(fig)
 
-# Resumen de siniestros
-st.header("Resumen de Siniestros")
-st.write(f"Cantidad de siniestros: {len(df)}")
-st.write(f"Cantidad de heridos: {df['heridos'].sum()}")
-st.write(f"Cantidad de fallecidos: {df['fallecidos'].sum()}")
+# Gráfico 2: Distribución de siniestros por Mes
+st.subheader('Distribución de Siniestros por Mes')
+fig, ax = plt.subplots(figsize=(10, 6))
+sns.countplot(data=df_siniestros_final, x='mes', palette='Blues', ax=ax)
+ax.set_title('Distribución de siniestros por Mes')
+ax.set_xlabel('Mes')
+ax.set_ylabel('Frecuencia')
+st.pyplot(fig)
 
-# Crear un mapa de Folium
-m = folium.Map(location=[-27.467, -58.834], zoom_start=12)
+# Gráfico 3: Distribución de siniestros por Día
+st.subheader('Distribución de Siniestros por Día')
+fig, ax = plt.subplots(figsize=(10, 6))
+sns.countplot(data=df_siniestros_final, x='dia', palette='Blues', ax=ax)
+ax.set_title('Distribución de siniestros por Día')
+ax.set_xlabel('Día')
+ax.set_ylabel('Frecuencia')
+st.pyplot(fig)
 
-# Crear lista de puntos de calor
-heat_data = [[row['latitud'], row['longitud']] for index, row in df.iterrows()]
+# Gráfico 4: Distribución de siniestros por Tipo de Vía
+st.subheader('Distribución de Siniestros por Tipo de Vía')
+fig, ax = plt.subplots(figsize=(10, 6))
+sns.countplot(data=df_siniestros_final, x='tipo_via', palette='coolwarm', ax=ax)
+ax.set_title('Distribución de Siniestros por Tipo de Vía')
+ax.set_xlabel('Tipo de Vía')
+ax.set_ylabel('Frecuencia')
+ax.set_xticklabels(ax.get_xticklabels(), rotation=45)
+st.pyplot(fig)
 
-# Agregar el HeatMap al mapa
+# Mapa de Calor
+st.subheader('Mapa de Calor de Siniestros')
+m = folium.Map(location=[-27.480, -58.830], zoom_start=13)
+heat_data = [[row['latitud'], row['longitud']] for index, row in df_siniestros_final.iterrows()]
 HeatMap(heat_data).add_to(m)
+st_folium(m)
 
-# Mostrar el mapa en Streamlit y permitir selección interactiva
-st.header("Mapa de calor de siniestros - Selecciona el punto de partida y destino")
-map_data = st_folium(m, width=700, height=500)
+# Gráfico 5: Distribución de Siniestros por Hora del Día
+df_siniestros_final['hora'] = pd.to_datetime(df_siniestros_final['hora'], format='%H:%M:%S').dt.hour
+st.subheader('Distribución de Siniestros por Hora del Día')
+fig, ax = plt.subplots(figsize=(10, 6))
+sns.histplot(df_siniestros_final['hora'], bins=24, color='purple', kde=True, ax=ax)
+ax.set_title('Distribución de Siniestros por Hora del Día')
+ax.set_xlabel('Hora del Día')
+ax.set_ylabel('Frecuencia')
+st.pyplot(fig)
 
-# Inicializar las variables de coordenadas seleccionadas
-if 'start_coords' not in st.session_state:
-    st.session_state['start_coords'] = None
-if 'end_coords' not in st.session_state:
-    st.session_state['end_coords'] = None
+# Gráfico 6: Frecuencia de Siniestros según Presencia de Semáforo
+st.subheader('Frecuencia de Siniestros según Presencia de Semáforo')
+fig, ax = plt.subplots(figsize=(10, 6))
+sns.countplot(data=df_siniestros_final, x='semaforo', palette='spring', ax=ax)
+ax.set_title('Frecuencia de Siniestros según Presencia de Semáforo')
+ax.set_xlabel('Semáforo')
+ax.set_ylabel('Frecuencia')
+st.pyplot(fig)
 
-# Verificar si el usuario ha hecho clic en el mapa
-if map_data and map_data['last_clicked'] is not None:
-    if st.session_state['start_coords'] is None:
-        st.session_state['start_coords'] = (map_data['last_clicked']['lat'], map_data['last_clicked']['lng'])
-        st.write(f"Coordenadas de partida seleccionadas: {st.session_state['start_coords']}")
-    elif st.session_state['end_coords'] is None:
-        st.session_state['end_coords'] = (map_data['last_clicked']['lat'], map_data['last_clicked']['lng'])
-        st.write(f"Coordenadas de destino seleccionadas: {st.session_state['end_coords']}")
-
-# Generar el grafo de Corrientes usando OSMnx con un bounding box reducido
-if st.session_state['start_coords'] and st.session_state['end_coords']:
-    north, south, east, west = -27.45, -27.5, -58.8, -58.85  # Bounding box ajustado
-    G = ox.graph_from_bbox(north, south, east, west, network_type='drive')
-
-    # Obtener el nodo más cercano a las coordenadas seleccionadas
-    start_node = ox.distance.nearest_nodes(G, st.session_state['start_coords'][1], st.session_state['start_coords'][0])
-    end_node = ox.distance.nearest_nodes(G, st.session_state['end_coords'][1], st.session_state['end_coords'][0])
-
-    # Calcular la ruta más corta
-    route = nx.shortest_path(G, start_node, end_node, weight='length')
-
-    # Mostrar la ruta en el mapa
-    route_map = ox.plot_route_folium(G, route, route_map=m)
-    st_folium(route_map, width=700, height=500)
 
 
 
