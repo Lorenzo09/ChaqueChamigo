@@ -28,3 +28,21 @@ HeatMap(heat_data).add_to(m)
 # Mostrar el mapa en Streamlit
 st.header("Mapa de calor de siniestros")
 st_folium(m, width=700, height=500)
+
+
+from geopy.geocoders import Nominatim
+
+def get_location(address):
+    geolocator = Nominatim(user_agent="chaquechamigo")
+    location = geolocator.geocode(address)
+    return (location.latitude, location.longitude)
+
+st.subheader("Encuentra la ruta más segura")
+start = st.text_input("Ingresa tu dirección de partida:")
+end = st.text_input("Ingresa tu destino:")
+
+if st.button("Generar Ruta"):
+    start_coords = get_location(start)
+    end_coords = get_location(end)
+    st.write(f"Coordenadas de partida: {start_coords}")
+    st.write(f"Coordenadas de destino: {end_coords}")
