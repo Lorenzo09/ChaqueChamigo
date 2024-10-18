@@ -5,9 +5,6 @@ import seaborn as sns
 import networkx as nx
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
-import folium
-from streamlit_folium import folium_static
-from folium.plugins import HeatMap
 
 # Configuración inicial de la página
 st.set_page_config(page_title="ChaqueChamigo", layout="wide")
@@ -30,6 +27,7 @@ df_filtered = df_siniestros[(df_siniestros['anio'] == anio) & (df_siniestros['ti
 
 # Distribución de siniestros por hora
 col1, col2 = st.columns(2)
+
 with col1:
     st.subheader("Distribución de Siniestros por Hora del Día")
     plt.figure(figsize=(10, 6))
@@ -38,6 +36,7 @@ with col1:
     plt.xlabel('Hora del Día')
     plt.ylabel('Frecuencia')
     st.pyplot(plt)
+
 with col2:
     st.subheader("Frecuencia de Siniestros por Tipo de Vía")
     plt.figure(figsize=(10, 6))
@@ -88,13 +87,13 @@ G = nx.Graph()
 
 # Agregar nodos (puntos de interés)
 for index, row in df_filtered.iterrows():
-    G.add_node((row['latitud'], row['longitud']), siniestros=row['cantidad_de_involucrados'])
+    G.add_node((row['latitud'], row['longitud']), siniestros=row['cantidad_siniestros'])
 
 # Agregar aristas (conexiones entre intersecciones ponderadas por peligrosidad)
 for i in range(len(df_filtered)-1):
     lat1, lon1 = df_filtered.iloc[i]['latitud'], df_filtered.iloc[i]['longitud']
     lat2, lon2 = df_filtered.iloc[i+1]['latitud'], df_filtered.iloc[i+1]['longitud']
-    G.add_edge((lat1, lon1), (lat2, lon2), weight=df_filtered.iloc[i]['cantidad_de_involucrados'])
+    G.add_edge((lat1, lon1), (lat2, lon2), weight=df_filtered.iloc[i]['cantidad_siniestros'])
 
 # Función para encontrar la ruta más segura
 def ruta_mas_segura(origen, destino):
@@ -105,11 +104,13 @@ def ruta_mas_segura(origen, destino):
 st.write("Seleccione dos puntos para obtener la ruta más segura")
 origen = (-27.48, -58.83)  # Punto de ejemplo seleccionado por el usuario
 destino = (-27.5, -58.85)  # Otro punto seleccionado por el usuario
+
 ruta = ruta_mas_segura(origen, destino)
 st.write(f"La ruta más segura entre {origen} y {destino} es: {ruta}")
 
 # Conclusión
 st.write("Gracias por usar *ChaqueChamigo*. Esta es solo una versión MVP que busca mostrar cómo se puede mejorar la seguridad vial utilizando datos de siniestros y herramientas tecnológicas.")
+
 
 
 
