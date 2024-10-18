@@ -4,7 +4,7 @@ import folium
 from folium.plugins import HeatMap
 
 # Cargar los datos de siniestros
-df = pd.read_csv('../Datasets_limpios/siniestrosfinal.parquet')
+df = pd.read_csv('Datasets_limpios/siniestrosfinal.parquet')
 
 # Título del dashboard
 st.title("ChaqueChamigo - Dashboard de Siniestros Viales en Corrientes")
