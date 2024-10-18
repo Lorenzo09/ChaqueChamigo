@@ -46,3 +46,17 @@ if st.button("Generar Ruta"):
     end_coords = get_location(end)
     st.write(f"Coordenadas de partida: {start_coords}")
     st.write(f"Coordenadas de destino: {end_coords}")
+
+
+import osmnx as ox
+import networkx as nx
+
+# Crear un grafo de las calles en Corrientes
+G = ox.graph_from_place('Corrientes, Argentina', network_type='drive')
+
+# Obtener la ruta más corta (puedes personalizar esto con tu heatmap)
+route = ox.shortest_path(G, start_coords, end_coords, weight='length')
+
+# Mostrar la ruta en el mapa
+route_map = ox.plot_route_folium(G, route, route_map=m)
+st_data = st._folium_static(route_map)
