@@ -3,7 +3,6 @@ import pandas as pd
 import folium
 from folium.plugins import HeatMap
 from streamlit_folium import st_folium
-from geopy.geocoders import Nominatim
 import osmnx as ox
 import networkx as nx
 
@@ -28,57 +27,35 @@ heat_data = [[row['latitud'], row['longitud']] for index, row in df.iterrows()]
 # Agregar el HeatMap al mapa
 HeatMap(heat_data).add_to(m)
 
-# Mostrar el mapa en Streamlit
-st.header("Mapa de calor de siniestros")
-st_folium(m, width=700, height=500)
+# Mostrar el mapa en Streamlit y permitir selección interactiva
+st.header("Mapa de calor de siniestros - Selecciona el punto de partida y destino")
+map_data = st_folium(m, width=700, height=500)
 
-# Función para obtener coordenadas a partir de direcciones
-def get_location(address):
-    geolocator = Nominatim(user_agent="chaquechamigo")
-    location = geolocator.geocode(address)
-    if location:
-        return (location.latitude, location.longitude)
-    else:
-        return None
+# Inicializar las variables de coordenadas seleccionadas
+start_coords = None
+end_coords = None
 
-# Sección de ruta segura
-st.subheader("Encuentra la ruta más segura")
-start = st.text_input("Ingresa tu dirección de partida:")
-end = st.text_input("Ingresa tu destino:")
+# Verificar si el usuario ha hecho clic en el mapa
+if map_data and 'last_clicked' in map_data:
+    if not start_coords:
+        start_coords = (map_data['last_clicked']['lat'], map_data['last_clicked']['lng'])
+        st.write(f"Coordenadas de partida seleccionadas: {start_coords}")
+    elif not end_coords:
+        end_coords = (map_data['last_clicked']['lat'], map_data['last_clicked']['lng'])
+        st.write(f"Coordenadas de destino seleccionadas: {end_coords}")
 
-if st.button("Generar Ruta"):
-    # Obtener coordenadas de las direcciones
-    start_coords = get_location(start)
-    end_coords = get_location(end)
-    
-    if start_coords and end_coords:
-        st.write(f"Coordenadas de partida: {start_coords}")
-        st.write(f"Coordenadas de destino: {end_coords}")
-        
-        # Crear un grafo de las calles en Corrientes
-        G = ox.graph_from_place('Corrientes, Argentina', network_type='drive')
+# Generar el grafo de Corrientes usando OSMnx
+if start_coords and end_coords:
+    G = ox.graph_from_place('Corrientes, Argentina', network_type='drive')
 
-        # Usar ox.distance.nearest_nodes para obtener el nodo más cercano
-        try:
-            start_node = ox.distance.nearest_nodes(G, X=start_coords[1], Y=start_coords[0])
-            end_node = ox.distance.nearest_nodes(G, X=end_coords[1], Y=end_coords[0])
+    # Obtener el nodo más cercano a las coordenadas seleccionadas
+    start_node = ox.distance.nearest_nodes(G, start_coords[1], start_coords[0])
+    end_node = ox.distance.nearest_nodes(G, end_coords[1], end_coords[0])
 
-            # Definir una función de peso para la ruta, que penaliza áreas con más siniestros
-            def custom_weight(u, v, data):
-                lat_u, lon_u = G.nodes[u]['y'], G.nodes[u]['x']
-                siniestros_cercanos = df[((df['latitud'] - lat_u)**2 + (df['longitud'] - lon_u)**2) < 0.0001]  # Ajusta el rango de cercanía
-                penalizacion = len(siniestros_cercanos)
-                return data.get('length', 1) * (1 + penalizacion)
+    # Calcular la ruta más corta
+    route = nx.shortest_path(G, start_node, end_node, weight='length')
 
-            # Obtener la ruta más segura en base al heatmap
-            route = ox.shortest_path(G, start_node, end_node, weight=custom_weight)
-
-            # Mostrar la ruta en el mapa
-            route_map = ox.plot_route_folium(G, route, route_map=m)
-            st_data = st_folium(route_map, width=700, height=500)
-
-        except nx.NodeNotFound:
-            st.error("No se pudo encontrar un nodo cercano a las coordenadas proporcionadas. Intenta con una dirección diferente.")
-    else:
-        st.error("No se pudo obtener la geolocalización de una o ambas direcciones. Intenta con otras.")
+    # Mostrar la ruta en el mapa
+    route_map = ox.plot_route_folium(G, route, route_map=m)
+    st_folium(route_map, width=700, height=500)
 
