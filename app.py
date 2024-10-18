@@ -5,6 +5,9 @@ import matplotlib.pyplot as plt
 import folium
 from streamlit_folium import folium_static
 from folium.plugins import HeatMap
+import networkx as nx
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
 
 # Cargar los datos
 df_siniestros_final = pd.read_parquet('Datasets_limpios/siniestrosfinal.parquet')
@@ -66,7 +69,7 @@ plt.xlabel('Hora del Día')
 plt.ylabel('Frecuencia')
 st.pyplot(plt)
 
-# Distribución según presencia de semáforo
+# Distribución según presencia de semáforos
 st.subheader("Frecuencia de Siniestros según Presencia de Semáforo")
 plt.figure(figsize=(10, 6))
 sns.countplot(data=df_filtered, x='semaforo', palette='spring')
@@ -100,6 +103,67 @@ with kpi_col2:
 with kpi_col3:
     porcentaje_con_semaforo = (siniestros_con_semaforo / total_siniestros) * 100
     st.metric(label="Porcentaje con Semáforo", value=f"{porcentaje_con_semaforo:.2f}%")
+
+# Recomendación de sitios urgentes para semáforos (Machine Learning)
+st.subheader("Recomendación de Sitios Urgentes para Colocación de Semáforos")
+
+# Preprocesar los datos para el modelo
+variables_modelo = ['anio', 'mes', 'dia', 'hora_num', 'tipo_via', 'semaforo']
+df_ml = df_siniestros_final[variables_modelo].dropna()
+
+# Convertir las columnas categóricas a numéricas
+df_ml['semaforo'] = df_ml['semaforo'].apply(lambda x: 1 if x == 'Si' else 0)
+df_ml = pd.get_dummies(df_ml, columns=['tipo_via'], drop_first=True)
+
+# Separar las características y el objetivo
+X = df_ml.drop('semaforo', axis=1)
+y = df_ml['semaforo']
+
+# Dividir en conjunto de entrenamiento y prueba
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Entrenar el modelo
+modelo_rf = RandomForestClassifier(random_state=42)
+modelo_rf.fit(X_train, y_train)
+
+# Función para predecir necesidad de semáforo
+def recomendar_semaforos(nuevos_datos):
+    predicciones = modelo_rf.predict(nuevos_datos)
+    return predicciones
+
+# Mostrar sitios recomendados para semáforos
+nuevos_sitios = X_test  # En tu aplicación podrías usar datos futuros
+recomendaciones = recomendar_semaforos(nuevos_sitios)
+df_recomendaciones = pd.DataFrame(recomendaciones, columns=["Recomendación de Semáforo"])
+st.write("Predicción de semáforos necesarios en los siguientes sitios:", df_recomendaciones)
+
+# Recomendación de Ruta Segura
+st.subheader("Recomendación de Ruta Segura entre Dos Puntos")
+
+# Crear un grafo con las intersecciones y siniestros
+G = nx.Graph()
+
+# Agregar nodos (puntos de interés)
+for index, row in df_filtered.iterrows():
+    G.add_node((row['latitud'], row['longitud']), siniestros=row['cantidad_de_involucrados'])
+
+# Agregar aristas (conexiones entre intersecciones ponderadas por peligrosidad)
+for i in range(len(df_filtered)-1):
+    lat1, lon1 = df_filtered.iloc[i]['latitud'], df_filtered.iloc[i]['longitud']
+    lat2, lon2 = df_filtered.iloc[i+1]['latitud'], df_filtered.iloc[i+1]['longitud']
+    G.add_edge((lat1, lon1), (lat2, lon2), weight=df_filtered.iloc[i]['cantidad_de_involucrados'])
+
+# Función para encontrar la ruta más segura
+def ruta_mas_segura(origen, destino):
+    ruta_segura = nx.shortest_path(G, source=origen, target=destino, weight='weight')
+    return ruta_segura
+
+# Selección de puntos en el mapa por el usuario (en un futuro, agregar mapas interactivos)
+st.write("Seleccione dos puntos para obtener la ruta más segura")
+origen = (-27.48, -58.83)  # Punto de ejemplo seleccionado por el usuario
+destino = (-27.5, -58.85)  # Otro punto seleccionado por el usuario
+ruta = ruta_mas_segura(origen, destino)
+st.write(f"La ruta más segura entre {origen} y {destino} es: {ruta}")
 
 # Comentarios adicionales
 st.write("Este dashboard muestra las principales métricas y visualizaciones relacionadas con los siniestros viales. Los datos pueden ser filtrados por diferentes variables como el año, el tipo de vía, la presencia de semáforo, y más.")
