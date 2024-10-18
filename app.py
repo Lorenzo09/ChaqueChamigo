@@ -8,7 +8,7 @@ import osmnx as ox
 import networkx as nx
 
 # Cargar los datos de siniestros
-df = pd.read_csv('Datasets_limpios/siniestrosfinal.csv')
+df = pd.read_csv('/mnt/data/siniestrosfinal.csv')
 
 # Título del dashboard
 st.title("ChaqueChamigo - Dashboard de Siniestros Viales en Corrientes")
@@ -58,10 +58,10 @@ if st.button("Generar Ruta"):
         # Crear un grafo de las calles en Corrientes
         G = ox.graph_from_place('Corrientes, Argentina', network_type='drive')
 
-        # Usar ox.distance.get_nearest_node para obtener el nodo más cercano
+        # Usar ox.distance.nearest_nodes para obtener el nodo más cercano
         try:
-            start_node = ox.distance.get_nearest_node(G, (start_coords[0], start_coords[1]))
-            end_node = ox.distance.get_nearest_node(G, (end_coords[0], end_coords[1]))
+            start_node = ox.distance.nearest_nodes(G, X=start_coords[1], Y=start_coords[0])
+            end_node = ox.distance.nearest_nodes(G, X=end_coords[1], Y=end_coords[0])
 
             # Definir una función de peso para la ruta, que penaliza áreas con más siniestros
             def custom_weight(u, v, data):
@@ -81,3 +81,4 @@ if st.button("Generar Ruta"):
             st.error("No se pudo encontrar un nodo cercano a las coordenadas proporcionadas. Intenta con una dirección diferente.")
     else:
         st.error("No se pudo obtener la geolocalización de una o ambas direcciones. Intenta con otras.")
+
