@@ -4,3 +4,4 @@ geopy
 osmnx
 streamlit-folium
 scipy
+seaborn
