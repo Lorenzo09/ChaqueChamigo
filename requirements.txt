@@ -5,3 +5,4 @@ osmnx
 streamlit-folium
 scipy
 seaborn
+sklearn
