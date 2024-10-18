@@ -6,8 +6,14 @@ from streamlit_folium import st_folium
 import osmnx as ox
 import networkx as nx
 
+# Ajustar configuración de OSMnx
+ox.settings.max_query_area_size = 50 * 1000 * 1000
+
 # Cargar los datos de siniestros
 df = pd.read_parquet('Datasets_limpios/siniestrosfinal.parquet')
+
+# Título del dashboard
+st.title("ChaqueChamigo - Dashboard de Siniestros Viales en Corrientes")
 
 # Título del dashboard
 st.title("ChaqueChamigo - Dashboard de Siniestros Viales en Corrientes")
@@ -46,9 +52,10 @@ if map_data and map_data['last_clicked'] is not None:
         st.session_state['end_coords'] = (map_data['last_clicked']['lat'], map_data['last_clicked']['lng'])
         st.write(f"Coordenadas de destino seleccionadas: {st.session_state['end_coords']}")
 
-# Generar el grafo de Corrientes usando OSMnx
+# Generar el grafo de Corrientes usando OSMnx con un bounding box reducido
 if st.session_state['start_coords'] and st.session_state['end_coords']:
-    G = ox.graph_from_place('Corrientes, Argentina', network_type='drive')
+    north, south, east, west = -27.45, -27.5, -58.8, -58.85  # Bounding box ajustado
+    G = ox.graph_from_bbox(north, south, east, west, network_type='drive')
 
     # Obtener el nodo más cercano a las coordenadas seleccionadas
     start_node = ox.distance.nearest_nodes(G, st.session_state['start_coords'][1], st.session_state['start_coords'][0])
@@ -60,5 +67,6 @@ if st.session_state['start_coords'] and st.session_state['end_coords']:
     # Mostrar la ruta en el mapa
     route_map = ox.plot_route_folium(G, route, route_map=m)
     st_folium(route_map, width=700, height=500)
+
 
 
