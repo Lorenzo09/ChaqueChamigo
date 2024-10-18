@@ -10,9 +10,6 @@ from folium.plugins import HeatMap
 # Cargar los datos
 df_siniestros_final = pd.read_parquet('Datasets_limpios/siniestrosfinal.parquet')
 
-# Configuración de estilo para los gráficos
-sns.set(style="whitegrid")
-
 # Dashboard interactivo en Streamlit
 st.title("Dashboard de Siniestros Viales")
 st.sidebar.header("Filtros")
@@ -48,24 +45,21 @@ plt.ylabel('Frecuencia')
 plt.xticks(rotation=45)
 st.pyplot(plt)
 
-# Verificar si hay valores nulos en la columna 'hora'
-if df_filtered['hora'].isnull().sum() > 0:
-    st.warning("Existen valores nulos en la columna 'hora'. Estos serán ignorados en el gráfico.")
+# Gráfico por hora del día
+st.subheader("Distribución de Siniestros por Hora del Día")
 
-# Eliminar valores nulos antes de graficar
-df_filtered = df_filtered.dropna(subset=['hora'])
+# Asegurarnos de que la columna 'hora' ya esté en formato datetime y extraer solo la hora
+df_filtered['hora'] = pd.to_datetime(df_filtered['hora'], errors='coerce').dt.hour
 
-# Crear el gráfico solo si hay datos disponibles
-if not df_filtered.empty:
-    plt.figure(figsize=(10, 6))
-    sns.histplot(df_filtered['hora'], bins=24, color='purple', kde=True)
-    plt.title('Distribución de Siniestros por Hora del Día')
-    plt.xlabel('Hora del Día')
-    plt.ylabel('Frecuencia')
-    st.pyplot(plt)
-else:
-    st.warning("No hay datos disponibles para mostrar en el gráfico de horas.")
+# Crear el gráfico
+plt.figure(figsize=(10, 6))
+sns.histplot(df_filtered['hora'], bins=24, color='purple', kde=True)
+plt.title('Distribución de Siniestros por Hora del Día')
+plt.xlabel('Hora del Día')
+plt.ylabel('Frecuencia')
 
+# Mostrar el gráfico en Streamlit
+st.pyplot(plt)
 
 
 # Gráfico por presencia de semáforo
@@ -84,25 +78,14 @@ m = folium.Map(location=[-27.480, -58.830], zoom_start=13)
 HeatMap(map_data).add_to(m)
 folium_static(m)
 
-# Calcular KPI's de manera robusta
-
-# 1. Total de siniestros
-total_siniestros = len(df_filtered)
-
-# 2. Total de siniestros con semáforo
-siniestros_con_semaforo = df_filtered[df_filtered['semaforo'] == 'Sí'].shape[0]
-
-# 3. Porcentaje de siniestros con semáforo
-if total_siniestros > 0:
-    porcentaje_semaforo = (siniestros_con_semaforo / total_siniestros) * 100
-else:
-    porcentaje_semaforo = 0
-
-# Mostrar los KPIs en el dashboard
+# Crear KPIs basados en los gráficos
+st.subheader("KPI's")
+total_siniestros = df_filtered.shape[0]
+siniestros_con_semaforo = df_filtered[df_filtered['semaforo'] == 'Si'].shape[0]
 st.metric(label="Total de Siniestros", value=total_siniestros)
 st.metric(label="Siniestros con Semáforo", value=siniestros_con_semaforo)
-st.metric(label="Porcentaje con Semáforo", value=f"{porcentaje_semaforo:.2f}%")
-
+st.metric(label="Porcentaje con Semáforo", value=f"{(siniestros_con_semaforo / total_siniestros) * 100:.2f}%")
 
 # Comentarios adicionales
 st.write("Este dashboard muestra las principales métricas y visualizaciones relacionadas con los siniestros viales. Los datos pueden ser filtrados por diferentes variables como el año, el tipo de vía, la presencia de semáforo, y más.")
+
