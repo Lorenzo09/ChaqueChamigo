@@ -7,7 +7,7 @@ import osmnx as ox
 import networkx as nx
 
 # Cargar los datos de siniestros
-df = pd.read_parquet('Dataset_limpios/siniestrosfinal.parquet')
+df = pd.read_parquet('Datasets_limpios/siniestrosfinal.parquet')
 
 # Título del dashboard
 st.title("ChaqueChamigo - Dashboard de Siniestros Viales en Corrientes")
