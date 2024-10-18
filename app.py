@@ -6,6 +6,7 @@ import folium
 from streamlit_folium import folium_static
 from folium.plugins import HeatMap
 
+# Cargar los datos
 df_siniestros_final = pd.read_parquet('Datasets_limpios/siniestrosfinal.parquet')
 
 # Configuración de la página
@@ -28,6 +29,9 @@ df_filtered = df_siniestros_final[df_siniestros_final['anio'].between(selected_y
 # Seleccionar columnas para interactuar
 variables = ['anio', 'mes', 'dia', 'hora', 'tipo_via', 'semaforo']
 selected_variable = st.sidebar.selectbox("Seleccione una variable para el gráfico principal", variables)
+
+# Extraer la hora en formato numérico
+df_filtered['hora_num'] = pd.to_datetime(df_filtered['hora'], format='%H:%M:%S', errors='coerce').dt.hour
 
 # Crear layout de 2 columnas para organizar gráficos
 col1, col2 = st.columns(2)
@@ -56,7 +60,7 @@ with col2:
 # Distribución de siniestros por hora del día
 st.subheader("Distribución de Siniestros por Hora del Día")
 plt.figure(figsize=(10, 6))
-sns.histplot(df_filtered['hora'], bins=24, color='purple', kde=True)
+sns.histplot(df_filtered['hora_num'], bins=24, color='purple', kde=True)
 plt.title('Distribución de Siniestros por Hora del Día')
 plt.xlabel('Hora del Día')
 plt.ylabel('Frecuencia')
@@ -99,4 +103,5 @@ with kpi_col3:
 
 # Comentarios adicionales
 st.write("Este dashboard muestra las principales métricas y visualizaciones relacionadas con los siniestros viales. Los datos pueden ser filtrados por diferentes variables como el año, el tipo de vía, la presencia de semáforo, y más.")
+
 
