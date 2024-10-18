@@ -10,7 +10,7 @@ from folium.plugins import HeatMap
 sns.set(style="whitegrid")
 
 # Cargar los datos
-df_siniestros_final = pd.read_parquet('Dataset_limpios/df_siniestros_totales.parquet')
+df_siniestros_final = pd.read_parquet('Dataset_limpios/df_siniestrosfinal.parquet')
 
 # Título del Dashboard
 st.title('Dashboard Interactivo de Siniestros Viales')
