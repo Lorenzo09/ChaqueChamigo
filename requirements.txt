@@ -2,3 +2,4 @@ streamlit
 folium
 geopy
 osmnx
+streamlit-folium
