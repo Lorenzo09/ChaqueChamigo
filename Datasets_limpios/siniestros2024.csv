@@ -1,142 +1,277 @@
-,id_feu,siniestro_fecha,siniestro_hora,zona_ocurrencia,via_publica,nombre_via,entre_calle_1,latitud,longitud,ilesos,heridos,fallecidos,vehiculos,peatones,tipo_siniestro_unico,cantidad_de_involucrados,cono_de_vision,material_de_la_calzada,estado_de_la_calzada,estado_fisico_ambiental,barreras_de_seguridad,luminosidad,luz_artificial,estado_ambiental,semaforo
-0,217499,2024-07-27,02:00:00,Urbana,Calle,QUINQUELA MARTIN,GIMENEZ,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo
-1,224937,2024-07-27,08:45:00,Urbana,Calle,SAN LORENZO,9 DE julio,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-2,231749,2024-07-27,22:40:00,Urbana,Avenida,AV 3 DE ABRIL,LA RIOJA,,,2,0,0,2,0,Colisión entre vehículos,2,,,Apto,Seca,Asfalto,Noche,NO,Despejado,S/D
-3,223345,2024-07-22,20:50:00,Urbana,Avenida,AV LIBERTAD,,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,,Sin Semáforo
-4,233239,2024-07-19,22:24:00,Urbana,Calle,GUEMES,,-2.747.819,-5.880.731,0,1,0,1,0,Caída desde vehículo,1,S/D,Asfalto,Apto,,S/D,Noche,NO,Despejado,S/D
-5,232115,2024-07-17,22:00:00,Urbana,Calle,9 DE julio,ESPAÑA,-2.746.705,-5.882.910,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo
-6,230861,2024-07-10,19:48:00,Urbana,Avenida,AV FERRE,PERU,-2.747.734,-5.882.246,0,1,0,1,0,Colisión entre vehículos,1,S/D,,Apto,Seca,,Noche,NO,Despejado,Sin Semáforo
-7,224096,2024-07-09,12:15:00,Urbana,Calle,ITUZAINGO,HIPOLITO YRIGOYEN,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-8,218235,2024-07-08,20:00:00,Urbana,Avenida,AV CHACABUCO,BELGRANO,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo
-9,231658,2024-07-08,15:20:00,Urbana,Avenida,AV INDEPEMDENCIA,DUMAS,-2.748.431,-5.878.537,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona
-10,233571,2024-07-06,10:25:00,Urbana,Avenida,AV. PUJOL,PELLEGRINI,-2.746.651,-5.882.274,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,,Asfalto,,,Despejado,
-11,220396,2024-07-04,08:30:00,Urbana,Avenida,AV SARMIENTO,TTE CORREA FERNANDEZ,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,,No Funciona
-12,232265,2024-07-02,08:35:00,Urbana,Avenida,LAS HERAS,RECONQUISTA,-2.748.317,-5.881.414,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,,Día,,Despejado,
-13,224978,2024-07-01,19:38:00,Urbana,Avenida,AV MAIPU,,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Mojada,,Noche,NO,Lluvia,Sin Semáforo
-14,230894,2024-06-29,11:00:00,Urbana,Calle,CATAMARCA,25 DE mayo,-2.746.462,-5.883.273,0,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo
-15,232274,2024-06-29,12:25:00,Urbana,Avenida,AV MAIPU,,-2.748.732,-5.882.231,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,S/D
-16,228608,2024-06-29,22:37:00,Urbana,Avenida,AV RAUL ALFONSIN,CALLE SAENZ,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Mojada,Ninguna,Noche,NO,Lluvia,No Funciona
-17,233620,2024-06-29,15:50:00,Urbana,Calle,REPUBLICA DOMINICANA,ESPARTA,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-18,222694,2024-06-26,15:45:00,Urbana,Avenida,AV PEDRO FERRE,AV CHACABUCO,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-19,234588,2024-06-24,10:00:00,Urbana,Avenida,AV LA PRIDA,AV ARMENIA,-2.746.607,-5.878.698,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona
-20,224941,2024-06-24,20:00:00,Urbana,Calle,CARTAGENA,,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo
-21,220402,2024-06-24,08:00:00,Urbana,Avenida,AV ARMENIA,,,,2,1,0,3,0,Colisión entre vehículos,3,S/D,Asfalto,Apto,Seca,Ninguna,Día,,,S/D
-22,218237,2024-06-22,16:53:00,Urbana,Calle,LISANDRO SEGOVIA,COLON,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-23,233386,2024-06-20,16:45:00,Urbana,Avenida,AV INDEPENDENCIA,AV CHACABUCO,-2.747.866,-5.881.473,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona
-24,217475,2024-06-20,13:00:00,Urbana,Avenida,AV RIO CHICO,LOS TULIPANES,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-25,228606,2024-06-17,13:00:00,Urbana,Avenida,AV INDEPENDENCIA,AV CHACABUCO,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Mojada,Ninguna,Día,,Otro,Funciona
-26,224975,2024-06-17,15:10:00,Urbana,Avenida,AV 3 DE ABRIL,CATAMARCA,,,3,0,0,3,0,Colisión entre vehículos,3,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-27,216589,2024-06-15,10:56:00,Urbana,Calle,PLACIDO MARTINEZ,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,,Apto,Seca,Ninguna,Día,,,Sin Semáforo
-28,217515,2024-06-13,22:30:00,Urbana,Calle,CATAMARCA,BELGRANO,,,3,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo
-29,224098,2024-06-11,08:35:00,Urbana,Avenida,AV 3 DE ABRIL,,,,0,1,0,1,0,Choque,1,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-30,218238,2024-06-10,16:51:00,Urbana,Avenida,AV SARMIENTO,A.C. FERNANDEZ,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,
-31,228607,2024-06-09,13:05:00,Urbana,Calle,RAMON CARRILLO (EX VIA),GUTENBERG,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,,Apto,Mojada,Ninguna,Día,,S/D,Sin Semáforo
-32,233378,2024-06-09,18:00:00,Urbana,Avenida,AV MAIPU,GUAYQUIRARO,-2.751.372,-5.880.745,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,,Asfalto,Día,,,Funciona
-33,217514,2024-06-08,13:50:00,Urbana,Calle,BOLIVAR,SAN LUIS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-34,224092,2024-06-08,12:30:00,Urbana,Calle,CUBA,PABLO GROUSSAC,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-35,220449,2024-06-08,13:45:00,Urbana,Avenida,AV PUJOL,ROTONDA PONCHO VERDE,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-36,222693,2024-06-08,22:15:00,Urbana,Avenida,AV ARMENIA,QUINQUELA MARTIN,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo
-37,223341,2024-06-07,18:27:00,Urbana,Calle,MEDRANO,ZAPIOLA,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,,Sin Semáforo
-38,215403,2024-06-07,08:15:00,Urbana,Avenida,AV PEDRO FERRÉ,AV CHACABUCO,,,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-39,230896,2024-06-02,13:20:00,Urbana,Avenida,AV INDEPENDENCIA,JUAN JOSE CASTELLI,-2.747.923,-5.880.987,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,,Día,,Despejado,Sin Semáforo
-40,233611,2024-06-02,12:41:00,Urbana,Avenida,AV ARMENIA,AMADO BOMPLAND,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D
-41,217517,2024-06-01,20:08:00,Urbana,Avenida,AV INDEPENDENCIA,GODOY CRUZ,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Funciona
-42,229676,2024-06-01,13:35:00,Urbana,Calle,RAMON CARRILLO,GOB VELAZCO,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-43,216587,2024-06-01,13:40:00,Urbana,Avenida,AV ARMENIA,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D
-44,229675,2024-05-30,17:35:00,Urbana,Calle,RECONQUISTA,ALTE BROWN,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-45,223342,2024-05-30,12:00:00,Urbana,Avenida,AV 3 DE ABRIL,,,,1,0,0,1,0,Choque,1,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-46,220451,2024-05-30,10:00:00,Urbana,Calle,URUGUAY,JUNIN,,,2,0,0,2,0,Choque,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-47,232244,2024-05-28,21:40:00,Urbana,Avenida,MAIPU,GUAYQUIRARO,-2.751.370,-5.880.736,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,Noche,,S/D,
-48,217484,2024-05-21,22:00:00,Urbana,Avenida,AV PEDRO FERRE,BANDA CENTRAL SUR,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,,Funciona
-49,224095,2024-05-19,12:15:00,Urbana,Calle,FRANCIA,ESTADO DE ISRAEL,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-50,217516,2024-05-19,07:05:00,Urbana,Avenida,AV MAIPU,GRAL PAZ,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-51,229164,2024-05-18,13:25:00,Urbana,Avenida,AV ARTIGAS,BOLIVAR,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-52,233471,2024-05-18,07:10:00,Urbana,Avenida,AV FERRE,JUJUY,-2.747.657,-5.882.877,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,,Asfalto,Noche,NO,Nublado,Funciona
-53,220441,2024-05-14,10:40:00,Urbana,Calle,IBERÁ,AV IV CENTENARIO,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-54,229163,2024-05-12,22:40:00,Urbana,Calle,MARIANO MORENO,CATAMARCA,,,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Mojada,,Noche,NO,Lluvia,Funciona
-55,233742,2024-05-12,08:40:00,Urbana,Calle,BUENOS AIRES,JUJUY E IRIGOYEN.,-2.746.898,-5.884.063,0,1,0,1,0,Caída desde vehículo,1,,Asfalto,Apto,S/D FisicoAmbiental,Asfalto,Día,,Despejado,Sin Semáforo
-56,233576,2024-05-11,12:05:00,Urbana,Avenida,AV LIBERTAD,LA PRIDA,-2.746.608,-5.878.697,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona
-57,231250,2024-05-11,08:00:00,Urbana,Calle,SUIZA,CORNELIO SAAVEDRA,-2.747.596,-5.881.167,1,2,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo
-58,217485,2024-05-11,19:40:00,Urbana,Calle,HIPOLITO YRIGOYEN,ESPAÑA,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Nublado,Funciona
-59,233474,2024-05-11,10:10:00,Urbana,Calle,MEXICO,FELIPE CABRAL,-2.746.594,-5.881.413,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,,Asfalto,Día,,Despejado,Sin Semáforo
-60,220961,2024-05-11,15:00:00,Urbana,Avenida,AV 3 DE ABRIL,MENDOZA,-2.747.562,-5.883.645,0,2,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona
-61,233607,2024-05-11,08:45:00,Urbana,Avenida,AV INDEPENDENCIA,MEDRANO,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-62,232105,2024-05-10,17:20:00,Urbana,Avenida,Av. Independencia,BANDA CENTRAL NORTE,-2.747.955,-5.880.755,3,0,0,3,0,Otro,3,,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona
-63,228592,2024-05-09,07:50:00,Urbana,Avenida,AV GOBERNADOR RUIZ,COLOMBIA,,,0,2,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-64,229002,2024-05-07,17:18:00,Urbana,Avenida,AV GDOR PUJOL,PELLEGRINI,-2.746.649,-5.882.273,1,1,0,2,0,Colisión entre vehículos,2,S/D,,Apto,Mojada,Asfalto,Día,,Lluvia,Sin Semáforo
-65,222692,2024-05-02,12:30:00,Urbana,Calle,ITUZAINGO,BOLIVAR,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,,Sin Semáforo
-66,224093,2024-04-27,13:15:00,Urbana,Calle,LAVALLE,GOB CASTILLO,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-67,220447,2024-04-08,07:30:00,Urbana,Calle,MEDRANO,PITAGORAS,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-68,217481,2024-04-07,20:30:00,Urbana,Calle,ZARAGOZA,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,S/D
-69,217502,2024-04-06,11:00:00,Urbana,Calle,GUTENBERG,TTE CUNDOM,,,1,1,0,1,1,Atropello a peatón/es,2,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-70,228711,2024-04-04,19:09:00,Urbana,Avenida,AV CHACABUCO,SAN MARTIN,-2.747.221,-5.881.314,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Noche,NO,Lluvia,Sin Semáforo
-71,226408,2024-04-01,12:10:00,Urbana,Calle,LA RIOJA,QUINTANA,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-72,230865,2024-03-29,11:08:00,Urbana,Avenida,AV MAIPU,LAVALLE,-2.747.767,-5.883.023,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Día,,,Funciona
-73,216579,2024-03-28,03:30:00,Urbana,Avenida,AV MEDRANO,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,S/D
-74,231849,2024-03-28,18:00:00,Urbana,Calle,BUENOS AIRES,MORENO,-2.747.288,-5.884.098,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo
-75,231751,2024-03-27,00:21:00,Urbana,Calle,HEROES CIVILES,LA MADRID,-2.748.151,-5.883.980,1,0,0,1,0,Choque,1,No obstruido,Asfalto,Apto,Seca,,Noche,NO,Despejado,Funciona
-76,233473,2024-03-22,11:40:00,Urbana,Avenida,AV MAIPU,LAVALLE,-2.747.768,-5.883.028,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona
-77,215631,2024-03-20,12:50:00,Urbana,Avenida,AV PEDRO FERRE,FERREIRA,,,2,3,0,3,0,Colisión entre vehículos,3,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-78,215415,2024-03-19,08:10:00,Urbana,Avenida,AV TTE IBAÑEZ,SARMIENTO,,,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-79,223346,2024-03-18,11:53:00,Urbana,Calle,BELGRANO,JUJUY,,,1,1,0,2,0,,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-80,232136,2024-03-17,06:00:00,Urbana,Avenida,AV MAIPU,LAS HERAS,-2.748.041,-5.882.805,0,2,0,1,0,Colisión entre vehículos,1,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona
-81,220445,2024-03-16,11:15:00,Urbana,Calle,RECONQUISTA,LAS HERAS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-82,223338,2024-03-16,01:40:00,Urbana,Avenida,AV RAUL ALFONSIN,GUEMES,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Funciona
-83,233574,2024-03-16,12:15:00,Urbana,Avenida,AV ARTIGAS,ESTADOS DE ISRAEL,-2.747.268,-5.881.891,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,,,Asfalto,Día,,Despejado,Sin Semáforo
-84,232301,2024-03-15,17:00:00,Urbana,Calle,MISIONES,,-2.747.132,-5.884.585,2,1,0,1,0,Vuelco (solo 1 participante),1,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo
-85,224097,2024-03-15,11:30:00,Urbana,Avenida,ROTONDA VIRGEN DE ITATI,,,,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Mojada,Ninguna,Día,,Lluvia,Sin Semáforo
-86,233609,2024-03-14,06:40:00,Urbana,Calle,SALTA,RIVADAVIA,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-87,233745,2024-03-13,11:05:00,Urbana,Avenida,AV TTE IBAÑEZ,,-2.748.573,-5.883.620,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,S/D
-88,229458,2024-03-13,11:00:00,Urbana,Avenida,CAZADORES CORRENTINOS,LAS PIEDRAS,-2.748.724,-5.880.139,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona
-89,224091,2024-03-13,00:45:00,Urbana,Avenida,AV JUAN RAMON VIDAL,PITAGORAS,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,"Con charcos o inundada, Mojada",Ninguna,Noche,NO,Lluvia,Sin Semáforo
-90,218231,2024-03-13,10:30:00,Urbana,Avenida,AV TENIENTE IBAÑEZ,ALBERDI,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-91,218226,2024-03-13,20:15:00,Urbana,Avenida,AV PEDRO FERRE,AV ARTIGAS,,,2,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Funciona
-92,232150,2024-03-12,13:45:00,Urbana,Calle,GASCON,LAS HERAS,-2.748.576,-5.879.653,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,S/D,Día,,Despejado,Sin Semáforo
-93,217477,2024-03-11,17:15:00,Urbana,Avenida,AV CHACABUCO,AV INDEPENDENCIA,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-94,231275,2024-03-11,20:00:00,Urbana,Calle,CUBA,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,S/D
-95,232161,2024-03-09,12:15:00,Urbana,Calle,ITUZAINGO,HIPOLITO IRIGOYEN,-2.747.032,-5.881.902,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,Día,,,
-96,233606,2024-03-09,13:20:00,Urbana,Avenida,AV MAIPU,VALPARAISO,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,,,,Sin Semáforo
-97,217491,2024-03-05,23:30:00,Urbana,Avenida,AV MAIPU,13 DE junio,,,0,1,0,1,0,Caída desde vehículo,1,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,S/D
-98,220448,2024-03-04,11:20:00,Urbana,Calle,LA RIOJA,RIVADAVIA,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-99,228596,2024-02-28,13:30:00,Urbana,Avenida,AV LIBERTAD,LAPRIDA,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,
-100,233756,2024-02-26,12:30:00,Urbana,Calle,SAN MARTIN,COLOMBIA,-2.747.171,-5.881.700,2,0,0,2,0,Colisión entre vehículos,2,S/D,,Apto,,Asfalto,Día,,Despejado,Sin Semáforo
-101,234599,2024-02-24,10:25:00,Urbana,Calle,AV ALFONSIN,ARAOS,-2.747.634,-5.879.132,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,S/D,,,Despejado,Sin Semáforo
-102,232165,2024-02-24,13:30:00,Urbana,Calle,GUEMES,LAS HERAS,-2.748.410,-5.880.815,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,Día,,Despejado,Sin Semáforo
-103,226409,2024-02-23,22:26:00,Urbana,Avenida,AV MAIPU,ROCA,,,3,0,0,3,0,Colisión entre vehículos,3,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,,Funciona
-104,217478,2024-02-22,12:45:00,Urbana,Avenida,AV JUAN DOMINGO PERON,ALEJANDRO DUMAS,,,1,1,0,1,1,Atropello a peatón/es,2,S/D,Asfalto,Apto,Mojada,Ninguna,Día,,Lluvia,Funciona
-105,223343,2024-02-19,01:46:00,Urbana,Avenida,AV GARAY,HERNANDARIAS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Mojada,,Noche,NO,Lluvia,Sin Semáforo
-106,232252,2024-02-17,12:00:00,Urbana,Avenida,GOBERNADOR RUIZ,COLOMBIA,-2.746.742,-5.881.608,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,,,,
-107,224094,2024-02-17,17:59:00,Urbana,Avenida,AV MAIPU,,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-108,232156,2024-02-14,13:30:00,Urbana,Calle,MENDOZA,GENERAL PAZ,-2.747.824,-5.883.681,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,Día,,Despejado,Sin Semáforo
-109,231897,2024-02-12,11:50:00,Urbana,Avenida,AV PUJOL,PELLEGRINI,,,1,1,0,1,0,Otro,1,No obstruido,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo
-110,218239,2024-02-11,20:30:00,Urbana,Calle,AGUSTIN P. JUSTO,JUAN V. PAMPIN,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo
-111,234589,2024-02-11,00:08:00,Urbana,Calle,AV COSTANERA,,-2.747.070,-5.885.430,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Noche,SI,Nublado,Sin Semáforo
-112,231744,2024-02-10,07:34:00,Urbana,Avenida,AV CAZADORES CORRENTINOS,,-2.748.924,-5.878.963,0,1,0,1,0,Caída desde vehículo,1,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,S/D
-113,217476,2024-02-10,23:45:00,Urbana,Calle,MENDOZA,LAVALLE,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,,,Despejado,Sin Semáforo
-114,232279,2024-02-06,20:21:00,Urbana,Avenida,AV CHACABUCO,LAS HERAS,-2.748.301,-5.881.545,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Noche,SI,Despejado,Funciona
-115,215637,2024-02-05,12:00:00,Urbana,Calle,CHILE,AV FERRE,,,4,0,0,4,0,Colisión entre vehículos,4,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona
-116,217479,2024-02-04,12:10:00,Urbana,Avenida,AV RAUL ALFONSIN,LOS TILOS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D
-117,230743,2024-02-03,07:58:00,Urbana,Calle,NECOCHEA,BLAS PARERA,-2.748.348,-5.880.534,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Día,,,S/D
-118,224938,2024-02-03,11:15:00,Urbana,Avenida,AV ARMENIA,,,,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D
-119,224976,2024-02-03,17:30:00,Urbana,Calle,ESPAÑA,BELGRANO,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-120,218240,2024-02-03,09:30:00,Urbana,Calle,TACUARI,LAVALLE,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D
-121,224973,2024-02-02,11:30:00,Urbana,Avenida,AV MAIPU,,,,1,1,0,1,0,Vuelco (solo 1 participante),1,,Asfalto,Apto,Seca,Ninguna,Día,,,Sin Semáforo
-122,233610,2024-01-31,07:10:00,Urbana,Calle,CORDOBA,RIVADAVIA,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-123,232227,2024-01-27,08:15:00,Urbana,Avenida,AV MAIPU,LOS CONDORES,-2.749.993,-5.881.390,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,S/D
-124,223340,2024-01-27,21:50:00,Urbana,Avenida,AV COSTANERA,CHACO,,,1,1,0,1,1,,2,No obstruido,,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo
-125,231252,2024-01-27,22:00:00,Urbana,Avenida,AV CENTENARIO,RUTA12,-2.747.773,-5.878.493,2,0,0,2,0,Colisión entre vehículos,2,S/D,Ripio,Apto,,Ripio,Noche,,Despejado,
-126,216600,2024-01-24,05:26:00,Urbana,Avenida,AV CENTENARIO,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo
-127,230863,2024-01-21,13:00:00,Urbana,Calle,9 DE julio,SALTA,-2.746.627,-5.883.907,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo
-128,223344,2024-01-21,08:52:00,Urbana,Calle,CHACO,COSTANERA,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-129,220394,2024-01-20,11:00:00,Urbana,Ruta Nacional,12,AUTOVÍA,,,1,1,0,1,1,Atropello a peatón/es,2,S/D,Asfalto,Apto,Seca,S/D,Día,,Despejado,Sin Semáforo
-130,224977,2024-01-20,13:15:00,Urbana,Calle,9 DE julio,PARAGUAY,,,1,1,0,2,0,Colisión entre vehículos,2,,,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-131,230891,2024-01-19,10:10:00,Urbana,Avenida,AV WENSELAO DOMINGUEZ,CARTAGENA,-2.749.297,-5.880.882,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,,Día,,Despejado,Sin Semáforo
-132,233472,2024-01-17,11:10:00,Urbana,Avenida,AV CHACABUCO,LAMADRID,-2.748.417,-5.881.567,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Asfalto,Día,,Nublado,Sin Semáforo
-133,217486,2024-01-11,09:25:00,Urbana,Calle,PERU,SAN MARTIN,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo
-134,223339,2024-01-09,00:10:00,Urbana,Ruta Nacional,12,,,,1,0,0,1,0,Atropello a animal/es,1,,,Apto,,Pasto,Noche,SI,Despejado,S/D
-135,231056,2024-01-09,08:30:00,Urbana,Avenida,AV PUJOL,,-2.746.643,-5.882.269,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Pasto,Día,,Despejado,Sin Semáforo
-136,228599,2024-01-08,11:20:00,Urbana,Avenida,AV LIBERTAD,LAS VIOLETAS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Con charcos o inundada,Ninguna,Día,,Lluvia,S/D
-137,216599,2024-01-07,23:00:00,Urbana,Avenida,AV PONCHO VERDE,CARLOS PELLEGRINI,,,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo
-138,220443,2024-01-06,06:00:00,Urbana,Avenida,AV MAIPU,TILCARA,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,No Funciona
-139,229168,2024-01-04,08:30:00,Urbana,Avenida,AV 3 DE ABRIL,CORDOBA,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Mojada,Ninguna,Día,,Lluvia,Funciona
-140,217505,2024-01-01,12:15:00,Urbana,Ruta Nacional,12,COLECTORA (BOCA UNIDOS),,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,En reparación,Seca,Asfalto,Día,,Despejado,Sin Semáforo
+,id_feu,siniestro_fecha,siniestro_hora,zona_ocurrencia,via_publica,nombre_via,altura_km,entre_calle_1,latitud,longitud,ilesos,heridos,fallecidos,vehiculos,peatones,tipo_siniestro_unico,cantidad_de_involucrados,cono_de_vision,material_de_la_calzada,estado_de_la_calzada,estado_fisico_ambiental,barreras_de_seguridad,luminosidad,luz_artificial,estado_ambiental,semaforo,tipo_involucrado
+0,217499,2024-07-27,2:00:00,Urbana,Calle,QUINQUELA MARTIN,743,GIMENEZ,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Automóvil
+1,217499,2024-07-27,2:00:00,Urbana,Calle,QUINQUELA MARTIN,743,GIMENEZ,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Automóvil
+2,224937,2024-07-27,8:45:00,Urbana,Calle,SAN LORENZO,800,9 DE julio,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Motocicleta
+3,224937,2024-07-27,8:45:00,Urbana,Calle,SAN LORENZO,800,9 DE julio,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+4,231749,2024-07-27,22:40:00,Urbana,Avenida,AV 3 DE ABRIL,1000,LA RIOJA,,,2,0,0,2,0,Colisión entre vehículos,2,,,Apto,Seca,Asfalto,Noche,NO,Despejado,S/D,Automóvil
+5,231749,2024-07-27,22:40:00,Urbana,Avenida,AV 3 DE ABRIL,1000,LA RIOJA,,,2,0,0,2,0,Colisión entre vehículos,2,,,Apto,Seca,Asfalto,Noche,NO,Despejado,S/D,Automóvil
+6,223345,2024-07-22,20:50:00,Urbana,Avenida,AV LIBERTAD,5200,,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,,Sin Semáforo,Automóvil
+7,223345,2024-07-22,20:50:00,Urbana,Avenida,AV LIBERTAD,5200,,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,,Sin Semáforo,Transporte de carga
+8,233239,2024-07-19,22:24:00,Urbana,Calle,GUEMES,1500,,-2.747.819,-5.880.731,0,1,0,1,0,Caída desde vehículo,1,S/D,Asfalto,Apto,,S/D,Noche,NO,Despejado,S/D,Motocicleta
+9,232115,2024-07-17,22:00:00,Urbana,Calle,9 DE julio,1700,ESPAÑA,-2.746.705,-5.882.910,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Motocicleta
+10,232115,2024-07-17,22:00:00,Urbana,Calle,9 DE julio,1700,ESPAÑA,-2.746.705,-5.882.910,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Motocicleta
+11,230861,2024-07-10,19:48:00,Urbana,Avenida,AV FERRE,2300,PERU,-2.747.734,-5.882.246,0,1,0,1,0,Colisión entre vehículos,1,S/D,,Apto,Seca,,Noche,NO,Despejado,Sin Semáforo,Motocicleta
+12,224096,2024-07-09,12:15:00,Urbana,Calle,ITUZAINGO,1000,HIPOLITO YRIGOYEN,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+13,224096,2024-07-09,12:15:00,Urbana,Calle,ITUZAINGO,1000,HIPOLITO YRIGOYEN,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+14,218235,2024-07-08,20:00:00,Urbana,Avenida,AV CHACABUCO,1300,BELGRANO,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Motocicleta
+15,218235,2024-07-08,20:00:00,Urbana,Avenida,AV CHACABUCO,1300,BELGRANO,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Motocicleta
+16,231658,2024-07-08,15:20:00,Urbana,Avenida,AV INDEPEMDENCIA,5400,DUMAS,-2.748.431,-5.878.537,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Automóvil
+17,231658,2024-07-08,15:20:00,Urbana,Avenida,AV INDEPEMDENCIA,5400,DUMAS,-2.748.431,-5.878.537,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Bicicleta
+18,233571,2024-07-06,10:25:00,Urbana,Avenida,AV. PUJOL,2200,PELLEGRINI,-2.746.651,-5.882.274,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,,Asfalto,,,Despejado,,Automóvil
+19,233571,2024-07-06,10:25:00,Urbana,Avenida,AV. PUJOL,2200,PELLEGRINI,-2.746.651,-5.882.274,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,,Asfalto,,,Despejado,,Motocicleta
+20,220396,2024-07-04,8:30:00,Urbana,Avenida,AV SARMIENTO,2000,TTE CORREA FERNANDEZ,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,,No Funciona,Motocicleta
+21,220396,2024-07-04,8:30:00,Urbana,Avenida,AV SARMIENTO,2000,TTE CORREA FERNANDEZ,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,,No Funciona,Motocicleta
+22,232265,2024-07-02,8:35:00,Urbana,Avenida,LAS HERAS,3100,RECONQUISTA,-2.748.317,-5.881.414,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,,Día,,Despejado,,Motocicleta
+23,232265,2024-07-02,8:35:00,Urbana,Avenida,LAS HERAS,3100,RECONQUISTA,-2.748.317,-5.881.414,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,,Día,,Despejado,,Automóvil
+24,224978,2024-07-01,19:38:00,Urbana,Avenida,AV MAIPU,KM 8,,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Mojada,,Noche,NO,Lluvia,Sin Semáforo,Camioneta/Utilitario
+25,224978,2024-07-01,19:38:00,Urbana,Avenida,AV MAIPU,KM 8,,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Mojada,,Noche,NO,Lluvia,Sin Semáforo,Automóvil
+26,230894,2024-06-29,11:00:00,Urbana,Calle,CATAMARCA,600,25 DE mayo,-2.746.462,-5.883.273,0,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo,Motocicleta
+27,230894,2024-06-29,11:00:00,Urbana,Calle,CATAMARCA,600,25 DE mayo,-2.746.462,-5.883.273,0,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo,Automóvil
+28,232274,2024-06-29,12:25:00,Urbana,Avenida,AV MAIPU,1559,,-2.748.732,-5.882.231,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,S/D,Camioneta/Utilitario
+29,232274,2024-06-29,12:25:00,Urbana,Avenida,AV MAIPU,1559,,-2.748.732,-5.882.231,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,S/D,Automóvil
+30,228608,2024-06-29,22:37:00,Urbana,Avenida,AV RAUL ALFONSIN,4600,CALLE SAENZ,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Mojada,Ninguna,Noche,NO,Lluvia,No Funciona,Automóvil
+31,228608,2024-06-29,22:37:00,Urbana,Avenida,AV RAUL ALFONSIN,4600,CALLE SAENZ,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Mojada,Ninguna,Noche,NO,Lluvia,No Funciona,Motocicleta
+32,233620,2024-06-29,15:50:00,Urbana,Calle,REPUBLICA DOMINICANA,1000,ESPARTA,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Camioneta/Utilitario
+33,233620,2024-06-29,15:50:00,Urbana,Calle,REPUBLICA DOMINICANA,1000,ESPARTA,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Bicicleta
+34,222694,2024-06-26,15:45:00,Urbana,Avenida,AV PEDRO FERRE,3000,AV CHACABUCO,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Motocicleta
+35,222694,2024-06-26,15:45:00,Urbana,Avenida,AV PEDRO FERRE,3000,AV CHACABUCO,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+36,234588,2024-06-24,10:00:00,Urbana,Avenida,AV LA PRIDA,5300,AV ARMENIA,-2.746.607,-5.878.698,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Automóvil
+37,234588,2024-06-24,10:00:00,Urbana,Avenida,AV LA PRIDA,5300,AV ARMENIA,-2.746.607,-5.878.698,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Motocicleta
+38,224941,2024-06-24,20:00:00,Urbana,Calle,CARTAGENA,3126,,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Automóvil
+39,224941,2024-06-24,20:00:00,Urbana,Calle,CARTAGENA,3126,,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Motocicleta
+40,220402,2024-06-24,8:00:00,Urbana,Avenida,AV ARMENIA,3000,,,,2,1,0,3,0,Colisión entre vehículos,3,S/D,Asfalto,Apto,Seca,Ninguna,Día,,,S/D,Transporte de carga
+41,220402,2024-06-24,8:00:00,Urbana,Avenida,AV ARMENIA,3000,,,,2,1,0,3,0,Colisión entre vehículos,3,S/D,Asfalto,Apto,Seca,Ninguna,Día,,,S/D,Automóvil
+42,220402,2024-06-24,8:00:00,Urbana,Avenida,AV ARMENIA,3000,,,,2,1,0,3,0,Colisión entre vehículos,3,S/D,Asfalto,Apto,Seca,Ninguna,Día,,,S/D,Automóvil
+43,218237,2024-06-22,16:53:00,Urbana,Calle,LISANDRO SEGOVIA,2600,COLON,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+44,218237,2024-06-22,16:53:00,Urbana,Calle,LISANDRO SEGOVIA,2600,COLON,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+45,233386,2024-06-20,16:45:00,Urbana,Avenida,AV INDEPENDENCIA,3000,AV CHACABUCO,-2.747.866,-5.881.473,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Automóvil
+46,233386,2024-06-20,16:45:00,Urbana,Avenida,AV INDEPENDENCIA,3000,AV CHACABUCO,-2.747.866,-5.881.473,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Motocicleta
+47,217475,2024-06-20,13:00:00,Urbana,Avenida,AV RIO CHICO,5600,LOS TULIPANES,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+48,217475,2024-06-20,13:00:00,Urbana,Avenida,AV RIO CHICO,5600,LOS TULIPANES,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+49,228606,2024-06-17,13:00:00,Urbana,Avenida,AV INDEPENDENCIA,3400,AV CHACABUCO,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Mojada,Ninguna,Día,,Otro,Funciona,Camioneta/Utilitario
+50,228606,2024-06-17,13:00:00,Urbana,Avenida,AV INDEPENDENCIA,3400,AV CHACABUCO,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Mojada,Ninguna,Día,,Otro,Funciona,Camioneta/Utilitario
+51,224975,2024-06-17,15:10:00,Urbana,Avenida,AV 3 DE ABRIL,1400,CATAMARCA,,,3,0,0,3,0,Colisión entre vehículos,3,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+52,224975,2024-06-17,15:10:00,Urbana,Avenida,AV 3 DE ABRIL,1400,CATAMARCA,,,3,0,0,3,0,Colisión entre vehículos,3,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Camioneta/Utilitario
+53,224975,2024-06-17,15:10:00,Urbana,Avenida,AV 3 DE ABRIL,1400,CATAMARCA,,,3,0,0,3,0,Colisión entre vehículos,3,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+54,216589,2024-06-15,10:56:00,Urbana,Calle,PLACIDO MARTINEZ,1056,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,,Apto,Seca,Ninguna,Día,,,Sin Semáforo,Automóvil
+55,216589,2024-06-15,10:56:00,Urbana,Calle,PLACIDO MARTINEZ,1056,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,,Apto,Seca,Ninguna,Día,,,Sin Semáforo,Bicicleta
+56,217515,2024-06-13,22:30:00,Urbana,Calle,CATAMARCA,1000,BELGRANO,,,3,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Automóvil
+57,217515,2024-06-13,22:30:00,Urbana,Calle,CATAMARCA,1000,BELGRANO,,,3,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Motocicleta
+58,224098,2024-06-11,8:35:00,Urbana,Avenida,AV 3 DE ABRIL,100,,,,0,1,0,1,0,Choque,1,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Camioneta/Utilitario
+59,218238,2024-06-10,16:51:00,Urbana,Avenida,AV SARMIENTO,2200,A.C. FERNANDEZ,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,,Automóvil
+60,218238,2024-06-10,16:51:00,Urbana,Avenida,AV SARMIENTO,2200,A.C. FERNANDEZ,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,,Motocicleta
+61,228607,2024-06-09,13:05:00,Urbana,Calle,RAMON CARRILLO (EX VIA),1500,GUTENBERG,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,,Apto,Mojada,Ninguna,Día,,S/D,Sin Semáforo,Automóvil
+62,228607,2024-06-09,13:05:00,Urbana,Calle,RAMON CARRILLO (EX VIA),1500,GUTENBERG,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,,Apto,Mojada,Ninguna,Día,,S/D,Sin Semáforo,Motocicleta
+63,233378,2024-06-09,18:00:00,Urbana,Avenida,AV MAIPU,4500,GUAYQUIRARO,-2.751.372,-5.880.745,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,,Asfalto,Día,,,Funciona,Automóvil
+64,233378,2024-06-09,18:00:00,Urbana,Avenida,AV MAIPU,4500,GUAYQUIRARO,-2.751.372,-5.880.745,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,,Asfalto,Día,,,Funciona,Automóvil
+65,217514,2024-06-08,13:50:00,Urbana,Calle,BOLIVAR,1100,SAN LUIS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+66,217514,2024-06-08,13:50:00,Urbana,Calle,BOLIVAR,1100,SAN LUIS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+67,224092,2024-06-08,12:30:00,Urbana,Calle,CUBA,5100,PABLO GROUSSAC,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+68,224092,2024-06-08,12:30:00,Urbana,Calle,CUBA,5100,PABLO GROUSSAC,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+69,220449,2024-06-08,13:45:00,Urbana,Avenida,AV PUJOL,2100,ROTONDA PONCHO VERDE,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+70,220449,2024-06-08,13:45:00,Urbana,Avenida,AV PUJOL,2100,ROTONDA PONCHO VERDE,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+71,222693,2024-06-08,22:15:00,Urbana,Avenida,AV ARMENIA,4600,QUINQUELA MARTIN,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Motocicleta
+72,222693,2024-06-08,22:15:00,Urbana,Avenida,AV ARMENIA,4600,QUINQUELA MARTIN,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Automóvil
+73,223341,2024-06-07,18:27:00,Urbana,Calle,MEDRANO,2200,ZAPIOLA,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,,Sin Semáforo,Bicicleta
+74,223341,2024-06-07,18:27:00,Urbana,Calle,MEDRANO,2200,ZAPIOLA,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,,Sin Semáforo,Motocicleta
+75,215403,2024-06-07,8:15:00,Urbana,Avenida,AV PEDRO FERRÉ,2900,AV CHACABUCO,,,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+76,215403,2024-06-07,8:15:00,Urbana,Avenida,AV PEDRO FERRÉ,2900,AV CHACABUCO,,,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Camioneta/Utilitario
+77,230896,2024-06-02,13:20:00,Urbana,Avenida,AV INDEPENDENCIA,3400,JUAN JOSE CASTELLI,-2.747.923,-5.880.987,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,,Día,,Despejado,Sin Semáforo,Automóvil
+78,230896,2024-06-02,13:20:00,Urbana,Avenida,AV INDEPENDENCIA,3400,JUAN JOSE CASTELLI,-2.747.923,-5.880.987,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,,Día,,Despejado,Sin Semáforo,Motocicleta
+79,233611,2024-06-02,12:41:00,Urbana,Avenida,AV ARMENIA,3100,AMADO BOMPLAND,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D,Automóvil
+80,233611,2024-06-02,12:41:00,Urbana,Avenida,AV ARMENIA,3100,AMADO BOMPLAND,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D,Motocicleta
+81,217517,2024-06-01,20:08:00,Urbana,Avenida,AV INDEPENDENCIA,5000,GODOY CRUZ,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Funciona,Automóvil
+82,217517,2024-06-01,20:08:00,Urbana,Avenida,AV INDEPENDENCIA,5000,GODOY CRUZ,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Funciona,Automóvil
+83,229676,2024-06-01,13:35:00,Urbana,Calle,RAMON CARRILLO,1500,GOB VELAZCO,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Camioneta/Utilitario
+84,229676,2024-06-01,13:35:00,Urbana,Calle,RAMON CARRILLO,1500,GOB VELAZCO,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+85,216587,2024-06-01,13:40:00,Urbana,Avenida,AV ARMENIA,800,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D,Automóvil
+86,216587,2024-06-01,13:40:00,Urbana,Avenida,AV ARMENIA,800,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D,Motocicleta
+87,229675,2024-05-30,17:35:00,Urbana,Calle,RECONQUISTA,3100,ALTE BROWN,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+88,229675,2024-05-30,17:35:00,Urbana,Calle,RECONQUISTA,3100,ALTE BROWN,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+89,223342,2024-05-30,12:00:00,Urbana,Avenida,AV 3 DE ABRIL,435,,,,1,0,0,1,0,Choque,1,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+90,220451,2024-05-30,10:00:00,Urbana,Calle,URUGUAY,900,JUNIN,,,2,0,0,2,0,Choque,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+91,220451,2024-05-30,10:00:00,Urbana,Calle,URUGUAY,900,JUNIN,,,2,0,0,2,0,Choque,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+92,232244,2024-05-28,21:40:00,Urbana,Avenida,MAIPU,3800,GUAYQUIRARO,-2.751.370,-5.880.736,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,Noche,,S/D,,Automóvil
+93,232244,2024-05-28,21:40:00,Urbana,Avenida,MAIPU,3800,GUAYQUIRARO,-2.751.370,-5.880.736,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,Noche,,S/D,,Automóvil
+94,217484,2024-05-21,22:00:00,Urbana,Avenida,AV PEDRO FERRE,2950,BANDA CENTRAL SUR,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,,Funciona,Automóvil
+95,217484,2024-05-21,22:00:00,Urbana,Avenida,AV PEDRO FERRE,2950,BANDA CENTRAL SUR,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,,Funciona,Automóvil
+96,224095,2024-05-19,12:15:00,Urbana,Calle,FRANCIA,1200,ESTADO DE ISRAEL,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Transporte de carga
+97,224095,2024-05-19,12:15:00,Urbana,Calle,FRANCIA,1200,ESTADO DE ISRAEL,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+98,217516,2024-05-19,7:05:00,Urbana,Avenida,AV MAIPU,200,GRAL PAZ,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+99,217516,2024-05-19,7:05:00,Urbana,Avenida,AV MAIPU,200,GRAL PAZ,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Motocicleta
+100,229164,2024-05-18,13:25:00,Urbana,Avenida,AV ARTIGAS,1100,BOLIVAR,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+101,229164,2024-05-18,13:25:00,Urbana,Avenida,AV ARTIGAS,1100,BOLIVAR,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+102,233471,2024-05-18,7:10:00,Urbana,Avenida,AV FERRE,1800,JUJUY,-2.747.657,-5.882.877,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,,Asfalto,Noche,NO,Nublado,Funciona,Motocicleta
+103,233471,2024-05-18,7:10:00,Urbana,Avenida,AV FERRE,1800,JUJUY,-2.747.657,-5.882.877,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,,Asfalto,Noche,NO,Nublado,Funciona,Automóvil
+104,220441,2024-05-14,10:40:00,Urbana,Calle,IBERÁ,1100,AV IV CENTENARIO,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+105,220441,2024-05-14,10:40:00,Urbana,Calle,IBERÁ,1100,AV IV CENTENARIO,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+106,229163,2024-05-12,22:40:00,Urbana,Calle,MARIANO MORENO,1353,CATAMARCA,,,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Mojada,,Noche,NO,Lluvia,Funciona,Automóvil
+107,229163,2024-05-12,22:40:00,Urbana,Calle,MARIANO MORENO,1353,CATAMARCA,,,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Mojada,,Noche,NO,Lluvia,Funciona,Automóvil
+108,233742,2024-05-12,8:40:00,Urbana,Calle,BUENOS AIRES,1080,JUJUY E IRIGOYEN.,-2.746.898,-5.884.063,0,1,0,1,0,Caída desde vehículo,1,,Asfalto,Apto,S/D FisicoAmbiental,Asfalto,Día,,Despejado,Sin Semáforo,Motocicleta
+109,233576,2024-05-11,12:05:00,Urbana,Avenida,AV LIBERTAD,5200,LA PRIDA,-2.746.608,-5.878.697,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Motocicleta
+110,233576,2024-05-11,12:05:00,Urbana,Avenida,AV LIBERTAD,5200,LA PRIDA,-2.746.608,-5.878.697,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Automóvil
+111,231250,2024-05-11,8:00:00,Urbana,Calle,SUIZA,3200,CORNELIO SAAVEDRA,-2.747.596,-5.881.167,1,2,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo,Camioneta/Utilitario
+112,231250,2024-05-11,8:00:00,Urbana,Calle,SUIZA,3200,CORNELIO SAAVEDRA,-2.747.596,-5.881.167,1,2,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo,Motocicleta
+113,217485,2024-05-11,19:40:00,Urbana,Calle,HIPOLITO YRIGOYEN,1600,ESPAÑA,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Nublado,Funciona,Motocicleta
+114,217485,2024-05-11,19:40:00,Urbana,Calle,HIPOLITO YRIGOYEN,1600,ESPAÑA,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Nublado,Funciona,Automóvil
+115,233474,2024-05-11,10:10:00,Urbana,Calle,MEXICO,600,FELIPE CABRAL,-2.746.594,-5.881.413,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,,Asfalto,Día,,Despejado,Sin Semáforo,Motocicleta
+116,233474,2024-05-11,10:10:00,Urbana,Calle,MEXICO,600,FELIPE CABRAL,-2.746.594,-5.881.413,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,,Asfalto,Día,,Despejado,Sin Semáforo,Transporte de carga
+117,220961,2024-05-11,15:00:00,Urbana,Avenida,AV 3 DE ABRIL,1200,MENDOZA,-2.747.562,-5.883.645,0,2,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Automóvil
+118,220961,2024-05-11,15:00:00,Urbana,Avenida,AV 3 DE ABRIL,1200,MENDOZA,-2.747.562,-5.883.645,0,2,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Automóvil
+119,233607,2024-05-11,8:45:00,Urbana,Avenida,AV INDEPENDENCIA,4400,MEDRANO,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+120,233607,2024-05-11,8:45:00,Urbana,Avenida,AV INDEPENDENCIA,4400,MEDRANO,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Motocicleta
+121,232105,2024-05-10,17:20:00,Urbana,Avenida,Av. Independencia,3630,BANDA CENTRAL NORTE,-2.747.955,-5.880.755,3,0,0,3,0,Otro,3,,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Automóvil
+122,232105,2024-05-10,17:20:00,Urbana,Avenida,Av. Independencia,3630,BANDA CENTRAL NORTE,-2.747.955,-5.880.755,3,0,0,3,0,Otro,3,,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Automóvil
+123,232105,2024-05-10,17:20:00,Urbana,Avenida,Av. Independencia,3630,BANDA CENTRAL NORTE,-2.747.955,-5.880.755,3,0,0,3,0,Otro,3,,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Automóvil
+124,228592,2024-05-09,7:50:00,Urbana,Avenida,AV GOBERNADOR RUIZ,2700,COLOMBIA,,,0,2,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+125,228592,2024-05-09,7:50:00,Urbana,Avenida,AV GOBERNADOR RUIZ,2700,COLOMBIA,,,0,2,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+126,229002,2024-05-07,17:18:00,Urbana,Avenida,AV GDOR PUJOL,2.200,PELLEGRINI,-2.746.649,-5.882.273,1,1,0,2,0,Colisión entre vehículos,2,S/D,,Apto,Mojada,Asfalto,Día,,Lluvia,Sin Semáforo,Automóvil
+127,229002,2024-05-07,17:18:00,Urbana,Avenida,AV GDOR PUJOL,2.200,PELLEGRINI,-2.746.649,-5.882.273,1,1,0,2,0,Colisión entre vehículos,2,S/D,,Apto,Mojada,Asfalto,Día,,Lluvia,Sin Semáforo,Bicicleta
+128,222692,2024-05-02,12:30:00,Urbana,Calle,ITUZAINGO,1100,BOLIVAR,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,,Sin Semáforo,Camioneta/Utilitario
+129,222692,2024-05-02,12:30:00,Urbana,Calle,ITUZAINGO,1100,BOLIVAR,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,,Sin Semáforo,Motocicleta
+130,224093,2024-04-27,13:15:00,Urbana,Calle,LAVALLE,700,GOB CASTILLO,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+131,224093,2024-04-27,13:15:00,Urbana,Calle,LAVALLE,700,GOB CASTILLO,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+132,220447,2024-04-08,7:30:00,Urbana,Calle,MEDRANO,2600,PITAGORAS,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+133,220447,2024-04-08,7:30:00,Urbana,Calle,MEDRANO,2600,PITAGORAS,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+134,217481,2024-04-07,20:30:00,Urbana,Calle,ZARAGOZA,200,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,S/D,Automóvil
+135,217481,2024-04-07,20:30:00,Urbana,Calle,ZARAGOZA,200,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,S/D,Motocicleta
+136,217502,2024-04-06,11:00:00,Urbana,Calle,GUTENBERG,2400,TTE CUNDOM,,,1,1,0,1,1,Atropello a peatón/es,2,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+137,217502,2024-04-06,11:00:00,Urbana,Calle,GUTENBERG,2400,TTE CUNDOM,,,1,1,0,1,1,Atropello a peatón/es,2,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Peatón
+138,228711,2024-04-04,19:09:00,Urbana,Avenida,AV CHACABUCO,1100,SAN MARTIN,-2.747.221,-5.881.314,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Noche,NO,Lluvia,Sin Semáforo,Motocicleta
+139,228711,2024-04-04,19:09:00,Urbana,Avenida,AV CHACABUCO,1100,SAN MARTIN,-2.747.221,-5.881.314,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Noche,NO,Lluvia,Sin Semáforo,Motocicleta
+140,226408,2024-04-01,12:10:00,Urbana,Calle,LA RIOJA,400,QUINTANA,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Camioneta/Utilitario
+141,226408,2024-04-01,12:10:00,Urbana,Calle,LA RIOJA,400,QUINTANA,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Transporte de pasajeros
+142,230865,2024-03-29,11:08:00,Urbana,Avenida,AV MAIPU,100,LAVALLE,-2.747.767,-5.883.023,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Día,,,Funciona,Motocicleta
+143,230865,2024-03-29,11:08:00,Urbana,Avenida,AV MAIPU,100,LAVALLE,-2.747.767,-5.883.023,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Día,,,Funciona,Transporte de carga
+144,216579,2024-03-28,3:30:00,Urbana,Avenida,AV MEDRANO,2400,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,S/D,Motocicleta
+145,216579,2024-03-28,3:30:00,Urbana,Avenida,AV MEDRANO,2400,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,S/D,Motocicleta
+146,231849,2024-03-28,18:00:00,Urbana,Calle,BUENOS AIRES,1400,MORENO,-2.747.288,-5.884.098,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo,Automóvil
+147,231849,2024-03-28,18:00:00,Urbana,Calle,BUENOS AIRES,1400,MORENO,-2.747.288,-5.884.098,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo,Camioneta/Utilitario
+148,231751,2024-03-27,0:21:00,Urbana,Calle,HEROES CIVILES,2100,LA MADRID,-2.748.151,-5.883.980,1,0,0,1,0,Choque,1,No obstruido,Asfalto,Apto,Seca,,Noche,NO,Despejado,Funciona,Automóvil
+149,233473,2024-03-22,11:40:00,Urbana,Avenida,AV MAIPU,100,LAVALLE,-2.747.768,-5.883.028,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Motocicleta
+150,233473,2024-03-22,11:40:00,Urbana,Avenida,AV MAIPU,100,LAVALLE,-2.747.768,-5.883.028,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Automóvil
+151,215631,2024-03-20,12:50:00,Urbana,Avenida,AV PEDRO FERRE,2600,FERREIRA,,,2,3,0,3,0,Colisión entre vehículos,3,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+152,215631,2024-03-20,12:50:00,Urbana,Avenida,AV PEDRO FERRE,2600,FERREIRA,,,2,3,0,3,0,Colisión entre vehículos,3,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+153,215631,2024-03-20,12:50:00,Urbana,Avenida,AV PEDRO FERRE,2600,FERREIRA,,,2,3,0,3,0,Colisión entre vehículos,3,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+154,215415,2024-03-19,8:10:00,Urbana,Avenida,AV TTE IBAÑEZ,1600,SARMIENTO,,,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Motocicleta
+155,215415,2024-03-19,8:10:00,Urbana,Avenida,AV TTE IBAÑEZ,1600,SARMIENTO,,,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+156,223346,2024-03-18,11:53:00,Urbana,Calle,BELGRANO,1700,JUJUY,,,1,1,0,2,0,,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+157,223346,2024-03-18,11:53:00,Urbana,Calle,BELGRANO,1700,JUJUY,,,1,1,0,2,0,,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Bicicleta
+158,232136,2024-03-17,6:00:00,Urbana,Avenida,AV MAIPU,600,LAS HERAS,-2.748.041,-5.882.805,0,2,0,1,0,Colisión entre vehículos,1,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Motocicleta
+159,220445,2024-03-16,11:15:00,Urbana,Calle,RECONQUISTA,1900,LAS HERAS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Camioneta/Utilitario
+160,220445,2024-03-16,11:15:00,Urbana,Calle,RECONQUISTA,1900,LAS HERAS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+161,223338,2024-03-16,1:40:00,Urbana,Avenida,AV RAUL ALFONSIN,3500,GUEMES,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Funciona,Automóvil
+162,223338,2024-03-16,1:40:00,Urbana,Avenida,AV RAUL ALFONSIN,3500,GUEMES,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Funciona,Motocicleta
+163,233574,2024-03-16,12:15:00,Urbana,Avenida,AV ARTIGAS,1200,ESTADOS DE ISRAEL,-2.747.268,-5.881.891,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,,,Asfalto,Día,,Despejado,Sin Semáforo,Automóvil
+164,233574,2024-03-16,12:15:00,Urbana,Avenida,AV ARTIGAS,1200,ESTADOS DE ISRAEL,-2.747.268,-5.881.891,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,,,Asfalto,Día,,Despejado,Sin Semáforo,Camioneta/Utilitario
+165,232301,2024-03-15,17:00:00,Urbana,Calle,MISIONES,1340,,-2.747.132,-5.884.585,2,1,0,1,0,Vuelco (solo 1 participante),1,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo,Automóvil
+166,224097,2024-03-15,11:30:00,Urbana,Avenida,ROTONDA VIRGEN DE ITATI,5400,,,,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Mojada,Ninguna,Día,,Lluvia,Sin Semáforo,Automóvil
+167,224097,2024-03-15,11:30:00,Urbana,Avenida,ROTONDA VIRGEN DE ITATI,5400,,,,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Mojada,Ninguna,Día,,Lluvia,Sin Semáforo,Bicicleta
+168,233609,2024-03-14,6:40:00,Urbana,Calle,SALTA,1400,RIVADAVIA,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+169,233609,2024-03-14,6:40:00,Urbana,Calle,SALTA,1400,RIVADAVIA,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+170,233745,2024-03-13,11:05:00,Urbana,Avenida,AV TTE IBAÑEZ,1350,,-2.748.573,-5.883.620,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,S/D,Motocicleta
+171,233745,2024-03-13,11:05:00,Urbana,Avenida,AV TTE IBAÑEZ,1350,,-2.748.573,-5.883.620,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,S/D,Automóvil
+172,229458,2024-03-13,11:00:00,Urbana,Avenida,CAZADORES CORRENTINOS,4200,LAS PIEDRAS,-2.748.724,-5.880.139,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Automóvil
+173,229458,2024-03-13,11:00:00,Urbana,Avenida,CAZADORES CORRENTINOS,4200,LAS PIEDRAS,-2.748.724,-5.880.139,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Funciona,Motocicleta
+174,224091,2024-03-13,0:45:00,Urbana,Avenida,AV JUAN RAMON VIDAL,2700,PITAGORAS,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,"Con charcos o inundada, Mojada",Ninguna,Noche,NO,Lluvia,Sin Semáforo,Otro
+175,224091,2024-03-13,0:45:00,Urbana,Avenida,AV JUAN RAMON VIDAL,2700,PITAGORAS,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,"Con charcos o inundada, Mojada",Ninguna,Noche,NO,Lluvia,Sin Semáforo,Motocicleta
+176,218231,2024-03-13,10:30:00,Urbana,Avenida,AV TENIENTE IBAÑEZ,600,ALBERDI,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+177,218231,2024-03-13,10:30:00,Urbana,Avenida,AV TENIENTE IBAÑEZ,600,ALBERDI,,,2,0,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+178,218226,2024-03-13,20:15:00,Urbana,Avenida,AV PEDRO FERRE,2500,AV ARTIGAS,,,2,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Funciona,Automóvil
+179,218226,2024-03-13,20:15:00,Urbana,Avenida,AV PEDRO FERRE,2500,AV ARTIGAS,,,2,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Funciona,Motocicleta
+180,232150,2024-03-12,13:45:00,Urbana,Calle,GASCON,2000,LAS HERAS,-2.748.576,-5.879.653,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,S/D,Día,,Despejado,Sin Semáforo,Motocicleta
+181,232150,2024-03-12,13:45:00,Urbana,Calle,GASCON,2000,LAS HERAS,-2.748.576,-5.879.653,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,S/D,Día,,Despejado,Sin Semáforo,Camioneta/Utilitario
+182,217477,2024-03-11,17:15:00,Urbana,Avenida,AV CHACABUCO,3000,AV INDEPENDENCIA,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+183,217477,2024-03-11,17:15:00,Urbana,Avenida,AV CHACABUCO,3000,AV INDEPENDENCIA,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Motocicleta
+184,231275,2024-03-11,20:00:00,Urbana,Calle,CUBA,4959,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,S/D,Automóvil
+185,231275,2024-03-11,20:00:00,Urbana,Calle,CUBA,4959,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,S/D,Motocicleta
+186,232161,2024-03-09,12:15:00,Urbana,Calle,ITUZAINGO,999,HIPOLITO IRIGOYEN,-2.747.032,-5.881.902,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,Día,,,,Automóvil
+187,232161,2024-03-09,12:15:00,Urbana,Calle,ITUZAINGO,999,HIPOLITO IRIGOYEN,-2.747.032,-5.881.902,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,Día,,,,Automóvil
+188,233606,2024-03-09,13:20:00,Urbana,Avenida,AV MAIPU,2400,VALPARAISO,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,,,,Sin Semáforo,Automóvil
+189,233606,2024-03-09,13:20:00,Urbana,Avenida,AV MAIPU,2400,VALPARAISO,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,,,,Sin Semáforo,Motocicleta
+190,217491,2024-03-05,23:30:00,Urbana,Avenida,AV MAIPU,6000,13 DE junio,,,0,1,0,1,0,Caída desde vehículo,1,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,S/D,Motocicleta
+191,220448,2024-03-04,11:20:00,Urbana,Calle,LA RIOJA,1400,RIVADAVIA,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+192,220448,2024-03-04,11:20:00,Urbana,Calle,LA RIOJA,1400,RIVADAVIA,,,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+193,228596,2024-02-28,13:30:00,Urbana,Avenida,AV LIBERTAD,5200,LAPRIDA,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,,Automóvil
+194,228596,2024-02-28,13:30:00,Urbana,Avenida,AV LIBERTAD,5200,LAPRIDA,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,,Automóvil
+195,233756,2024-02-26,12:30:00,Urbana,Calle,SAN MARTIN,1100,COLOMBIA,-2.747.171,-5.881.700,2,0,0,2,0,Colisión entre vehículos,2,S/D,,Apto,,Asfalto,Día,,Despejado,Sin Semáforo,Automóvil
+196,233756,2024-02-26,12:30:00,Urbana,Calle,SAN MARTIN,1100,COLOMBIA,-2.747.171,-5.881.700,2,0,0,2,0,Colisión entre vehículos,2,S/D,,Apto,,Asfalto,Día,,Despejado,Sin Semáforo,Automóvil
+197,234599,2024-02-24,10:25:00,Urbana,Calle,AV ALFONSIN,4900,ARAOS,-2.747.634,-5.879.132,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,S/D,,,Despejado,Sin Semáforo,Motocicleta
+198,234599,2024-02-24,10:25:00,Urbana,Calle,AV ALFONSIN,4900,ARAOS,-2.747.634,-5.879.132,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,S/D,,,Despejado,Sin Semáforo,Motocicleta
+199,232165,2024-02-24,13:30:00,Urbana,Calle,GUEMES,2000,LAS HERAS,-2.748.410,-5.880.815,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,Día,,Despejado,Sin Semáforo,Automóvil
+200,232165,2024-02-24,13:30:00,Urbana,Calle,GUEMES,2000,LAS HERAS,-2.748.410,-5.880.815,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,Día,,Despejado,Sin Semáforo,Otro
+201,226409,2024-02-23,22:26:00,Urbana,Avenida,AV MAIPU,600,ROCA,,,3,0,0,3,0,Colisión entre vehículos,3,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,,Funciona,Automóvil
+202,226409,2024-02-23,22:26:00,Urbana,Avenida,AV MAIPU,600,ROCA,,,3,0,0,3,0,Colisión entre vehículos,3,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,,Funciona,Transporte de pasajeros
+203,226409,2024-02-23,22:26:00,Urbana,Avenida,AV MAIPU,600,ROCA,,,3,0,0,3,0,Colisión entre vehículos,3,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,,Funciona,Automóvil
+204,217478,2024-02-22,12:45:00,Urbana,Avenida,AV JUAN DOMINGO PERON,5300,ALEJANDRO DUMAS,,,1,1,0,1,1,Atropello a peatón/es,2,S/D,Asfalto,Apto,Mojada,Ninguna,Día,,Lluvia,Funciona,Motocicleta
+205,217478,2024-02-22,12:45:00,Urbana,Avenida,AV JUAN DOMINGO PERON,5300,ALEJANDRO DUMAS,,,1,1,0,1,1,Atropello a peatón/es,2,S/D,Asfalto,Apto,Mojada,Ninguna,Día,,Lluvia,Funciona,Peatón
+206,223343,2024-02-19,1:46:00,Urbana,Avenida,AV GARAY,700,HERNANDARIAS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Mojada,,Noche,NO,Lluvia,Sin Semáforo,Camioneta/Utilitario
+207,223343,2024-02-19,1:46:00,Urbana,Avenida,AV GARAY,700,HERNANDARIAS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Mojada,,Noche,NO,Lluvia,Sin Semáforo,Motocicleta
+208,232252,2024-02-17,12:00:00,Urbana,Avenida,GOBERNADOR RUIZ,700,COLOMBIA,-2.746.742,-5.881.608,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,,,,,Automóvil
+209,232252,2024-02-17,12:00:00,Urbana,Avenida,GOBERNADOR RUIZ,700,COLOMBIA,-2.746.742,-5.881.608,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,,,,,Transporte de carga
+210,224094,2024-02-17,17:59:00,Urbana,Avenida,AV MAIPU,5700,,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+211,224094,2024-02-17,17:59:00,Urbana,Avenida,AV MAIPU,5700,,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+212,232156,2024-02-14,13:30:00,Urbana,Calle,MENDOZA,1200,GENERAL PAZ,-2.747.824,-5.883.681,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,Día,,Despejado,Sin Semáforo,Motocicleta
+213,232156,2024-02-14,13:30:00,Urbana,Calle,MENDOZA,1200,GENERAL PAZ,-2.747.824,-5.883.681,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,,,Día,,Despejado,Sin Semáforo,Automóvil
+214,231897,2024-02-12,11:50:00,Urbana,Avenida,AV PUJOL,2100,PELLEGRINI,,,1,1,0,1,0,Otro,1,No obstruido,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo,Automóvil
+215,218239,2024-02-11,20:30:00,Urbana,Calle,AGUSTIN P. JUSTO,500,JUAN V. PAMPIN,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Automóvil
+216,218239,2024-02-11,20:30:00,Urbana,Calle,AGUSTIN P. JUSTO,500,JUAN V. PAMPIN,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Automóvil
+217,234589,2024-02-11,0:08:00,Urbana,Calle,AV COSTANERA,400,,-2.747.070,-5.885.430,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Noche,SI,Nublado,Sin Semáforo,Automóvil
+218,234589,2024-02-11,0:08:00,Urbana,Calle,AV COSTANERA,400,,-2.747.070,-5.885.430,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Noche,SI,Nublado,Sin Semáforo,Camioneta/Utilitario
+219,231744,2024-02-10,7:34:00,Urbana,Avenida,AV CAZADORES CORRENTINOS,5200,,-2.748.924,-5.878.963,0,1,0,1,0,Caída desde vehículo,1,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,S/D,Motocicleta
+220,217476,2024-02-10,23:45:00,Urbana,Calle,MENDOZA,1700,LAVALLE,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,,,Despejado,Sin Semáforo,Automóvil
+221,217476,2024-02-10,23:45:00,Urbana,Calle,MENDOZA,1700,LAVALLE,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,,,Despejado,Sin Semáforo,Motocicleta
+222,232279,2024-02-06,20:21:00,Urbana,Avenida,AV CHACABUCO,2000,LAS HERAS,-2.748.301,-5.881.545,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Noche,SI,Despejado,Funciona,Automóvil
+223,232279,2024-02-06,20:21:00,Urbana,Avenida,AV CHACABUCO,2000,LAS HERAS,-2.748.301,-5.881.545,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Noche,SI,Despejado,Funciona,Motocicleta
+224,215637,2024-02-05,12:00:00,Urbana,Calle,CHILE,2600,AV FERRE,,,4,0,0,4,0,Colisión entre vehículos,4,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Camioneta/Utilitario
+225,215637,2024-02-05,12:00:00,Urbana,Calle,CHILE,2600,AV FERRE,,,4,0,0,4,0,Colisión entre vehículos,4,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+226,215637,2024-02-05,12:00:00,Urbana,Calle,CHILE,2600,AV FERRE,,,4,0,0,4,0,Colisión entre vehículos,4,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+227,215637,2024-02-05,12:00:00,Urbana,Calle,CHILE,2600,AV FERRE,,,4,0,0,4,0,Colisión entre vehículos,4,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Funciona,Automóvil
+228,217479,2024-02-04,12:10:00,Urbana,Avenida,AV RAUL ALFONSIN,4000,LOS TILOS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D,Motocicleta
+229,217479,2024-02-04,12:10:00,Urbana,Avenida,AV RAUL ALFONSIN,4000,LOS TILOS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D,Motocicleta
+230,230743,2024-02-03,7:58:00,Urbana,Calle,NECOCHEA,3800,BLAS PARERA,-2.748.348,-5.880.534,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Día,,,S/D,Automóvil
+231,230743,2024-02-03,7:58:00,Urbana,Calle,NECOCHEA,3800,BLAS PARERA,-2.748.348,-5.880.534,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Día,,,S/D,Motocicleta
+232,224938,2024-02-03,11:15:00,Urbana,Avenida,AV ARMENIA,3100,,,,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D,Automóvil
+233,224938,2024-02-03,11:15:00,Urbana,Avenida,AV ARMENIA,3100,,,,2,0,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D,Automóvil
+234,224976,2024-02-03,17:30:00,Urbana,Calle,ESPAÑA,1200,BELGRANO,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Camioneta/Utilitario
+235,224976,2024-02-03,17:30:00,Urbana,Calle,ESPAÑA,1200,BELGRANO,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+236,218240,2024-02-03,9:30:00,Urbana,Calle,TACUARI,1700,LAVALLE,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D,Motocicleta
+237,218240,2024-02-03,9:30:00,Urbana,Calle,TACUARI,1700,LAVALLE,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,S/D,Transporte de carga
+238,224973,2024-02-02,11:30:00,Urbana,Avenida,AV MAIPU,6500,,,,1,1,0,1,0,Vuelco (solo 1 participante),1,,Asfalto,Apto,Seca,Ninguna,Día,,,Sin Semáforo,Automóvil
+239,233610,2024-01-31,7:10:00,Urbana,Calle,CORDOBA,1400,RIVADAVIA,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Camioneta/Utilitario
+240,233610,2024-01-31,7:10:00,Urbana,Calle,CORDOBA,1400,RIVADAVIA,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+241,232227,2024-01-27,8:15:00,Urbana,Avenida,AV MAIPU,2400,LOS CONDORES,-2.749.993,-5.881.390,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,S/D,Motocicleta
+242,232227,2024-01-27,8:15:00,Urbana,Avenida,AV MAIPU,2400,LOS CONDORES,-2.749.993,-5.881.390,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,S/D,Motocicleta
+243,223340,2024-01-27,21:50:00,Urbana,Avenida,AV COSTANERA,200,CHACO,,,1,1,0,1,1,,2,No obstruido,,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Motocicleta
+244,223340,2024-01-27,21:50:00,Urbana,Avenida,AV COSTANERA,200,CHACO,,,1,1,0,1,1,,2,No obstruido,,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Peatón
+245,231252,2024-01-27,22:00:00,Urbana,Avenida,AV CENTENARIO,5900,RUTA12,-2.747.773,-5.878.493,2,0,0,2,0,Colisión entre vehículos,2,S/D,Ripio,Apto,,Ripio,Noche,,Despejado,,Automóvil
+246,231252,2024-01-27,22:00:00,Urbana,Avenida,AV CENTENARIO,5900,RUTA12,-2.747.773,-5.878.493,2,0,0,2,0,Colisión entre vehículos,2,S/D,Ripio,Apto,,Ripio,Noche,,Despejado,,Motocicleta
+247,216600,2024-01-24,5:26:00,Urbana,Avenida,AV CENTENARIO,4036,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Automóvil
+248,216600,2024-01-24,5:26:00,Urbana,Avenida,AV CENTENARIO,4036,,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Motocicleta
+249,230863,2024-01-21,13:00:00,Urbana,Calle,9 DE julio,900,SALTA,-2.746.627,-5.883.907,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo,Motocicleta
+250,230863,2024-01-21,13:00:00,Urbana,Calle,9 DE julio,900,SALTA,-2.746.627,-5.883.907,2,0,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Asfalto,Día,,Despejado,Sin Semáforo,Motocicleta
+251,223344,2024-01-21,8:52:00,Urbana,Calle,CHACO,400,COSTANERA,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+252,223344,2024-01-21,8:52:00,Urbana,Calle,CHACO,400,COSTANERA,,,2,0,0,2,0,Colisión entre vehículos,2,S/D,,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+253,220394,2024-01-20,11:00:00,Urbana,Ruta Nacional,12,1020,AUTOVÍA,,,1,1,0,1,1,Atropello a peatón/es,2,S/D,Asfalto,Apto,Seca,S/D,Día,,Despejado,Sin Semáforo,Camioneta/Utilitario
+254,220394,2024-01-20,11:00:00,Urbana,Ruta Nacional,12,1020,AUTOVÍA,,,1,1,0,1,1,Atropello a peatón/es,2,S/D,Asfalto,Apto,Seca,S/D,Día,,Despejado,Sin Semáforo,Peatón
+255,224977,2024-01-20,13:15:00,Urbana,Calle,9 DE julio,1868,PARAGUAY,,,1,1,0,2,0,Colisión entre vehículos,2,,,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Camioneta/Utilitario
+256,224977,2024-01-20,13:15:00,Urbana,Calle,9 DE julio,1868,PARAGUAY,,,1,1,0,2,0,Colisión entre vehículos,2,,,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Motocicleta
+257,230891,2024-01-19,10:10:00,Urbana,Avenida,AV WENSELAO DOMINGUEZ,3000,CARTAGENA,-2.749.297,-5.880.882,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,,Día,,Despejado,Sin Semáforo,Automóvil
+258,230891,2024-01-19,10:10:00,Urbana,Avenida,AV WENSELAO DOMINGUEZ,3000,CARTAGENA,-2.749.297,-5.880.882,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,,Día,,Despejado,Sin Semáforo,Motocicleta
+259,233472,2024-01-17,11:10:00,Urbana,Avenida,AV CHACABUCO,3000,LAMADRID,-2.748.417,-5.881.567,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Asfalto,Día,,Nublado,Sin Semáforo,Motocicleta
+260,233472,2024-01-17,11:10:00,Urbana,Avenida,AV CHACABUCO,3000,LAMADRID,-2.748.417,-5.881.567,1,1,0,2,0,Colisión entre vehículos,2,No obstruido,Asfalto,Apto,Seca,Asfalto,Día,,Nublado,Sin Semáforo,Camioneta/Utilitario
+261,217486,2024-01-11,9:25:00,Urbana,Calle,PERU,1000,SAN MARTIN,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+262,217486,2024-01-11,9:25:00,Urbana,Calle,PERU,1000,SAN MARTIN,,,2,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Día,,Despejado,Sin Semáforo,Automóvil
+263,223339,2024-01-09,0:10:00,Urbana,Ruta Nacional,12,1036,,,,1,0,0,1,0,Atropello a animal/es,1,,,Apto,,Pasto,Noche,SI,Despejado,S/D,Automóvil
+264,231056,2024-01-09,8:30:00,Urbana,Avenida,AV PUJOL,2200,,-2.746.643,-5.882.269,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Pasto,Día,,Despejado,Sin Semáforo,Automóvil
+265,231056,2024-01-09,8:30:00,Urbana,Avenida,AV PUJOL,2200,,-2.746.643,-5.882.269,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Pasto,Día,,Despejado,Sin Semáforo,Motocicleta
+266,228599,2024-01-08,11:20:00,Urbana,Avenida,AV LIBERTAD,6500,LAS VIOLETAS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Con charcos o inundada,Ninguna,Día,,Lluvia,S/D,Automóvil
+267,228599,2024-01-08,11:20:00,Urbana,Avenida,AV LIBERTAD,6500,LAS VIOLETAS,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Con charcos o inundada,Ninguna,Día,,Lluvia,S/D,Motocicleta
+268,216599,2024-01-07,23:00:00,Urbana,Avenida,AV PONCHO VERDE,2100,CARLOS PELLEGRINI,,,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Automóvil
+269,216599,2024-01-07,23:00:00,Urbana,Avenida,AV PONCHO VERDE,2100,CARLOS PELLEGRINI,,,1,1,0,2,0,Colisión entre vehículos,2,,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,Sin Semáforo,Motocicleta
+270,220443,2024-01-06,6:00:00,Urbana,Avenida,AV MAIPU,3100,TILCARA,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,No Funciona,Motocicleta
+271,220443,2024-01-06,6:00:00,Urbana,Avenida,AV MAIPU,3100,TILCARA,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Seca,Ninguna,Noche,NO,Despejado,No Funciona,Motocicleta
+272,229168,2024-01-04,8:30:00,Urbana,Avenida,AV 3 DE ABRIL,1300,CORDOBA,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Mojada,Ninguna,Día,,Lluvia,Funciona,Automóvil
+273,229168,2024-01-04,8:30:00,Urbana,Avenida,AV 3 DE ABRIL,1300,CORDOBA,,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,Apto,Mojada,Ninguna,Día,,Lluvia,Funciona,Motocicleta
+274,217505,2024-01-01,12:15:00,Urbana,Ruta Nacional,12,1000,COLECTORA (BOCA UNIDOS),,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,En reparación,Seca,Asfalto,Día,,Despejado,Sin Semáforo,Automóvil
+275,217505,2024-01-01,12:15:00,Urbana,Ruta Nacional,12,1000,COLECTORA (BOCA UNIDOS),,,1,1,0,2,0,Colisión entre vehículos,2,S/D,Asfalto,En reparación,Seca,Asfalto,Día,,Despejado,Sin Semáforo,Motocicleta
