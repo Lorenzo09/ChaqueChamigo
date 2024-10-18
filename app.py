@@ -3,6 +3,9 @@ import pandas as pd
 import folium
 from folium.plugins import HeatMap
 from streamlit_folium import st_folium
+from geopy.geocoders import Nominatim
+import osmnx as ox
+import networkx as nx
 
 # Cargar los datos de siniestros
 df = pd.read_parquet('Datasets_limpios/siniestrosfinal.parquet')
@@ -29,34 +32,46 @@ HeatMap(heat_data).add_to(m)
 st.header("Mapa de calor de siniestros")
 st_folium(m, width=700, height=500)
 
-
-from geopy.geocoders import Nominatim
-
+# Función para obtener coordenadas a partir de direcciones
 def get_location(address):
     geolocator = Nominatim(user_agent="chaquechamigo")
     location = geolocator.geocode(address)
-    return (location.latitude, location.longitude)
+    if location:
+        return (location.latitude, location.longitude)
+    else:
+        return None
 
+# Sección de ruta segura
 st.subheader("Encuentra la ruta más segura")
 start = st.text_input("Ingresa tu dirección de partida:")
 end = st.text_input("Ingresa tu destino:")
 
 if st.button("Generar Ruta"):
+    # Obtener coordenadas de las direcciones
     start_coords = get_location(start)
     end_coords = get_location(end)
-    st.write(f"Coordenadas de partida: {start_coords}")
-    st.write(f"Coordenadas de destino: {end_coords}")
+    
+    if start_coords and end_coords:
+        st.write(f"Coordenadas de partida: {start_coords}")
+        st.write(f"Coordenadas de destino: {end_coords}")
+        
+        # Crear un grafo de las calles en Corrientes
+        G = ox.graph_from_place('Corrientes, Argentina', network_type='drive')
 
+        # Definir una función de peso para la ruta, que penaliza áreas con más siniestros
+        def custom_weight(u, v, data):
+            # Asignar un peso bajo a las áreas con menos siniestros y más alto a zonas de alta concentración
+            lat_u, lon_u = G.nodes[u]['y'], G.nodes[u]['x']
+            siniestros_cercanos = df[((df['latitud'] - lat_u)**2 + (df['longitud'] - lon_u)**2) < 0.0001]  # Ajusta el rango de cercanía
+            penalizacion = len(siniestros_cercanos)  # Número de siniestros cercanos
+            return data.get('length', 1) * (1 + penalizacion)
 
-import osmnx as ox
-import networkx as nx
+        # Obtener la ruta más segura en base al heatmap
+        route = ox.shortest_path(G, start_coords, end_coords, weight=custom_weight)
 
-# Crear un grafo de las calles en Corrientes
-G = ox.graph_from_place('Corrientes, Argentina', network_type='drive')
+        # Mostrar la ruta en el mapa
+        route_map = ox.plot_route_folium(G, route, route_map=m)
+        st_data = st_folium(route_map, width=700, height=500)
+    else:
+        st.error("No se pudo obtener la geolocalización de una o ambas direcciones. Intenta con otras.")
 
-# Obtener la ruta más corta (puedes personalizar esto con tu heatmap)
-route = ox.shortest_path(G, start_coords, end_coords, weight='length')
-
-# Mostrar la ruta en el mapa
-route_map = ox.plot_route_folium(G, route, route_map=m)
-st_data = st._folium_static(route_map)
