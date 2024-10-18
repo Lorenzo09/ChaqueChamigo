@@ -58,10 +58,10 @@ if st.button("Generar Ruta"):
         # Crear un grafo de las calles en Corrientes
         G = ox.graph_from_place('Corrientes, Argentina', network_type='drive')
 
-        # Usar ox.get_nearest_node para obtener el nodo más cercano
+        # Usar ox.distance.get_nearest_node para obtener el nodo más cercano
         try:
-            start_node = ox.get_nearest_node(G, (start_coords[0], start_coords[1]))
-            end_node = ox.get_nearest_node(G, (end_coords[0], end_coords[1]))
+            start_node = ox.distance.get_nearest_node(G, (start_coords[0], start_coords[1]))
+            end_node = ox.distance.get_nearest_node(G, (end_coords[0], end_coords[1]))
 
             # Definir una función de peso para la ruta, que penaliza áreas con más siniestros
             def custom_weight(u, v, data):
@@ -81,6 +81,3 @@ if st.button("Generar Ruta"):
             st.error("No se pudo encontrar un nodo cercano a las coordenadas proporcionadas. Intenta con una dirección diferente.")
     else:
         st.error("No se pudo obtener la geolocalización de una o ambas direcciones. Intenta con otras.")
-
-
-
