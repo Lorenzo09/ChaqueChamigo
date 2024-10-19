@@ -1,7 +1,8 @@
-streamlit==1.39.0
-folium==0.17.0
-geopy==2.4.1
-osmnx==1.9.4
-streamlit-folium==0.23.1
-scipy==1.14.1
-seaborn==0.13.2
+osmnx
+scikit-learn
+folium
+streamlit
+streamlit-folium
+matplotlib
+geopandas
+networkx
